@@ -1,0 +1,769 @@
+id,titulo,descripcion,tipodepropiedad,direccion,ciudad,provincia,antiguedad,habitaciones,garages,banos,metroscubiertos,metrostotales,idzona,lat,lng,fecha,gimnasio,usosmultiples,piscina,escuelascercanas,centroscomercialescercanos,precio,prediction
+24071,"precioso departamento nuevo en tampico, planta baja.","tengo en venta, precioso y amplio departamento en zona norte tampico, consta de sala comedor, cocina, 2 recàmaras, 1 baño, incluye vitropiso y protecciones. 
+el precio es de $370 mil pesos o si lo desea con lujosa cocina integral y colset en $385 mil pesos.",Apartamento,novena avenida,Tampico,Tamaulipas,0.0,2.0,1.0,1.0,61.0,85.0,104532.0,,,2014-10-29 00:00:00,0.0,0.0,0.0,1.0,1.0,385000.0,438174.0307596923
+11508,"casa en venta en san pedro fernando, tampico, tamaulipas","excelente casa, buen ubicada, cuenta con tres recamaras, 2 1/2 baños, sala comedor, estancia, jardín trasero, espacios amplios, cochera para dos autos, requiere de algunos acabados y accesorios en cocina y baños. precio a tratar. lona #152",Casa,Calle B,Tampico,Tamaulipas,5.0,3.0,2.0,2.0,233.0,200.0,104490.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,1300000.0,2247358.6823754967
+235701,amplia casa con patio muy cerca del iest,"<p>amplia casa con patio muy cerca del iest, consta de tres recamaras, sala, comedor, cocina, cochera doble, area de t.v., estudio, cuarto de servicio, cuarto de lavado y patio.</p>",Casa,,Altamira,Tamaulipas,0.0,3.0,2.0,2.0,220.0,200.0,356265.0,,,2013-10-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1200000.0,2110617.9819626743
+143719,casa en venta en guadalupe,"-- rcv --    excelente casa en privada tranquila y segura, cuenta con port&oacute;n el&eacute;ctrico, interfon, preparaciones para secadora y lavadora. cuenta con 3 recamaras, 2.5 ba&ntilde;os, sala, comedor, cocina integral, cochera para 2 autos, excelentes acabados, un sistema hidroneumatico y de filtraci&oacute;n de agua.",Casa,Privada Merida .,Tampico,Tamaulipas,6.0,3.0,2.0,2.0,248.0,224.0,104450.0,,,2015-05-26 00:00:00,0.0,0.0,0.0,0.0,0.0,3100000.0,2405136.413621061
+178307,casa en venta en felipe carrillo puerto,"-- hcv --    oficinas y casa habitaci&oacute;n en excelente ubicaci&oacute;n, oportunidad de crecimiento, cuenta con 564.21m2&nbsp;de terreno y 174m2&nbsp;de construcci&oacute;n. &iexcl;buena oportunidad! lona #58.",Casa,Morelia .,Ciudad Madero,Tamaulipas,0.0,3.0,0.0,2.0,174.0,,104638.0,,,2015-11-12 00:00:00,0.0,0.0,0.0,0.0,0.0,2200000.0,1626766.2728096102
+215176,casa en venta en niños héroes,"excelente oportunidad ! 
+casa sola en super buena ubicacion, no lo pienses mas hablamos, te llevamos a verla!!!!",Casa,Curva TX S/N S/N,Tampico,Tamaulipas,4.0,2.0,2.0,2.0,95.0,90.0,104600.0,,,2012-04-24 00:00:00,0.0,0.0,0.0,1.0,1.0,565000.0,795803.5549163048
+29841,casa en venta en el mante,"nocnok id: mx14-aw1139. la vivienda se encuentra en el lote: 1; manzana: 30
+** el precio puede variar**",Casa,,El Mante,Tamaulipas,,4.0,,3.0,311.0,185.0,105199.0,22.740961,-98.954676,2016-01-05 00:00:00,0.0,0.0,0.0,0.0,0.0,924000.0,3067802.8848524312
+123852,terreno en el moralillo,<p>excelente terreno con 9 mts de frente con río panuco </p>,Casa,,Tampico,Tamaulipas,0.0,,0.0,1.0,375.0,346.0,104514.0,22.223331,-97.91137700000002,2014-01-12 00:00:00,0.0,0.0,0.0,0.0,0.0,3700000.0,3740987.871500172
+156817,amplia casa con finos acabados muy cerca del iest,"<p>amplia casa con finos acabados muy cerca del iest, consta de dos recamaras, cada una con baño completo, sala, comedor, cocina y cochera. cuenta con closets, cocina integral y preparacion para minisplit</p>",Casa,,Altamira,Tamaulipas,,2.0,1.0,2.0,135.0,107.0,,,,2015-01-10 00:00:00,0.0,0.0,0.0,0.0,0.0,890000.0,1216544.171571143
+158277,casa loma del palmar en venta,"<p>cochera para dos carros. planta baja: recibidor, sala-comedor, ½ baño, cocina integral, cuarto de servicio, área de tendido. planta alta: salita de television, 3 recamaras (la principal con baño vestidor y dos con baño y closet). </p>",Casa en condominio,,Tampico,Tamaulipas,0.0,3.0,2.0,3.0,139.0,192.0,104433.0,22.2666454,-97.87079949999998,2013-10-17 00:00:00,0.0,0.0,0.0,0.0,0.0,2540000.0,1258618.2332366267
+185127,casa escuadrón,<p>bonita casa con 2 recámaras. 3 baños completos. patio trasero con jardín y cuarto de huéspedes. cochera para 1 auto.</p>,Casa,,Tampico,Tamaulipas,0.0,2.0,0.0,3.0,280.0,375.0,104556.0,22.283779062186518,-97.86874495446682,2013-10-26 00:00:00,0.0,0.0,0.0,0.0,0.0,2220000.0,2741728.9069449315
+96381,"casa en venta en sierra morena, tampico, tamaulipas","excelente oportunidad cerca de ave hidalgo. cuenta con 4 recamaras, 2 baños, cochera para 2 autos, cuarto de servicio y cuarto de tv. zona segura y con vigilancia.",Casa,Río Mante,Tampico,Tamaulipas,40.0,4.0,2.0,2.0,178.0,295.0,104489.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,2300000.0,1668840.334475094
+10862,departamento josé antonio torres,"bonito departamento bien ubicado, remodelado en segundo piso, cerca de la alberca de puertas coloradas y de transporte. consta de sala, comedor, cocina integral minimalista con granito, parrilla eléctrica, horno, 1 recámara, 1 baño y lavandería.",Apartamento,,Tampico,Tamaulipas,3.0,1.0,1.0,1.0,51.0,,104541.0,22.3005,-97.8919,2016-05-26 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,332988.8765959827
+90554,,"bonita casa en privada de 6 casas siendo la casa del fondo. cuenta con 3 recámaras, a/c, 1 baño y medio y cochera para 1 auto.",Casa,Guerrero,Ciudad Madero,Tamaulipas,0.0,3.0,1.0,1.0,129.0,93.0,104629.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,1350000.0,1153433.0790729173
+60277,amplia y comoda residencia con excelente ubicacion,"<p>amplia y comoda residencia con excelente ubicacion, consta de tres recamaras, la principal con baño, amplio cuarto de t.v., sala, comedor, cocina, cuarto de servicio, area de lavado y cochera doble. se encuentra con rejas, porton metalico, bardas altas y ubicada en lado sombra.</p>",Casa,,Ciudad Madero,Tamaulipas,,3.0,2.0,2.0,260.0,175.0,104670.0,,,2015-01-15 00:00:00,0.0,0.0,0.0,0.0,0.0,1600000.0,2531358.5986175123
+273449,casa residencial en venta loma bonita,"<p>hermosa casa en increíble fraccionamiento consta de 2 plantas, acabados de lujo, 3 recamaras con baño casa una y vestidor, área de estudio/oficina, cocina integral con área de lavado, un amplio patio con jardinera y cuarto de servicio, cochera techada para 2 autos.
+</p><p>propiedad sin alianza
+</p><p>
+</p><p>
+</p><p> 
+</p><p>tel:(833)
+</p><p>
+</p><p>a-sp58</p><p>otras características:</p><p>espacios para autos: 2, tipo de terreno: plano, vigilancia: si, </p>",Casa,Geranio Norte,Tampico,Tamaulipas,5.0,3.0,,4.0,314.0,312.0,122845.0,22.2640054,-97.86494700000004,2016-10-20 00:00:00,1.0,0.0,0.0,1.0,0.0,5500000.0,3099358.431101544
+234690,casa totalmente nueva en col. luna luna,"<p>casa bien ubicada por la calle principal, con acabados modernos.
+</p><p>consta de :sla, comedor, cocina, 3 recamaras, 1 1/2 baños, terraza para area recreativa,area de servicio, jardin interior pequeño, cochera con espacio para un auto con porton.</p>",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,1.0,1.0,140.0,75.0,122885.0,22.2900902,-97.8437788,2013-12-18 00:00:00,0.0,0.0,0.0,0.0,0.0,940000.0,1269136.748652998
+26633,"departamentos universidad 2 recamaras, bien ubicados","<p>departamentos nuevos, sala, comedor, cocina integral con despensa, 2 recámaras con amplios closets, 2 baños completos con cancel, cuarto de lavado con preparacion para lavadora y secadora, boiler, preparaciones para minisplit, preparaciones ocultas de tv cable, telefono, timbre, estacionamiento, caseta con vigilante, excelente ubicación.</p>departamentos nuevos, amplios, cerca de la universidad, excelente ubicación.",Apartamento,,Tampico,Tamaulipas,0.0,2.0,,2.0,112.0,,104554.0,,,2013-11-21 00:00:00,0.0,0.0,0.0,0.0,0.0,1130000.0,974618.316994611
+282752,venta de casa en tampico fracc. jardines de champayan jazmín (1),"<p>conjunto de tres casa habitación independientes en régimen de condominio, de dos pisos. cada una con áreas privadas, cada casa da a la calle por lo que tienen acceso independiente. vivienda media
+</p><p>hermosa casa de dos pisos y estacionamiento para 1 automóvil. la planta baja se integra por sala, comedor, cocina, medio baño, patio de servicio. 
+</p><p>segunda planta: pasillo de distribución, 2 recámaras y baño general.
+</p><p>
+</p><p>ll041
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,2.0,1.0,1.0,90.0,84.0,,22.3139281,-97.89217250000002,2014-09-29 00:00:00,0.0,0.0,0.0,0.0,0.0,560000.0,743210.97783445
+10830,casa en venta en tamaulipas,-- hcv267e-285 --    casa amplia con decoraci&oacute;n cl&aacute;sica y fresca con detalles en piedra laja y amplio patio. cuenta con cuarto de servicio en el patio trasero.,Casa,Soto la Marina .,Tampico,Tamaulipas,5.0,5.0,2.0,4.0,294.0,,104425.0,,,2016-01-13 00:00:00,0.0,0.0,0.0,0.0,0.0,2200000.0,2888988.1227741246
+88280,"ex4073 departamento en venta, col. universidad poniente en tampico","<p>confortable departamento residencial con vista panorámica 
+</p><p>
+</p><p>3 recamaras, 1 baño y medio
+</p><p>
+</p><p>sala, comedor y cocina integral
+</p><p>
+</p><p>cuarto de servicio 
+</p><p>
+</p><p>cochera techada para un auto
+</p><p>
+</p><p>alberca, salón de eventos y asadores en condominio
+</p><p>
+</p><p>equipado con minisplits, persianas y boiler
+</p><p>
+</p><p>prourbe bienes raíces </p>",Apartamento,,Tampico,Tamaulipas,0.0,3.0,1.0,1.0,110.0,120.0,104554.0,,,2013-11-16 00:00:00,0.0,0.0,0.0,0.0,0.0,800000.0,953581.2861618692
+223873,casa en venta en reynosa,"casa en venta en fracc villa florida. 1 habitaciones, 1 baños, 102m2 terreno, 80m2 construcción. nocnok id: mx15-bd7638.",Casa en condominio,,Reynosa,Tamaulipas,,1.0,,1.0,80.0,102.0,104021.0,26.063604,-98.381574,2015-10-27 00:00:00,0.0,0.0,0.0,0.0,0.0,419000.0,638025.8236707404
+209273,venta de casa en altamira col. lomas del real calle corregidora,"<p>amplia y fresca casa en altamira, con opción a crecimiento y remodelacion. la casa cuenta con 2 recámaras en planta alta y en planta baja área de sala y comedor, medio baños, barra desayunadora. cochera para 2 o 3 autos. cuenta con un amplio patio (100 mts ). 
+</p><p>
+</p><p>  
+</p><p>tel:
+</p><p>
+</p><p>a-cb17</p><p>otras características:</p><p>espacios para autos: 3, </p>",Casa,Corregidora,Altamira,Tamaulipas,5.0,2.0,,1.0,100.0,199.0,104978.0,22.5194444,-97.8994444,2016-12-13 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,848396.1319981596
+80141,casa en venta en revolución verde,"-- hcv588e-285 --    bonita casa con buena ubicaci&oacute;n y distribuci&oacute;n. cuenta con 3 recamaras amplias y 1 recamara en planta baja, 2 ba&ntilde;os completos. tambi&eacute;n cuenta con cl&oacute;sets, el de la recamara en planta baja es de cedro, as&iacute; tambi&eacute;n como el barandal de las escaleras. &nbsp;estudio, alacenas y bodega, cuarto de lavado y terraza. se localiza cerca de escuelas y tranportes publicos. no pierdas la oportunidad de conocerla!!!",Casa,Desarrollo Urbano .,Tampico,Tamaulipas,15.0,3.0,,2.0,258.0,160.0,104520.0,,,2015-04-22 00:00:00,0.0,0.0,0.0,0.0,0.0,1100000.0,2510321.5677847704
+298977,nueva y moderna con amplios espacios cerca de unidad deportiva madero,"<p>nueva y moderna con amplios espacios cerca de unidad deportiva cd. madero, consta de dos recamaras, sala, comedor, cocina, cochera techada y patio de servicio. tiene proyeccion a crecer una tercer recamara en la parte superior de la cochera.</p><p>otras características:</p><p>espacios para autos: 1, </p>",Casa,sssss,Ciudad Madero,Tamaulipas,4.0,2.0,,1.0,113.0,100.0,104707.0,,,2016-03-09 00:00:00,1.0,0.0,0.0,1.0,0.0,650000.0,985136.832410982
+98443,"ex4024 casa en venta, col. guadalupe en tampico","<p>casa de 2 niveles
+</p><p>
+</p><p>excelente ubicacion en la col. guadalupe
+</p><p>
+</p><p>sala, comedor y cocina integral 
+</p><p>
+</p><p>3 recamaras, la principal con baño, las otras 2 recamaras comparten baño
+</p><p>
+</p><p>cochera techada para un auto
+</p><p>
+</p><p>prourbe bienes raíces </p>",Casa,,Tampico,Tamaulipas,0.0,3.0,1.0,2.0,149.0,112.0,104450.0,,,2013-09-26 00:00:00,0.0,0.0,0.0,0.0,0.0,1500000.0,1363803.3874003366
+109358,venta de casa nueva en tampico col. enrique cárdenas calle garcía rendón,"<p>excelente casa nueva. sala, comedor, cocina, 3 recámaras, principal con baño total. 32 metros de jardín, área de lavado, cochera para 2 autos, 1 con techo. vivienda media
+</p><p>
+</p><p>v-077
+</p><p>ll057
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,3.0,2.0,2.0,124.0,126.0,,22.306138965335208,-97.85467278219583,2014-11-11 00:00:00,0.0,0.0,0.0,0.0,0.0,850000.0,1100840.5019910624
+152731,casa en amplio terreno en esquina en la col. tamaulipas,"<p>casa en amplio terreno en esquina en la col. tamaulipas, consta de sala, comedor, cocina, dos recamaras y un baño completo.</p>",Casa,,Tampico,Tamaulipas,,2.0,3.0,1.0,164.0,297.0,104425.0,22.23155548299871,-97.84297925227293,2014-12-17 00:00:00,0.0,0.0,0.0,0.0,0.0,850000.0,1521581.1186459009
+1789,casa en venta en matamoros,"nocnok id: mx14-av2848. la vivienda se encuentra en el lote: 41; manzana: 15
+
+precio no negociable",Casa,,Matamoros,Tamaulipas,,3.0,,2.0,140.0,200.0,102935.0,25.861512,-97.455384,2015-09-01 00:00:00,0.0,0.0,0.0,0.0,0.0,695000.0,1269136.748652998
+289405,bonita casa en joyas de miramopolis,"<p>bonita casa en joyas de miramapolis. cuenta con 2 recamaras con clima, 1.5 baños, patio, cochera y posibilidad de crecimiento. </p><p>otras características:</p><p>espacios para autos: 1.<br></p>",Casa,Bahia de Zihuatanejo,Ciudad Madero,Tamaulipas,10.0,2.0,,1.0,64.0,84.0,104668.0,22.2919172,-97.82338319999997,2016-07-30 00:00:00,0.0,0.0,0.0,1.0,0.0,540000.0,469729.5770088051
+267074,"casa en venta en tampico, tamaulipas","excelente casa remodelada en venta, lista pata habitar, de 2 pisos, 2 recamaras y una salita de tv, sala comedor y cocina.",Casa,Palma Areca,Tampico,Tamaulipas,20.0,2.0,1.0,1.0,55.0,68.0,,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,730000.0,375062.93826146657
+287948,,"-- hav --    excelente departamento en segundo piso, ubicado en fraccionamiento los lirios. consta de 2 rec&aacute;maras, sala, comedor, cocina y 1.5 ba&ntilde;os.",Apartamento,Jimenez .,Ciudad Madero,Tamaulipas,0.0,2.0,1.0,1.0,92.0,,104730.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,560000.0,764248.0086671918
+119326,casa en venta en ciudad madero,"casa funcional,consta de sala comedor, cocina, y una recamara con closet en la planta baja, y baño entero. otra habitacion que puede emplearse como desayunador, oficina u otra recamara, bodega y área de lavadotechado con patio y boiler. planta alta cuenta con 1 recamara con closets y terraza cerrada con herrerí­a así­ como área de tv. toda la casa cuenta con protección de herrerí­a y tiene cochera para 2 autos.",Casa,Venustiano Carranza,Ciudad Madero,Tamaulipas,0.0,3.0,2.0,2.0,76.0,101.0,,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,590000.0,595951.7620052566
+143391,casa en venta col. san antonio,"<p>oportunidad de comprar linda casa nueva con funcionales espacios, cuenta en planta baja con sala, comedor y cocina. en planta alta consta de 3 recamaras, la principal con baño propio y las otras compartiendo baño. cochera para dos autos.
+</p><p>
+</p><p>a-ab28
+</p><p>
+</p><p>  
+</p><p>tel:</p><p>otras características:</p><p>espacios para autos: 2, </p>",Casa,Cerro del Bernal 119,Tampico,Tamaulipas,2.0,3.0,,2.0,145.0,98.0,104568.0,22.296356557337827,-97.88565120536077,2016-12-02 00:00:00,0.0,0.0,0.0,0.0,0.0,870000.0,1321729.3257348523
+225909,casas nuevas de dos pisos con acabados modernos,"<p>casas totalmente nuevas de dos pisos ubicadas en col. laguna de la puerta.
+</p><p>consta de 3 recamaras con closet, 2 1/2 baños, sala- comedor , cocina integral, piso de porcelinato. </p>",Casa,,Tampico,Tamaulipas,0.0,3.0,0.0,2.0,140.0,150.0,104519.0,15.847974168868866,-87.94566822078195,2013-12-18 00:00:00,0.0,0.0,0.0,0.0,0.0,1150000.0,1269136.748652998
+46493,casa residencial en remate miramapolis,"<p>oportunidad de casa en venta, para remodelar o ampliar a tu gusto, bien ubicada, con fáciles accesos a transporte publico y cerca de tienda de autoservicio.
+</p><p>no dejes pasar la oportunidad de adquirir un nuevo patrimonio el cual puedes obtener a muy bajo precio!
+</p><p>
+</p><p>esta propiedad en especial se requiere hacer cita con 48 hrs. de anticipacion!.
+</p><p>p.c.
+</p><p>
+</p><p> 
+</p><p>tel:(833)
+</p><p>
+</p><p>a-cr80</p><p>otras características:</p><p>tipo de terreno: plano, </p>",Casa,Circuito Tamaulipeco,Ciudad Madero,Tamaulipas,5.0,2.0,,1.0,74.0,84.0,104661.0,22.292951925115123,-97.82337996071873,2016-08-30 00:00:00,0.0,0.0,0.0,0.0,0.0,460000.0,574914.7311725147
+15094,venta de casa nueva en cd. madero col. revolución verde calle reforma (5),"<p>casa nueva en venta en cd. madero, se encuentra en zona alta, patio amplio y muy funcional, con opción a una tercer recámara con baño adentro y techar cochera. vivienda media.
+</p><p>
+</p><p>  
+</p><p>tel: (833) 
+</p><p>
+</p><p>a-zh31</p><p>otras características:</p><p>espacios para autos: 2, </p>",Casa,Reforma,Ciudad Madero,Tamaulipas,2.0,2.0,,1.0,99.0,96.0,104698.0,22.3222037,-97.85213979999996,2016-12-17 00:00:00,0.0,0.0,0.0,0.0,0.0,640000.0,837877.6165817885
+191151,casa en venta en bonanza residencial,"casa en venta en bonanza residencial. 3 habitaciones, 2 baños, 144m2 terreno, 89m2 construcción. nocnok id: mx16-bv2268.",Casa,GALEANA #51,Nuevo Laredo,Tamaulipas,,3.0,,2.0,89.0,144.0,,,,2016-06-15 00:00:00,0.0,0.0,0.0,0.0,0.0,518068.0,732692.462418079
+126058,casa en venta en victoria,"-- hcv --    casa en venta de dos plantas, cuenta con dos recamaras con clima y closet, sala, comedor, cocineta, refrigerador, frigobar, lavadora, etc. en la planta de arriba cuenta cnon una caba&ntilde;a tipo suite con minisplit, televisi&oacute;n e hidromasaje.",Casa,Fco. Villa Fracc. Santa Maria .,Victoria,Tamaulipas,0.0,2.0,2.0,2.0,100.0,150.0,,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,861000.0,848396.1319981596
+15950,casa en venta en 15 de mayo,"-- hcv787e-285 --    casa muy amplia con cochera. se encuentra en una zona urbanizada, calle pavimentada, todos los servicios y luz 220.",Casa,Rio Cazones .,Ciudad Madero,Tamaulipas,14.0,3.0,1.0,2.0,192.0,120.0,104703.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,580000.0,1816099.5503042876
+258853,"ex3942 casa de un piso con departamento, fracc. country club ","<p>comoda casa de un piso con departamento independiente
+</p><p>
+</p><p>en exclusivo fraccionamiento en la zona dorada de tampico
+</p><p>
+</p><p>casa de un piso, con 2 recamaras y 2 baños
+</p><p>
+</p><p>sala, comedor y cocina integral
+</p><p>
+</p><p>estacionamiento para 2 autos
+</p><p>
+</p><p>el departamento esta en planta alta, con una superficie de 62 m2, una recamara, sala, comedor y cocina integral
+</p><p>
+</p><p>magnifica inversión, muy cerca de la laguna del chairel
+</p><p>
+</p><p>prourbe bienes raíces 
+</p><p></p>",Casa,,Tampico,Tamaulipas,0.0,2.0,2.0,2.0,144.0,189.0,104491.0,,,2013-09-26 00:00:00,0.0,0.0,0.0,0.0,0.0,3000000.0,1311210.8103184816
+36718,"casa en venta en unidad modelo, tampico, tamaulipas","bonita casa en muy buenas condiciones, cuenta con tres recamaras, 2 1/2 baños, en el sotano cuenta con una habitacion extra que pudiera ser una 4ta. o como estudio o cuarto de juegos.",Casa,Capricornio,Tampico,Tamaulipas,10.0,3.0,1.0,2.0,240.0,160.0,104613.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,0.0,0.0,1400000.0,2320988.290290093
+214930,"ex2803 casa en venta, col. laguna de la puerta en tampico","<p>casa nueva
+</p><p>
+</p><p>3 recamaras, 1 baño y medio
+</p><p>
+</p><p>sala, comedor y cocina con desayunador
+</p><p>
+</p><p>área de lavado
+</p><p>
+</p><p>estacionamiento para un auto
+</p><p>
+</p><p>prourbe bienes raíces </p>",Casa,,Tampico,Tamaulipas,0.0,3.0,1.0,1.0,103.0,102.0,104519.0,,,2013-09-22 00:00:00,0.0,0.0,0.0,0.0,0.0,870000.0,879951.6782472724
+211025,"casa en venta, reserva territorial campestre codigo postal 88655","oportunidad en territorial campestre cerca de blvd. hidalgo, centros comerciales, escuelas, parques muy espaciosa, estacionamiento hasta para 2 autos con amplio terreno remodelada",Casa,Olmo,Reynosa,Tamaulipas,4.0,2.0,2.0,1.0,90.0,144.0,103930.0,,,2016-05-04 00:00:00,1.0,1.0,0.0,1.0,1.0,490000.0,743210.97783445
+125448,"remate hipotecario. nuevo laredo, tamps.    id 3923","empresa dedicada a los   ante notario y registro público tiene grandes oportunidades para ti desde un 50-70% debajo de su avalúo, cesiones de derechos con garantia hipotecaria en buenas condiciones en venta únicamente de contado no creditos. si no sabes que es un remate hipotecario no te preocupes nosotros te explicamos. inversión segura, pago de contado. 
+
+* las imágenes y descripción aquí presentadas pueden no representar con exactitud la realidad por tener diferencias en relación con la numeración, ubicación y superficies.  (r) no es inmobiliaria sino media derechos crediticios litigiosos y/o adjudicatarios.",Casa,Galeana,Nuevo Laredo,Tamaulipas,5.0,3.0,1.0,1.0,90.0,144.0,103635.0,,,2016-11-27 00:00:00,0.0,0.0,0.0,0.0,0.0,758279.0,743210.97783445
+195492,"casa en venta, tampico, tamaulipas","excelentes acabados, espacios amplios, cuenta con desayunador separado, cerca de la avenida principal que comunica al norte de la ciudad para accesar al puerto industrial o a la ciudad de altamira, ideal para oficinas o negocio ya que cuenta con una bodega; o para constructores por su dimension se puede utilizar para construir casas; facil acceso al centro de madero o a la avenida que comunica para llegar al centro de tampico.",Casa,,Tampico,Tamaulipas,11.0,3.0,2.0,3.0,81.0,,104517.0,22.304082,-97.855109,2015-06-09 00:00:00,0.0,0.0,0.0,0.0,0.0,1575000.0,648544.3390871114
+290668,departamento en en venta en tampico col. mainero calle isauro alfaro,"<p>2 recamaras ,1 baño, 1 cajón de estacionamiento, 1er piso, sala comedor, cocina con barra, instalaciones para minisplit, tinaco, terraza en lado sombra. 
+</p><p>no se expide recibo fiscal.
+</p><p>dos departamentos.
+</p><p>vr007
+</p><p>  
+</p><p>tel: (833) </p>",Apartamento,,Tampico,Tamaulipas,,2.0,1.0,1.0,90.0,87.0,,22.221920321082802,-97.84945651888849,2014-09-29 00:00:00,0.0,0.0,0.0,0.0,0.0,620000.0,743210.97783445
+132507,"ex3890 casa en venta, fracc. floresta en altamira","<p>bella casa
+</p><p>
+</p><p>en excelentes condiciones
+</p><p>
+</p><p>totalmente equipada
+</p><p>
+</p><p>3 recamaras, 2 baños y medio
+</p><p>
+</p><p>sala, comedor y cocina integral
+</p><p>
+</p><p>cochera techada para un auto
+</p><p>
+</p><p>alberca en condominio
+</p><p>
+</p><p>prourbe bienes raíces </p>",Casa,,Altamira,Tamaulipas,0.0,3.0,1.0,2.0,126.0,122.0,122966.0,,,2013-09-27 00:00:00,0.0,0.0,0.0,0.0,0.0,1100000.0,1121877.5328238043
+262315,,casa en venta en zona residencial con excelente ubicación.,Casa,México,Tampico,Tamaulipas,0.0,3.0,2.0,3.0,294.0,201.0,104444.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,3200000.0,2888988.1227741246
+125424,casa en venta en allende tamaulipas,"<p>excelente oporunidad para vivir en un entorno muy tranquilo, no puede dejar pasar esta oportunidad</p>",Casa,Privada Bustamante,Tampico,Tamaulipas,0.0,2.0,1.0,1.0,140.0,140.0,104454.0,22.247225600000004,-97.8582666,2014-05-12 00:00:00,0.0,0.0,0.0,0.0,0.0,1200000.0,1269136.748652998
+53309,preventa de departamentos sor juana ines de la cruz,"<p>funcionales departamentos situados de lado sombra, cuentan con recamara principal y baño privado, dos recamaras secundarias que comparten baño. sala comedor, cocina con barra, area de lavado adjunta, un cajón de estacionamiento en sombra, portón automatizado en la entrada y acceso peatonal.
+</p><p>
+</p><p>su ubicación es privilegiada, a pocas cuadras del blvd. perimetral así como del primer cuadro de la ciudad de tampico.
+</p><p>
+</p><p> 
+</p><p>
+</p><p>a-aj80</p><p>otras características:</p><p>espacios para autos: 1, </p>",Apartamento,Sor Juana Ines de la Cruz,Tampico,Tamaulipas,0.0,3.0,,2.0,90.0,91.0,104423.0,22.22075644266086,-97.85793172017212,2016-11-12 00:00:00,0.0,0.0,0.0,0.0,0.0,815000.0,743210.97783445
+169826,venta de casas nuevas en tampico col. enrique cárdenas  en av. palafox (5),"<p>excelente conjunto de casa nuevas, listas para habitar sala-comedor, ventanal con salida a pequeño jardín, cocina, con gabinetes de madera 2 recámaras con closet 1 1/2 baños, closet de blancos, área de lavado, cochera para 1 carro. vivienda media
+</p><p>v102 v097
+</p><p>ll160
+</p><p>  
+</p><p>tel: (833) 
+</p><p>
+</p><p>a-zh31</p><p>otras características:</p><p>espacios para autos: 1, tipo de terreno: plano, </p>",Casa,Av. Palafox,Tampico,Tamaulipas,2.0,2.0,,1.0,62.0,76.0,104517.0,22.3073848,-97.8491573,2016-12-08 00:00:00,1.0,0.0,0.0,1.0,0.0,475000.0,448692.54617606325
+195873,"ex3898 casa de un piso en venta, col. altavista en tampico","<p>casa de un piso
+</p><p>
+</p><p>4 recamaras, 2 baños y medio
+</p><p>
+</p><p>sala, comedor y cocina integral
+</p><p>
+</p><p>sala de tv
+</p><p>
+</p><p>cochera techada para 2 autos
+</p><p>
+</p><p>amplio patio
+</p><p>
+</p><p>equipada con climas
+</p><p>
+</p><p>prourbe bienes raíces </p>",Casa,,Tampico,Tamaulipas,0.0,4.0,2.0,2.0,398.0,,104498.0,,,2013-09-27 00:00:00,0.0,0.0,0.0,0.0,0.0,3725000.0,3982913.7260767044
+102,departamento en venta en altamira,"-- hav1342e-285 --    bonito departamento, equipado con climas, persianas blackout, cocineta con protecciones, muy seguro. &iexcl;ven a conocerlo!",Apartamento,Laguna Salada .,Altamira,Tamaulipas,5.0,2.0,1.0,1.0,46.0,,,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,400000.0,280396.2995141279
+257149,"ex3393 departamento en venta, fracc. arcangeles en tampico","departamento de lujo
+
+3 recamaras, 2 baños
+
+sala, comedor y cocina integral
+
+acabados de primera en todas sus areas
+
+zona con alta plusvalia
+
+estacionamiento para 2 autos
+
+prourbe bienes raices ",Apartamento,,Tampico,Tamaulipas,0.0,3.0,2.0,2.0,172.0,159.0,104441.0,,,2013-03-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1700000.0,1605729.2419768684
+274663,"casa en venta en unidad nacional, ciudad madero, tamaulipas","preciosas casas en condominio listas para estrenar!.  con amplios espacios y acabados de lujo.  toda la madera es de cedro, con cocina integral moderna muy amplia. ideal para familias que les guste gozar de seguridad, comodidad y funcionalidad en un ambiente acogedor. cuenta con 3 recámaras cada una con su baño, sala de tv, terracitas, bodega, cuarto de servicio independiente, patio de tendido, jardín, cochera para 2 coches y portón eléctrico.  cerca de avenidas principales, centros comerciales, etc.",Casa,Guerrero,Ciudad Madero,Tamaulipas,1.0,3.0,2.0,3.0,258.0,171.0,104629.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,0.0,0.0,2450000.0,2510321.5677847704
+189880, en venta en tampico,"nocnok id: mx15-bj8007.  habitacion en buena ubicación, a unos metros de blvd. lopez mateos, la propiedad va de calle estrella a privada estrella, tiene 12 metros de frente por 32 de fondo. a dos minutos del centro de tampico. estátus jurídico: libre de gravamen.",Casa,,Tampico,Tamaulipas,,3.0,2.0,3.0,311.0,372.0,104427.0,22.218283,-97.852139,2016-07-03 00:00:00,0.0,0.0,0.0,0.0,0.0,1000000.0,3067802.8848524312
+165251,casa en col. delfino resendiz buena ubicacion,"<p>casa en col. delfino resendiz (polvorin). cuenta en pl. baja con sala, comedor, cocina integral, 1 baño y una recamara. en pl. alta 2 recamaras mas y otro baño. cerca de av. monterrey. con posibilidad de crecimiento a futuro</p>",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,1.0,2.0,120.0,157.0,104728.0,,,2014-01-24 00:00:00,0.0,0.0,0.0,0.0,0.0,900000.0,1058766.4403255787
+274942,venta de casa  col. estadio,"<p>casa con excelente ubicación, muy amplia. cuenta con 4 recámaras, 3 baños, cuarto de servicio, cuarto de lavado, área de t.v., jardín y área de asador.
+</p><p>
+</p><p>lugares cercanos: estadio tamaulipas, av. jalisco y fracc. villa verde.
+</p><p>
+</p><p>v-223
+</p><p>
+</p><p>ll123
+</p><p>
+</p><p>  
+</p><p>tel: (833) 
+</p><p>a-ab28</p><p>otras características:</p><p>espacios para autos: 2, tipo de terreno: plano, vigilancia: si, </p>",Casa,estadio,Ciudad Madero,Tamaulipas,5.0,4.0,,3.0,350.0,292.0,104634.0,22.2812585,-97.8533385,2016-06-06 00:00:00,1.0,0.0,0.0,1.0,0.0,2500000.0,3478024.9860908985
+135586,"venta de casa con terreno, av. pasito 1050m2 de terreno código postal 88656","venta de casa con terreno, av pasito por el campo de béisbol , atrás de las quintas con una construcción de 50m2 de dos plantas y un extenso terreno de 1050m2 cuenta 2 recamaras y 1 baño gran oportunidad!.",Casa,Avenida El Pasito,Reynosa,Tamaulipas,5.0,2.0,0.0,1.0,50.0,,104001.0,26.07634,-98.33317799999998,2016-10-10 00:00:00,0.0,0.0,0.0,1.0,1.0,900000.0,322470.36117961176
+275613,"casa en venta en arboledas, altamira, tamaulipas","bonita casa, cuenta con 2 recamaras, baño y medio, sala comedor, cocina, boiler, cochera pavimentada para 1 auto. lona #643",Casa,C-5 Quinta,Altamira,Tamaulipas,5.0,2.0,1.0,1.0,71.0,68.0,104831.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,400000.0,543359.1849234018
+283518,hermosa casa en pre-venta.,"hermosa casa en pre-venta. cuenta con 3 recámaras, la principal con baño, sala, comedor, cocina, cochera doble, área de lavado y patio.",Casa,16 de Septiembre,Ciudad Madero,Tamaulipas,0.0,3.0,2.0,2.0,176.0,150.0,122882.0,,,2014-06-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1850000.0,1647803.303642352
+152938,casa faja de oro,"formidable casa en venta, en una de las zonas mas exclusivas de la ciudad, cuenta con 3 recamaras, 2.5 baños, closets y la principal con vestidor, sala, comedor, cocina, un pequeño patio, cuarto de servicio. la casa se encuentra en una pequeña privada. ¡aprovecha esta gran oportunidad!. ***proceso de venta***",Casa,,Tampico,Tamaulipas,1.0,3.0,,3.0,210.0,,,22.2608,-97.8683,2016-11-01 00:00:00,0.0,0.0,0.0,0.0,0.0,2290000.0,2005432.8277989645
+298190,casa en venta ,"bonita casa en venta, ubicada en loma bonita, cuenta con 3 recamaras, 1.5 baño, cochera doble, sala, comedor, cocina. tiene patio trasero",Casa,Francisco Villa ,Tampico,Tamaulipas,5.0,3.0,2.0,1.0,175.0,,104437.0,,,2016-05-09 00:00:00,0.0,0.0,0.0,1.0,0.0,1150000.0,1637284.7882259814
+81558,venta de departamento en planta baja ubicado en col. ampliación unidad nacional,"<p>excelente departamento en planta baja cerca de parques, consta de dos recamaras, sala, comedor, cocina integral, area de lavado y un baño.
+</p><p>
+</p><p> 
+</p><p>contacto: (833) 
+</p><p></p>",Apartamento,....,Ciudad Madero,Tamaulipas,1.0,2.0,,1.0,71.0,71.0,104670.0,22.2767722,-97.84300380000002,2016-07-30 00:00:00,0.0,0.0,0.0,0.0,0.0,480000.0,543359.1849234018
+159386,"ex3619 casa de un piso en venta, col. unidad nacional en cd. madero","<p>amplia y comoda casa de un piso
+</p><p>
+</p><p>en un gran terreno de 800 m2
+</p><p>
+</p><p>excelente estado de conservacion
+</p><p>
+</p><p>4 recamaras con baño cada una
+</p><p>
+</p><p>sala, comedor y cocina
+</p><p>
+</p><p>amplio jardín, bodega y área de lavado
+</p><p>
+</p><p>cuarto de servicio y cochera para 4 autos
+</p><p>
+</p><p>800 m2 de terreno y 330 m2 de construcción
+</p><p>
+</p><p>prourbe bienes raíces </p>",Casa,,Ciudad Madero,Tamaulipas,0.0,4.0,,4.0,339.0,,104629.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,3650000.0,3362321.316510818
+95098,venta de casa en tampico col. nuevo progreso,"<p>oportunidad de comprar una casa nueva cerca de avenida, excelente ubicación, cuenta con 3 amplias recamaras, 2 baños completos y 1 baño social, sala, comedor, cocina, cochera para 2 autos y jardín trasero.
+</p><p>
+</p><p>ll093
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,3.0,2.0,2.0,144.0,121.0,,22.30994942371601,-97.87604257464407,2015-07-09 00:00:00,0.0,0.0,0.0,0.0,0.0,1200000.0,1311210.8103184816
+271593,"ex4062 casa de un piso en venta, col. vergel en tampico","<p>céntrica casa a 20 metros de la avenida cuauhtemoc
+</p><p>
+</p><p>2 recamaras, 
+</p><p>
+</p><p>sala, comedor y cocina
+</p><p>
+</p><p>cimentación para un segundo nivel
+</p><p>
+</p><p>prourbe bienes raíces </p>",Casa,,Tampico,Tamaulipas,0.0,2.0,0.0,1.0,60.0,65.0,104468.0,,,2013-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,450000.0,427655.51534332125
+197219,,"residencia con excelentes acabados, casi toda en un nivel, solo el bar se encuentra en 2do nivel. está ubicada al final de una calle cerrada en una muy buena colonia, por lo que es una zona segura. extenso patio para fiestas, niños o mascotas.",Casa,Retorno Durango,Tampico,Tamaulipas,27.0,3.0,3.0,3.0,383.0,,104444.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,3800000.0,3825135.9948311397
+180553,venta de terreno residencial en cd. madero zona centro calle felipe carrillo puerto,"<p>atención inversionistas y empresas, interesados en adquirir un terreno dentro de una de las zonas comerciales mas importantes de cd. madero y con una ubicación excelente para cualquier negocio que quiera abarcar gran mercado de clientes potenciales. cuenta con una construcción de un piso la cual se encuentra en buenas condiciones y puede ser utilizada para los fines que convengan.
+</p><p>te invitamos a que te comuniques con nosotros y poder mostrarte esta gran oportunidad de negocio a futuro.
+</p><p>
+</p><p>v-192
+</p><p>ll177
+</p><p>
+</p><p>  
+</p><p>tel:
+</p><p>
+</p><p>a-mz12</p><p>otras características:</p><p>tipo de terreno: plano<br></p>",Casa,Republica de Chile,Ciudad Madero,Tamaulipas,5.0,2.0,,,182.0,182.0,104638.0,22.2541728861613,-97.83677445548295,2016-04-20 00:00:00,0.0,0.0,0.0,1.0,0.0,1000000.0,1710914.3961405777
+25715,venta de casa en cd. madero col. lucio blanco andador las lluvias,"<p>oportunidad de casa en venta de interés social en excelente ubicación y mucho patio para ampliarse a futuro volviéndola más funcional al gusto de acuerdo a las necesidades requeridas.
+</p><p>esta propiedad se encuentra en andador a sólo diez pasos de la calle principal y de las tres rutas de transporte público que circulan en esa zona muy transitada de cd, madero.
+</p><p>z-57
+</p><p>  
+</p><p>tel:
+</p><p>
+</p><p>a-mt22</p>",Casa,Andador las Lluvias,Ciudad Madero,Tamaulipas,4.0,4.0,,1.0,80.0,120.0,104738.0,22.268147446414968,-97.8381151640373,2016-06-07 00:00:00,0.0,0.0,0.0,0.0,0.0,695000.0,638025.8236707404
+40529,"departamento en venta en tampico, tamaulipas","modernos departamentos en zona tranquila, muy amplios cuentan con área común con pequeña alberca, área para bar, interfon y abanicos. lona #165",Apartamento,Juan de la Barrera,Tampico,Tamaulipas,3.0,2.0,2.0,2.0,121.0,,,,,2013-01-01 00:00:00,0.0,0.0,1.0,0.0,0.0,1150000.0,1069284.9557419494
+72703,casa en venta en victoria,"preciosa casa de estilo modernista, con vitropiso en toda la casa, puertas interiores de madera, y acabads interiores en yeso, exterior en estuco, situada a un costado del fraccionamiento el pedregal, al norte de la ciudad, muy cerca de escuelas. amplios espacios. llama sin compromiso, tramitamos tu credito infonavit totalmente gratis.
+
+informes con:
+sr. emilio ramirez
+
+
+",Casa,Esperanza M20 L448,Victoria,Tamaulipas,1.0,2.0,1.0,1.0,45.0,108.0,,23.781260637086874,-99.1640567779541,2012-03-15 00:00:00,0.0,0.0,0.0,1.0,0.0,325000.0,269877.78409775696
+142862,"casa en venta en enrique cárdenas gonzalez, tampico","casa muy amplia bien ubicada, a una cuadra de la avenida monterrey, cuenta con 6 recámaras, 3 1/2 baños, sala, comedor, cocina integral, bodega, cuarto de servicio, patio muy amplio y jardín en la parte de enfrente y atrás de la casa.
+toda la casa cuenta con protección y está bardeada.
+tiene muchos arboles frutales como: aguacate, durazno, coco, plátano, limón y mango, así como una extensa variedad de plantas como: palmas, arecas y kerpis; además cuenta con 1 pozo y cisterna de riego.
+¡no deje pasar esta oportunidad! ¡haga de esta casa su hogar para vivir tranquilo y cómodo rodeado de área verde y mucha sombra!
+numero de lona:031",Casa,Calle A,Tampico,Tamaulipas,8.0,6.0,2.0,3.0,192.0,414.0,104517.0,,,2012-11-06 00:00:00,0.0,0.0,0.0,1.0,0.0,1700000.0,1816099.5503042876
+262112,casa minorca,"preciosa casa estilo minimalista, muy tradicional, para familia que desea realmente disfrutar el hogar donde vive. se puede vender con muebles. ***proceso de venta***",Casa,,Altamira,Tamaulipas,7.0,3.0,2.0,3.0,118.0,287.0,,22.3401,-97.8858,2016-12-30 00:00:00,0.0,0.0,0.0,0.0,0.0,1400000.0,1037729.4094928367
+188227,venta de casa en altamira fracc. municipios libres,"<p>casa sola municipios libres tampico, casa sola en dos niveles con posibilidad de crecimiento, completamente con bardas al rededor, calle pavimentada a una cuadra. todos los servicios y fácil acceso a vías principales. transporte público a una cuadra. la casa tiene 1 año construida y cuenta con plano de construcción para futuras modificaciones. vivienda media
+</p><p>  
+</p><p>tel: (833) 
+</p><p></p>",Casa,,Altamira,Tamaulipas,,3.0,,1.0,124.0,128.0,104806.0,22.36570095600627,-97.884132117033,2014-12-08 00:00:00,0.0,0.0,0.0,0.0,0.0,470000.0,1100840.5019910624
+124149,"ex2380 departamento en venta, col. águila en tampico","<p>precioso departamento en col. aguila
+</p><p>
+</p><p>departamento de 2 niveles
+</p><p>
+</p><p>2 recamaras, 2 baños y medio.
+</p><p>
+</p><p>recibidor con doble altura y mucha iluminacion, sala-comedor y amplia cocina.
+</p><p>
+</p><p>cuarto de servicio y area de lavado
+</p><p>
+</p><p>amplio, muy iluminado y con acabados de lujo en todas sus areas.
+</p><p>
+</p><p>cochera techada para 1 auto.
+</p><p>
+</p><p>147 m2 de terreno y 285 m2 de construcción
+</p><p>
+</p><p>prourbe bienes raíces </p>",Apartamento,,Tampico,Tamaulipas,0.0,2.0,1.0,2.0,285.0,147.0,104496.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,2200000.0,2794321.4840267864
+160025," en venta en niños héroes, tampico","amplia, elegante, con vitropiso, consta de sala, comedor, cocina con barra desayunador, 1 1/2 baños, 2 recamaras amplias,  espacio para carro, area de lavado, opcion a crecer.
+
+excelente construcción base de concreto armado, con varillas de 3/8 y finos acabados 
+son de particular no son de desarrolladoras. 
+informes 
+
+
+tel. ",Casa,Tancol y montes de oca 500,Tampico,Tamaulipas,1.0,2.0,1.0,1.0,68.0,80.0,104600.0,22.3204373,-97.8828584,2012-08-08 00:00:00,0.0,0.0,0.0,1.0,1.0,560000.0,511803.638674289
+122525,buena casa en col. petrolera,"<p>casa en col. petrolera, consta de recibidor, sala comedor, cocina integral, 3 recamaras, la principal con baño y vestidor, otro baño y medio mas, patio, cochera doble con porton. muy bien ubicada. </p>",Casa,,Tampico,Tamaulipas,0.0,3.0,2.0,2.0,293.0,250.0,104444.0,,,2013-12-04 00:00:00,0.0,0.0,0.0,0.0,0.0,3200000.0,2878469.607357754
+115558,,"fraccionamiento villahermosa. excelentes casas ubicadas en una privada cerrada de 10 casas, cada casa es individual de 2 pisos, 2 recamaras. 1 1/2 baños. 1 cochera, sala, comedor, cocina y patio de servicio(lavanderia).
+distintos estilos desde  hasta .",Casa,Cuarta Avenida,Tampico,Tamaulipas,0.0,2.0,1.0,1.0,78.0,71.0,,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,561000.0,616988.7928379985
+133388,casa en venta en altamira fracc. arecas calle tule,"<p>bonita casa en altamira, muy cerca del itesm, recién acondicionada e impermeabilizada con rápido acceso al corredor industrial, en planta baja cuenta con sala-comedor, cocina con barra y medio baño, área de lavado amplia, cochera para un vehículo, en la planta alta se encuentran 2 recamaras y un baño completo. ubicada en el lado sombra lo que la vuelva muy fresca.
+</p><p>v-197
+</p><p>ll100
+</p><p>  
+</p><p>tel:
+</p><p>
+</p><p>a-hv93</p>",Casa,Tule,Altamira,Tamaulipas,,2.0,,1.0,78.0,72.0,104852.0,22.381914121464963,-97.90602180755545,2016-05-14 00:00:00,0.0,0.0,0.0,0.0,0.0,570000.0,616988.7928379985
+11922,"ex3887 casa en venta, col. la paz en tampico","casa nueva de 2 pisos
+
+2 recamaras, 1 baño y medio
+
+sala, comedor y cocina
+
+cochera para un auto
+
+amplio patio
+
+equipada con protecciones en las ventanas
+
+prourbe bienes raíces ",Casa,,Tampico,Tamaulipas,0.0,2.0,1.0,1.0,98.0,200.0,104540.0,,,2013-09-07 00:00:00,0.0,0.0,0.0,0.0,0.0,1000000.0,827359.1011654176
+101723,nueva y comoda casa con amplio patio muy cerca del iest,"<p>nueva y comoda casa con amplio patio muy cerca del iest, consta de dos recamaras, sala, comedor, cocina, patio y cochera para dos o tres autos.</p>",Casa,,Altamira,Tamaulipas,,2.0,2.0,1.0,84.0,125.0,104910.0,,,2015-01-10 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,680099.8853362242
+146087,,"magní­fica oportunidad! amplia y bonita casa en zona residencial. cuenta con cocina integral, desayunador, 3 recámaras, cochera para 2 autos, climatizada, linea telefónica. muy bien ubicada.",Casa,Hidalgo,Ciudad Madero,Tamaulipas,12.0,3.0,2.0,2.0,137.0,200.0,104629.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,1400000.0,1237581.2024038848
+282576,casa en venta en aztlan,la casa esta a unos metros de la prepa mujica cuenta con todos los servicion  excelente ubicacion,Casa,25 205,Reynosa,Tamaulipas,15.0,3.0,2.0,1.0,150.0,200.0,104075.0,,,2012-06-18 00:00:00,0.0,0.0,0.0,1.0,1.0,780000.0,1374321.9028167073
+23035,"ex3762 casa en venta, col. ricardo flores magon en cd. madero","<p>casa en muy buena ubicación
+</p><p>
+</p><p>cerca de avenidas comerciales, bancos, escuelas, etc.
+</p><p>
+</p><p>3 recamaras, la principal con baño y balcón
+</p><p>
+</p><p>sala, comedor y cocina
+</p><p>
+</p><p>área de lavado techada
+</p><p>
+</p><p>cochera techada para 2 autos
+</p><p>
+</p><p>prourbe bienes raíces 
+</p><p>
+</p><p>¿buscas inmueble? nosotros buscamos por ti, sin costo, para ahorrarte tiempo y esfuerzo, para que solo recibas información útil
+</p><p>
+</p><p>¿vendes tu inmueble? nosotros te asesoramos, promoción a través de distintos medios, calificación de prospectos. solo recibes visitas y propuestas serias.
+</p><p>
+</p><p></p>",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,2.0,2.0,131.0,100.0,104642.0,,,2013-09-27 00:00:00,0.0,0.0,0.0,0.0,0.0,1300000.0,1174470.1099056592
+52123,departamento en venta,"<p>excelente departamento en venta, cuenta con dos recamaras, sala, comedor, cocina, ba&ntilde;o y medio. con excelentes acabados y muy bien ubicados al frente del mercado norte y a unas cuantas cuadras de la avenida monterrey. &iexcl;ven y conocelos!</p>",Apartamento,,Ciudad Madero,Tamaulipas,1.0,2.0,,2.0,88.0,,104721.0,,,2016-05-26 00:00:00,0.0,0.0,0.0,0.0,0.0,750000.0,722173.9470017081
+269610,casa en venta,"casa habitación ubicada en fraccionamiento cerrado, 2 niveles, salsa comedor, cocina integral, 3 recamaras, closets, 2.5 baños, vestidor, cuarto de lavandería, aire acondicionado tipo mini split, patio y cochera eléctrica para 1 auto.",Casa,Bosque de Eucaliptos # 219,Nuevo Laredo,Tamaulipas,5.0,3.0,1.0,2.0,124.0,170.0,103707.0,27.4219975,-99.5385364,2016-12-07 00:00:00,0.0,0.0,0.0,1.0,1.0,1045000.0,1100840.5019910624
+198712,"ex2729 bodega en venta, col. la pedrera en altamira","<p>oficinas comerciales en esquina
+</p><p>
+</p><p>ubicadas cerca del puerto industrial de altamira
+</p><p>
+</p><p>sin restricción de transito de transporte pesado
+</p><p>
+</p><p>área de oficinas en dos niveles, con superficie aproximada de 110 m2
+</p><p>
+</p><p>bodega estructural con 6 metros de altura 
+</p><p>
+</p><p>patio de maniobras pavimentado
+</p><p>
+</p><p>portones para carga y descarga
+</p><p>
+</p><p>todos los servicios, protecciones y canceleria 
+</p><p>
+</p><p>prourbe bienes raíces </p>",Bodega comercial,,Altamira,Tamaulipas,0.0,,0.0,,250.0,400.0,122958.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,800000.0,2426173.444453803
+76151,casa en venta,"<p>casa en venta con excelente ubicaci&oacute;n cerca de la divisoria y juzgados, consta de 3 rec&aacute;maras, sala, comedor, cocina, antecomedro, cuarto de lavado, estacionamiento para dos veh&iacute;culos.</p>",Casa,,Tampico,Tamaulipas,8.0,3.0,,2.0,76.0,93.0,104590.0,22.321,-97.8882,2016-09-28 00:00:00,0.0,0.0,0.0,0.0,0.0,600000.0,595951.7620052566
+213774,"casa en venta en petrolera, tampico, tamaulipas","excelente casa con buena ubicación, lista para estrenar, cuenta con 3 recamaras, 2 1/2 baños, cocina con gabinetes, slaa comedor, área de lavado y cochera para 2 autos. lona #417",Casa,Prolongación Francita,Tampico,Tamaulipas,0.0,3.0,2.0,2.0,160.0,147.0,104444.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,0.0,0.0,1650000.0,1479507.0569804166
+195879,departamento por tancol,"f-151 se vende departamento planta baja , por tancol, consta de: sala, comedor, cocina con cocina integral, 3 recámaras, 1 ½ baños, patio de servicio, cochera, vitropiso. llámanos y haz cita para que la conozcas.  msj o whatsap y  , ",Apartamento,5,Tampico,Tamaulipas,5.0,3.0,1.0,1.0,70.0,70.0,104541.0,,,2014-03-24 00:00:00,0.0,0.0,0.0,0.0,0.0,440000.0,532840.6695070309
+97909,casa en venta en unidad habitacional unidad nacional,"magní­fica oportunidad! amplia y bonita casa en zona residencial. cuenta con cocina integral, desayunador, 3 recámaras, cochera para 2 autos, climatizada, linea telefónica. muy bien ubicada.",Casa,Hidalgo,Ciudad Madero,Tamaulipas,12.0,3.0,2.0,2.0,137.0,200.0,104629.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,1270000.0,1237581.2024038848
+194592,amplio departamento muy cerca de calz. san pedro y av. las torres,"<p>amplio departamento muy cerca de calzada san pedro y av. las torres, consta de recibidor, sala, comedor, cocina, tres recamaras, la principal con baño-vestidor, dos baños completos en total, amplia terraza y cochera para un auto.</p>el departamento esta en el segundo nivel, en un area aproximada de 10 m de frente por 20 m de fondo",Apartamento,,Tampico,Tamaulipas,0.0,3.0,1.0,2.0,183.0,93.0,104613.0,,,2013-11-03 00:00:00,0.0,0.0,0.0,0.0,0.0,590000.0,1721432.911556949
+168360,casa en venta en diaz ordaz,"nocnok id: mx16-bs9289. tim 717388 
+casa desarrollada en dos niveles con la siguiente distribución;
+planta baja: sala-comedor, cocina con desayunador, recamara y local comercial.
+planta alta: dos recamaras un baño y una estancia.
+
+advertencia:  recuerda que nunca debes dar un anticipo sin validar que esta publicación sea legítima. nocnok no se hace responsable por la información contenida en los anuncios publicados por los usuarios a través de su sistema.",Casa,Ignacio Zaragoza #342,Casas,Tamaulipas,,3.0,,2.0,94.0,200.0,,,,2016-09-13 00:00:00,0.0,0.0,0.0,0.0,0.0,360000.0,785285.0394999338
+218768,casa en venta en hipódromo,"-- hcv --    gran oportunidad para remodelar, cuenta con sala, comedor, cocina integral, un ba&ntilde;o y una recamara.",Casa,Benito Juarez ,Ciudad Madero,Tamaulipas,0.0,1.0,1.0,1.0,80.0,212.0,104730.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,700000.0,638025.8236707404
+295410,casa en venta en jose lopez portillo,"-- hcv212e-285 --    &iexcl;bonita casa en venta! cuenta con 4 rec&aacute;maras, patio con excelente ubicaci&oacute;n a un excelente precio. lona #17 **en proceso**",Casa,And. Felipe angeles .,Tampico,Tamaulipas,10.0,4.0,2.0,2.0,104.0,200.0,104558.0,,,2014-07-22 00:00:00,0.0,0.0,0.0,0.0,0.0,950000.0,890470.1936636433
+225542,bodega - comercial en venta,"oportunidad de adquirir bodega zona norte a 2 cuadras de carretera tampico- mante, puede ser utilizada como taller, cuenta con oficina y vías de acceso con 7 metros de altura.",Bodega comercial,,Tampico,Tamaulipas,1.0,,,1.0,100.0,,104530.0,22.318,-97.8755,2016-12-05 00:00:00,0.0,0.0,0.0,0.0,0.0,900000.0,848396.1319981596
+126253,"venta de casas en tampico col. ampliacion niños héroes, carranza divisoria (1)","<p>funcional casa con 2 recámaras, 1 baño y medio baño, sala, comedor, barra en cocina, patio trasero y garaje amplio, excelente para estudiantes del iest.
+</p><p>v040
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,2.0,2.0,1.0,80.0,100.0,122835.0,22.327186847164807,-97.8788360953331,2014-06-27 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,638025.8236707404
+147743,departamento en venta en petrolera,"excelente departamento en venta, cuenta con sala, comedor, cocina con desayunador, 2 1/2 baños, 2 recámaras con clósets y cuarto de tv que puede utilizarse como 3â° recámara.",Apartamento,Privada Ojo de Agua,Tampico,Tamaulipas,1.0,2.0,1.0,1.0,107.0,,104444.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,0.0,0.0,795000.0,922025.7399127561
+292026,casa en venta en petrolera,"hermosa casa en construcción de 3 pisos, consta de 3 recámaras, 3 1/2 baños, la recámara principal con baño y vestidor, sala, comedor, antecomedor, lavanderia, cuarto de servicio y cochera doble. se encuentra en privada.",Casa,Privada Dos Bocas,Tampico,Tamaulipas,0.0,3.0,2.0,4.0,255.0,,104444.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,3300000.0,2478766.0215356573
+158488,casa geranio (fracc. loma bonita),"preciosa casa en fraccionamiento cerrado con vigilancia. ubicada en una de las mejores zonas residenciales de tampico. cuenta con un amplio jardín, 3 recámaras cada una con baño y vestidor, cocina integral con granito y cuarto de lavado. proceso de venta.",Casa,,Tampico,Tamaulipas,3.0,3.0,2.0,4.0,238.0,327.0,104438.0,22.264,-97.8651,2016-05-26 00:00:00,0.0,0.0,0.0,0.0,0.0,4800000.0,2299951.259457351
+295898,casa en venta en el charro,"-- rcv --    preciosa casa en zona residencial, cuenta con 3 recamaras cada una con su ba&ntilde;o y la principal con vestidor y jacuzzi, sala, comedor, cocina integral y un estudio. ideal para tu familia &iexcl;aprovecha esta oportunidad y ven a conocerla!",Casa,Montemayor .,Tampico,Tamaulipas,11.0,3.0,2.0,2.0,324.0,,104605.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,4900000.0,3204543.5852652537
+144441,casa en venta en victoria,"nocnok id: mx14-aw1261. la vivienda se encuentra en el lote: 7; manzana: 19
+
+nota:
+- el precio puede variar ya que cuenta con un avalúo pendiente",Casa,,Victoria,Tamaulipas,,4.0,,2.0,242.0,198.0,102044.0,23.761263,-99.164026,2015-09-01 00:00:00,0.0,0.0,0.0,0.0,0.0,528750.0,2342025.321122835
+150405,¡oportunidad de casa!,"oportunidad de casa, conoce todos sus espacios; sala, comedor, antecomedor, 4 recámaras, sala de tv, estancia, estudio, 4 baños completos, cocina y cochera para un automóvil. no pierdas la oportunidad de visitarla y ser el próximo dueño de esta bonita casa.",Casa,Jiménez,Tampico,Tamaulipas,20.0,4.0,1.0,4.0,292.0,109.0,104514.0,,,2014-06-23 00:00:00,0.0,0.0,0.0,1.0,0.0,850000.0,2867951.0919413827
+87459,amplia residencia nueva en ampliacion unidad nacional,"<p>amplia residencia nueva en ampliacion unidad nacional, consta de tres recamaras, sala, comedor, cocina integral, area de alacena, area de servicio, cochera doble, patio grande.</p>",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,2.0,2.0,174.0,200.0,122882.0,,,2013-10-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1730000.0,1626766.2728096102
+63798,casa en venta en hidalgo poniente,"-- hcv --    preciosa casa nueva en venta con excelentes acabados, en privada muy amplia, con port&oacute;n el&eacute;ctrico, cuenta con 3 recamaras con closets de cedro y caobilla, cocina integral, jard&iacute;n y cochera doble.",Casa,5 de Mayo .,Ciudad Madero,Tamaulipas,0.0,3.0,2.0,2.0,117.0,195.0,104735.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1390000.0,1027210.8940764657
+97585,casa en venta,"<p>bonita casa estilo contempor&aacute;neo con excelente ubicaci&oacute;n en colonia petrolera. cuenta con tres rec&aacute;maras la principal con ba&ntilde;o y vestidor, &aacute;rea de sala- comedor, antecomedor, sala de tv.</p>",Casa,,Tampico,Tamaulipas,38.0,3.0,,4.0,280.0,250.0,104444.0,22.2562,-97.8688,2016-11-08 00:00:00,0.0,0.0,0.0,0.0,0.0,4000000.0,2741728.9069449315
+4629,comoda casa con patio en ampliacion unidad nacional,"<p>comoda casa con patio en ampliacion unidad nacional, consta de recibidor, sala, comedor, cocina integral, tres recamaras la principal con baño, cuarto de t.v., area de lavado, cuarto de servicio con baño, bodega, cochera doble, patio y jardin.</p>",Casa,,Ciudad Madero,Tamaulipas,,3.0,2.0,3.0,180.0,207.0,122882.0,,,2014-12-29 00:00:00,0.0,0.0,0.0,0.0,0.0,1400000.0,1689877.3653078359
+243181,vendo casa a una cuadra de blvd del maestro,"vendo magnifica casa en loma linda a una cuadra de blvd del maestro de una planta, dos recamaras, sala, comedor, cocina, un baño. con closet, piso cerámico, y protecciones. aprovecha tu infonavit. informes tel oficina  y cel/whatsapp al ",Casa,Loma Bonita 205,Reynosa,Tamaulipas,20.0,2.0,0.0,,70.0,,103994.0,,,2016-12-15 00:00:00,0.0,0.0,0.0,0.0,0.0,450000.0,532840.6695070309
+1127,casa en venta en tampico zona centro calle dr. alfredo gochicoa,"<p>excelente casa en céntrica ubicación, con patio en la parte trasera cuenta con espacios amplios, zona no inundable, cerca de avenidas importantes, de comercios y tiendas de autoservicio.
+</p><p>v-201
+</p><p>ll135
+</p><p>  
+</p><p>tel:
+</p><p>
+</p><p>a-zh31</p><p>otras características:</p><p>espacios para autos: 1, </p>",Casa,Dr. Alfredo Gochicoa,Tampico,Tamaulipas,,3.0,,2.0,146.0,145.0,104423.0,22.21914131881979,-97.8627533258259,2016-12-25 00:00:00,0.0,0.0,0.0,0.0,0.0,1280000.0,1332247.8411512235
+210636,"casa en venta en hidalgo oriente, ciudad madero, tamaulipas","atractiva y elegante casa en esquina, a la venta, recién remodelada, con finos acabados.",Casa,Rhin,Ciudad Madero,Tamaulipas,20.0,4.0,2.0,2.0,245.0,196.0,104734.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,1400000.0,2373580.867371948
+188999,casa en venta en monte alto,"casa en construcción. cuenta con sala, comedor, cocina, 1 baño, 2 recámaras y preparación para un segundo piso, ya están listas las escaleras.",Casa,Rio Missisipi,Altamira,Tamaulipas,0.0,2.0,0.0,1.0,80.0,200.0,104914.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,0.0,0.0,480000.0,638025.8236707404
+24952,"ex3635 casa en venta, col. el charro en tampico","<p>estrene casa
+</p><p>
+</p><p>2 niveles, 3 recámaras, 2 ½ baños,
+</p><p>
+</p><p>recibidor, sala-comedor,
+</p><p>
+</p><p>cocina integral y barra con cubierta de granito
+</p><p>
+</p><p>amplio jardín, terraza y balcón al frente
+</p><p>
+</p><p>cochera doble, cuarto de servicio
+</p><p>
+</p><p>cableado para equipo de audio, video y alarma
+</p><p>
+</p><p>tanque estacionario, boiler, portón eléctrico
+</p><p>
+</p><p>estilo minimalista con acabados de lujo</p>",Casa,,Tampico,Tamaulipas,0.0,3.0,2.0,2.0,297.0,333.0,104605.0,,,2013-11-26 00:00:00,0.0,0.0,0.0,0.0,0.0,3200000.0,2920543.6690232377
+153556,venta de casa en altamira fracc. santa anita calle río bravo,"<p>casa duplex de 2 recámaras, 1 baño completo, con protecciones, patio trasero con barda y excelente ubicación, ya que se encuentra en esquina con jardín lateral. 
+</p><p>v109
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Altamira,Tamaulipas,,2.0,2.0,1.0,45.0,139.0,104946.0,22.39269538188878,-97.94906627364979,2014-10-04 00:00:00,0.0,0.0,0.0,0.0,0.0,350000.0,269877.78409775696
+150039,recidencial fracionamiento,"se vende preciosa recidencia: 
+ubicado en el centro de altamira. 
+fraccioanamiento el campanario, sobre calle feudo legal 
+3 recamaras, 2 de ellas con aire acondicionado3 niveles, baño completo y medio baño, cochera techada, patio de servicio, puerta electrica en cochera sala comedor, cocina con cocina itegral, closed en recamaras,cuarto de estudio muy amplio.protecciones, pisos interceramicos en toda la casa . todos los servicios incluyendo vigilancia",Casa,-,Altamira,Tamaulipas,5.0,4.0,1.0,1.0,105.0,,104945.0,,,2014-09-09 00:00:00,0.0,0.0,0.0,1.0,1.0,1350000.0,900988.7090800143
+203419,"ex3816 casa de un piso en venta, col. altavista en tampico","<p>cómoda casa de una planta
+</p><p>
+</p><p>amplio recibidor
+</p><p>
+</p><p>sala, comedor y cocina integral con antecomedor
+</p><p>
+</p><p>área de lavado
+</p><p>
+</p><p>3 recamaras, la principal con baño y vestidor
+</p><p>
+</p><p>cochera techada para 2 autos
+</p><p>
+</p><p>equipada con climas, alarma, vídeo portero, tanque estacionario y reja
+</p><p>
+</p><p>excelente ubicación
+</p><p>
+</p><p>prourbe bienes raíces 
+</p><p></p>",Casa,,Tampico,Tamaulipas,0.0,3.0,2.0,2.0,250.0,,104498.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,2800000.0,2426173.444453803
+182029,casa en venta en ciudad madero,"-- rcv --    excelente par de casas en construcci&oacute;n las cuales contaran con 3 recamaras (la principal con vestidor), 2.5 ba&ntilde;os, sala, comedor, cocina, lavander&iacute;a, cochera para dos autos y amplio&nbsp;patio&nbsp;en una de las zonas residenciales de ciudad madero. asegura en tu futuro&nbsp;una preciosa casa! ***en proceso de venta***",Casa,Francisco I. Madero .,Ciudad Madero,Tamaulipas,0.0,3.0,2.0,2.0,204.0,200.0,,,,2015-10-07 00:00:00,0.0,0.0,0.0,0.0,0.0,2150000.0,1942321.7353007388
+221870,casa en venta en cumbres,"casa en venta en cumbres. 3 habitaciones, 3 baños, 1 estacionamientos, 220m2 terreno, 95m2 construcción. nocnok id: mx16-bv2274.",Casa,,Nuevo Laredo,Tamaulipas,,3.0,1.0,3.0,95.0,220.0,,,,2016-06-15 00:00:00,0.0,0.0,0.0,0.0,0.0,502157.0,795803.5549163048
+283640,casa en venta en altamira,"-- hcv1169e-285 --    amplia casa de 4 recamaras, una de ellas con preparaci&oacute;n para hacer un ba&ntilde;o, un ba&ntilde;o compartido, terraza, sala-comedor, cocina, recibidor, una oficina con dos cubiculos, acceso independiente a bordo de calle, amplio terreno, estacionamiento y cuarto de lavado. la propiedad cuenta con una casa aparte de dos recamaras con dos ba&ntilde;os, sala- comedor y cocina.",Casa,Cap. Perez .,Altamira,Tamaulipas,20.0,4.0,,2.0,247.0,,,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,4000000.0,2394617.89820469
+86474,excelente casa en venta recien remodelada.,excelente casa en venta recien remodelada.,Casa,Lázaro Cardenas,Tampico,Tamaulipas,5.0,3.0,2.0,3.0,157.0,99.0,104624.0,22.2898278,-97.88401759999999,2014-06-23 00:00:00,0.0,0.0,0.0,1.0,0.0,1500000.0,1447951.510731304
+176543,,"-- hcv --    excelente oportunidad de inversi&oacute;n, casa para remodelar con local comercial, patio. en esquina, en la zona centro de altamira.",Casa,Moctezuma .,Altamira,Tamaulipas,36.0,3.0,1.0,1.0,134.0,438.0,,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1600000.0,1206025.6561547718
+142665, en venta en tampico,"nocnok id: mx15-bj3153. excelente  habitación en perfectas condiciones, cuenta con cochera para dos autos, portón eléctrico,  sala, comedor, cocina integral, amplias recamaras, la principal con baño y vestidor, cuarto de juegos, closets, área de lavado, amplio patio, y cercano a principales arterias de la ciudad.",Casa,,Tampico,Tamaulipas,,3.0,2.0,3.0,328.0,160.0,104624.0,22.289319,-97.882086,2016-02-24 00:00:00,0.0,0.0,0.0,0.0,0.0,2100000.0,3246617.6469307374
+18035,"ex2811 casa de un piso en esquina, sobre avenida principal","<p>casa en esquina
+</p><p>
+</p><p>sobre blvd. emilio portes gil
+</p><p>
+</p><p>ideal para comercio
+</p><p>
+</p><p>150 m2 de terreno en esquina y 170 m2 de construcción en una sola planta
+</p><p>
+</p><p>2 recamaras, cochera para un auto
+</p><p>
+</p><p>alto flujo vehicular</p>",Casa,,Tampico,Tamaulipas,0.0,2.0,0.0,1.0,170.0,150.0,104425.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,900000.0,1584692.2111441265
+230245,,"amplia casa de 4 habitaciones, cocina integral, sala, comedor, estancia, portones electricos, bien conservada y bien distribuida.
+excelente oportunidad en relación tamaño de la propiedad y precio.",Casa,Veintiocho de Julio,Tampico,Tamaulipas,20.0,4.0,2.0,2.0,266.0,160.0,104527.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,850000.0,2594469.691115738
+213675,"departamento en venta en ciudad madero, tamaulipas","departamento en venta, con muy buenos acabados, se encuentra ubicado atrás del estadio de cd madero. cuenta con 2 recamaras y 1 baño completo, asi como estacionamiento para 1 auto. lona #521",Apartamento,Privada Framboyanes (Fracc. Framboyanes),Ciudad Madero,Tamaulipas,6.0,2.0,1.0,1.0,50.0,,,,,2012-09-27 00:00:00,0.0,0.0,0.0,1.0,0.0,350000.0,322470.36117961176
+204029,"venta de casa en tampico col. ampliación niños héroes, carranza divisoria (2)","<p>funcional casa con 2 recámaras, 1 baño y medio baño, sala, comedor, barra en cocina, patio trasero y garaje amplio, excelente para estudiantes del iest.
+</p><p>v040
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,2.0,2.0,1.0,80.0,100.0,122835.0,22.32733819556321,-97.87866041064262,2014-06-27 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,638025.8236707404
+90333,,"casa en buen estado, cuenta con dos plantas, cada planta cuenta con tres recamaras y baño. dos areas independientes para habitar independientemente una de otra.",Casa,B,Tampico,Tamaulipas,10.0,6.0,1.0,2.0,243.0,251.0,104517.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,1150000.0,2352543.836539206
+171160,casa en venta en cd. madero col. luna luna calle bujanos a,"<p>preciosa casa nueva, áreas muy amplias, 2 y medio baños. cocina funcional, sala, comedor, independientes cada uno. 3 recámaras, principal con vestidor y baño, cochera doble, área de servicio
+</p><p>pv03
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Ciudad Madero,Tamaulipas,,3.0,2.0,2.0,155.0,97.0,122885.0,,,2014-06-27 00:00:00,0.0,0.0,0.0,0.0,0.0,1190000.0,1426914.4798985622
+275041,cómodo departamento en venta en la col. del pueblo en tampico,"<p>venta de departamento ubicado frente al centro de salud de tampico, amplio y muy fresco, consta de 2 recámaras con closet, 1 baño completo, amplia área de sala comedor y cocina con barra desayunadora. 
+</p><p>
+</p><p> 
+</p><p>contacto: (833) </p>",Apartamento,Belisario Dominguez,Tampico,Tamaulipas,4.0,2.0,,1.0,58.0,58.0,104485.0,22.2243207,-97.8605976,2016-07-30 00:00:00,0.0,0.0,0.0,0.0,0.0,335000.0,406618.4845105794
+162605,"moderna, nueva y comoda residencia con amplios espacios en luna luna","<p>moderna, nueva y comoda residencia con amplios espacios en luna luna, consta de sala, comedor, amplia cocina, tres recamaras, la principal con baño-vestidor, 2.5 baños, cochera doble y area de servicio.</p>",Casa,,Ciudad Madero,Tamaulipas,,3.0,2.0,2.0,155.0,97.0,104683.0,,,2015-01-22 00:00:00,0.0,0.0,0.0,0.0,0.0,1190000.0,1426914.4798985622
+83322,bonita casa en fracc. con alberca cerca de francita,"<p>bonita casa en fracc. cerrado con vigilancia, porton electrico, alberca y palapa. consta de sala, comedor, cocina integral, 3 recamaras, 2 baños y terraza. muy bien ubicada!!!!</p>",Casa,,Tampico,Tamaulipas,0.0,3.0,1.0,2.0,171.0,257.0,104444.0,,,2013-12-18 00:00:00,0.0,0.0,0.0,0.0,0.0,2700000.0,1595210.7265604972
+58776,paseo del prado en oferta,"<p>contactanos, para que conozcas esta hermosa casa de tres recamaras, la principal, cuenta con balo vestidos, amplia cocina, sala comedor, area de lavaderia, patio trasero, cochera techada dos autos, toda ella adquierela a un increíble costo. sobre el precio base, tu haces tu oferta. así de fácil, puedes empezar a vivir con estilo, seguridad ya que cuenta con acceso controlado, tus hijos podrán jugar en las áreas verdes con toda libertad. contactanos para conocerla y disfrutes del buen vivir.</p>",Casa,Abedul de Plata,Reynosa,Tamaulipas,6.0,3.0,,2.0,146.0,119.0,104099.0,26.0508406,-98.2978951,2016-12-26 00:00:00,0.0,0.0,0.0,0.0,0.0,990000.0,1332247.8411512235
+281903,"ex3594 casa de un piso en venta, col. miguel hidalgo en cd. madero","<p>casa de un piso en buen estado de conservacion
+</p><p>
+</p><p>a dos cuadras de la avenida alvaro obregon y a dos cuadras del hospital civil de cd. madero
+</p><p>
+</p><p>3 recamaras, 2 baños y cochera para un auto
+</p><p>
+</p><p>212 m2 de terreno y 115 m2 de construccion</p>",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,1.0,2.0,115.0,212.0,104734.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,890000.0,1006173.8632437239
+128835,casa en venta en tampico,"-- hcv --    casa funcional ubicada en un bonito fraccionamiento seguro con 3 rec&aacute;maras, una con vestidor y jacuzzi, salacomedor, cocina integral con desayunador, cochera para 3 coches. sedimentada para 3 pisos. &iexcl;llame ya!. lona #36",Casa,Agustín Melgar .,Tampico,Tamaulipas,2.0,3.0,3.0,2.0,153.0,252.0,,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1647000.0,1405877.4490658203
+212917,casas nuevas cerca del tec cd. madero.,"<p>casas nuevas en privada en col. 1º de mayo, cerca de tec de madero y vialidades importantes. cuentan con cochera doble, sala comedor, cocina, patio de servicio, 3 recamaras, la principal con baño y otro mas compartido. amplios espacios.</p>",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,2.0,2.0,166.0,162.0,104641.0,,,2013-11-26 00:00:00,0.0,0.0,0.0,0.0,0.0,1500000.0,1542618.1494786427
+155603,hermosa y amplia residencia de finos acabados con excelente ubicacion,"<p>hermosa y amplia residencia de finos acabados con excelente ubicacion muy cerca de avenida universidad y faja de oro de dos plantas, consta en p.b. de recibidor, sala, comedor, cocina integral, medio baño, area de lavado, jardin y cochera doble, en p.a. consta de tres recamaras, todas con baño, la principal ademas con vestidor. </p>",Casa,,Tampico,Tamaulipas,,3.0,2.0,3.0,222.0,170.0,104439.0,,,2014-04-25 00:00:00,0.0,0.0,0.0,1.0,1.0,2250000.0,2131655.012795416
+108083,"departamento en venta en unidad nacional, ciudad madero, tamaulipas","moderno seminuevo departamento en planta baja, con excelente ubicación. consta de 2 recamaras, la principal con clima, baño y vestidor, con 1 baño completo adicional y cocina integral equipada. lona #191",Apartamento,5 de Febrero,Ciudad Madero,Tamaulipas,1.0,2.0,1.0,2.0,87.0,,104629.0,,,2013-01-02 00:00:00,0.0,0.0,0.0,1.0,0.0,1200000.0,711655.4315853372
+98066,nueva y comoda casa en fraccionamiento cerrado con vigilancia,"<p>nueva y comoda casa en fraccionamiento cerrado con vigilancia, consta de dos recamaras, 1.5 baños, sala, comedor, cocina, cochera y area de servicio.</p>",Casa,,Tampico,Tamaulipas,,2.0,1.0,1.0,77.0,76.0,104589.0,,,2014-12-15 00:00:00,0.0,0.0,0.0,0.0,0.0,630000.0,606470.2774216275
+272732,departamento en venta en solidaridad voluntad y trabajo,"muy amplio y elegante, todo con vitropiso o duela y finos acabados, puertas de pino, sala, comedor, cocina, baño completo, dos recàmaras, patio de servicio techado, estacionamiento.
+
+envie datos a 
+cel. 
+
+el precio real es de $380 mil pesos 
+bonifico efectivo",Apartamento,Ecuador y camboya 218 3,Tampico,Tamaulipas,1.0,2.0,1.0,1.0,70.0,,104528.0,22.3099575,-97.88562009999998,2012-08-08 00:00:00,0.0,0.0,0.0,1.0,1.0,330000.0,532840.6695070309
+238347,"departamento en venta en miramar, ciudad madero, tamaulipas","excelente departamento #9 de lujo con una vista preciosa al mar, semi amueblado. se encuentra en tildillos. sala, comedor, cocina de granito, 2 recamaras y cuarto de tv, con terraza vista al mar.",Apartamento,Tildillos,Ciudad Madero,Tamaulipas,3.0,2.0,2.0,4.0,200.0,,104713.0,,,2013-01-01 00:00:00,0.0,0.0,1.0,0.0,0.0,5491000.0,1900247.673635255
+246035,venta de casa en tampico calle hortensia col. las violetas,"<p>funcional casa en venta con excelente ubicación, áreas de buen tamaño en cocina, comedor, sala, estacionamiento, baños(2), recámaras (3), potencia a crecimiento. vivienda media
+</p><p>
+</p><p>ll098
+</p><p>
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,3.0,,2.0,150.0,160.0,,22.2889589,-97.8837254,2014-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,1110000.0,1374321.9028167073
+245528,casa en venta a valor terreno - unidad nacional,"<p>oportunidad para constructores - excelente ubicación en unidad nacional, amplio terreno. todos los servicios. casa de dos plantas ideal para remodelación y/o construcción. </p>",Casa,,Ciudad Madero,Tamaulipas,0.0,5.0,,4.0,387.0,,104629.0,22.260613379768614,-97.84424257271894,2013-10-14 00:00:00,0.0,0.0,0.0,1.0,0.0,2400000.0,3867210.056496624
+17629,casa en venta en reynosa,"nocnok id: mx15-bf4920. la vivienda se encuentra en lote:114,manzana: 17",Casa,,Reynosa,Tamaulipas,,2.0,,1.0,85.0,91.0,,,,2015-09-02 00:00:00,0.0,0.0,0.0,0.0,0.0,311250.0,690618.4007525952
+113031,hermosa casa ubicada en el residencial los encinos,"hermosa casa ubicada en el residencial los encinos, con un diseño minimalista y de un buen tamaño con jardín. cuenta con 5 minisplits, 4 recámaras amplias y terraza.",Casa,Tabachines,Altamira,Tamaulipas,4.0,4.0,2.0,4.0,254.0,,104928.0,,,2014-06-23 00:00:00,0.0,0.0,0.0,0.0,0.0,2300000.0,2468247.5061192866
+46334,casa en venta en tecnologico,"casa en venta en tecnologico. 3 habitaciones, 3 baños, 1 estacionamientos, 208m2 terreno, 130m2 construcción. nocnok id: mx16-bv2251.",Casa,,Jaumave,Tamaulipas,,3.0,1.0,3.0,130.0,208.0,,,,2016-06-15 00:00:00,0.0,0.0,0.0,0.0,0.0,620591.0,1163951.594489288
+136105,casa en venta,casa en venta en delfino resendiz,Casa,.,Ciudad Madero,Tamaulipas,10.0,3.0,2.0,2.0,198.0,,104728.0,,,2016-05-09 00:00:00,0.0,0.0,0.0,0.0,0.0,1880000.0,1879210.6428025132
+34538,casa en venta en smith,-- hcv --    linda casa muy amplia con todos los espacios necesarios de una casa completa y jardin grande.,Casa,Segunda Avenida .,Tampico,Tamaulipas,0.0,3.0,2.0,2.0,361.0,,104465.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,3000000.0,3593728.655670979
+237836,casa en venta en jesús luna luna,"-- hcv969e-285 --    excelente opci&oacute;n! bonita casa de 3 rec&aacute;maras, cochera para 1 autos, a escasos metros del parque. &iexcl;no desaproveche la oportunidad de adquirir esta propiedad!",Casa,Jesus Pérez .,Ciudad Madero,Tamaulipas,12.0,3.0,1.0,2.0,139.0,83.0,104683.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,980000.0,1258618.2332366267
+254482,amplia casa en venta fraccionamiento villas laguna,"hermosa casa con 3 amplias recamaras, la principal con baño y vestidor. 
+excelente ubicación, calles pavimentadas, a 3 min de ave. hidalgo",Casa,CERRADA LAGUNA DEL CHAIREL NO 35,Tampico,Tamaulipas,5.0,3.0,2.0,2.0,135.0,121.0,104611.0,,,2015-01-06 00:00:00,0.0,0.0,0.0,1.0,1.0,1230000.0,1216544.171571143
+28874,bonita casa estilo clásico casi en esquina.,"bonita casa estilo clásico casi en esquina, muy cerca de locales comerciales, área sombra muy fresca y con patio al frente con pasillos laterales.",Casa,Ayuntamiento,Tampico,Tamaulipas,5.0,2.0,2.0,2.0,54.0,261.0,104522.0,,,2014-04-11 00:00:00,0.0,0.0,0.0,1.0,0.0,760000.0,364544.4228450955
+77639,departamento en venta en ciudad madero,"-- hav --    excelente de partamento para remodelar a un muy buen precio, muy buena ubicaci&oacute;n en ciudad madero. en proceso de venta",Apartamento,Rep. de Cuba .,Ciudad Madero,Tamaulipas,26.0,3.0,1.0,1.0,114.0,,,,,2015-10-06 00:00:00,0.0,0.0,0.0,0.0,0.0,370000.0,995655.3478273529
+147364,excelente casa nueva en buena ubicación.,"excelente casa nueva en buena ubicación, acabados de primera con 3 recámaras, recibidor, sala, comedor, cocina, área de lavado, 1 1/2 baños, patio, calles pavimentadas. en zona alta.",Casa,Villa Hermosa,Tampico,Tamaulipas,3.0,3.0,2.0,1.0,110.0,119.0,122855.0,,,2014-06-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1000000.0,953581.2861618692
+89664,,"-- rcv --    excelente casa con una ubicaci&oacute;n privilegiada, cuenta con una recamara en el primer piso.",Casa,Sonora .,Ciudad Madero,Tamaulipas,11.0,3.0,1.0,3.0,272.0,200.0,,,,2016-01-27 00:00:00,0.0,0.0,0.0,0.0,0.0,2500000.0,2657580.783613964
+156518,"casa en venta, col. hidalgo en cd. madero","<p>bella casa nueva en interior
+</p><p>
+</p><p>estilo minimalista
+</p><p>
+</p><p>2 niveles, 3 recamaras, 2 baños y medio
+</p><p>
+</p><p>sala, comedor y cocina
+</p><p>
+</p><p>cochera techada para 2 autos
+</p><p>
+</p><p>96 m2 de terreno y 150 m2 de construcción</p>",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,2.0,2.0,150.0,96.0,104734.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,950000.0,1374321.9028167073
+210913,,"bonita casa en excelente col. residencial, consta de 3 recamaras, la principal con ampliación y jacuzzi, vestidor y baño. cuenta con 2 1/2, sala, comedor y cocina integral. cochera para 2 autos y patio con asador para eventos sociales, bonita terraza. la casa esta totalmente bardeada y con rejas de proteccion.",Casa,Cerro Azul,Tampico,Tamaulipas,15.0,3.0,2.0,2.0,300.0,200.0,104444.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,2850000.0,2952099.2152723507
+133554,"venta de casa en madero calle benito juárez, pre-venta (3)","<p>hermosas casas en pre-venta, cuentan con 3 recámaras, sala, comedor, patio trasero. inmejorable ubicación en ciudad madero
+</p><p>  
+</p><p>tel: (833) 
+</p><p></p>",Casa,,Ciudad Madero,Tamaulipas,,3.0,2.0,2.0,205.0,200.0,104670.0,22.283951519621926,-97.84415852220265,2014-09-12 00:00:00,0.0,0.0,0.0,0.0,0.0,1950000.0,1952840.25071711
+154456,departamento en venta en miramar,"-- rav --    hermoso departamento totalmente amueblado forma parte del condominio torre velamar con 29 departamentos, superficie total 9,205 m2. el departamento de 209m2 consta de sala, comedor, cocina, terraza, cuarto de servicio, lavander&iacute;a y tres recamaras. recamara principal con terraza, ba&ntilde;o completo y vestidor. recamaras dos, tres y de servicio con ba&ntilde;o completo. dos espacios de estacionamiento. cocina totalmente equipada. la alberca cuenta con calefacci&oacute;n, camastros de madera de teca y ba&ntilde;os con regaderas. en todas las &aacute;reas de uso com&uacute;n existe vigilancia las 24 horas, incluyendo la playa.",Apartamento,Blvd. Luis D. Colosio VELAMAR .,Ciudad Madero,Tamaulipas,,3.0,2.0,3.0,245.0,,104713.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,4800000.0,2373580.867371948
+297246,,"-- -285 --    preciosa casa con 3 recamaras, cada una con ba&ntilde;o y la principal con vestidor. la casa cuenta con sala tv. sala, comedor, bar, cocina integral con isla, lavander&iacute;a, cuarto de servicio, ampl&iacute;o jard&iacute;n, ademas en la planta baja tiene un cuarto con ba&ntilde;o y cochera para 2 autos. esta localizada en una zona tranquila cerca de escuelas y gimnasios.",Casa,15 .,Ciudad Madero,Tamaulipas,1.0,3.0,2.0,4.0,327.0,335.0,104636.0,,,2014-12-16 00:00:00,0.0,0.0,0.0,0.0,0.0,3800000.0,3236099.1315143663
+89643,casa en venta en jardín 20 de noviembre,"casa con muy buena ubicación, cuenta con 3 recamaras, 1 1/2 baños, sala comedor, cocina integral, y cochera para 1 auto.",Casa,Calle 6,Ciudad Madero,Tamaulipas,25.0,3.0,1.0,1.0,154.0,122.0,104640.0,,,2012-08-17 00:00:00,0.0,0.0,0.0,1.0,0.0,800000.0,1416395.964482191
+164667,casa residencial en venta arenal,"<p>hermosa y amplia casa , en fraccionamiento con portón eléctrico lo cual la hace muy segura, consta de espacio para estacionar dos autos , y pequeño patio de servicio en la parte de afuera , adentro en planta baja sala comedor, medio baño, cocina con barra , planta alta dos recamaras amplias y un baño completo.
+</p><p>
+</p><p>ll09
+</p><p>v-234
+</p><p>
+</p><p> 
+</p><p>
+</p><p>a-sm53</p><p>otras características:</p><p>espacios para autos: 2, vigilancia: si, </p>",Casa en condominio,,Tampico,Tamaulipas,4.0,2.0,,1.0,107.0,119.0,104565.0,22.29212979,-97.87632095,2016-12-24 00:00:00,0.0,0.0,0.0,0.0,0.0,1150000.0,922025.7399127561
+75239,casa en venta en anahuac,"-- hcv --    bonita casa con posibilidades de crecimiento, en muy buena ubicaci&oacute;n, cerca de la laguna del carpintero.&nbsp;cuenta con 2 rec&aacute;maras, 2 ba&ntilde;os y 2 espacios para auto, con jard&iacute;n.&nbsp;",Casa,Ejido .,Tampico,Tamaulipas,3.0,2.0,2.0,2.0,150.0,145.0,104483.0,,,2014-06-27 00:00:00,0.0,0.0,0.0,0.0,0.0,1050000.0,1374321.9028167073
+249488,casa en venta en niños héroes,"-- hcv --    excelente casa en f&aacute;ciles accesos, a 2 cuadras de la carretera tampico-mante, con amplio jard&iacute;n y cochera.",Casa,Privada Encinos ,Tampico,Tamaulipas,20.0,3.0,,2.0,140.0,267.0,104600.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1600000.0,1269136.748652998
+53234,casa en venta en tampico,"excelente casa nueva en venta, 3 recámaras muy amplias, área tv, sala, comedor, cocina integral, área de lavado, patio con asador, cochera para 2 autos, alberca, áreas verdes, palapa y seguridad las 24 hrs.",Casa,Circuito La Arboleda,Tampico,Tamaulipas,2.0,3.0,2.0,2.0,205.0,208.0,,,,2012-08-17 00:00:00,0.0,0.0,1.0,1.0,0.0,1450000.0,1952840.25071711
+240486,comoda casa en fracc. san gerardo,"<p>comoda casa en fracc. san gerardo, consta de dos recamaras, sala, comedor, cocina, cochera, 1.5 baños y patio de servicio.</p><p>otras características:</p><p>espacios para autos: 1.<br></p>",Casa,...,Tampico,Tamaulipas,10.0,2.0,,1.0,70.0,63.0,104618.0,22.2878282,-97.8891827,2016-07-30 00:00:00,0.0,0.0,0.0,1.0,1.0,750000.0,532840.6695070309
+44305,"casa en venta en petrolera, tampico, tamaulipas","casa ubicada en zona residencial, cuenta con cocina integral, baños con placa de granito, regaderas de los bañon con cristal templado, escalera de madera de chijol, segundo piso con duela de palo de rosa, aire acondicionado en sala comedor y recámara principal, candiles, cortinas, abanicos de techo, portón electrico y alarma.",Casa,Privada 2 Bocas,Tampico,Tamaulipas,8.0,3.0,1.0,3.0,199.0,123.0,104444.0,,,2012-12-01 00:00:00,0.0,0.0,0.0,0.0,0.0,1850000.0,1889729.1582188844
+193215,venta de casas nuevas en cd. madero col. hidalgo 5 de mayo (3),"<p>excelente casa en pre-venta, dos plantas en conjunto habitacional con portón eléctrico. excelente ubicación, a tres bloques de av. madero (antes álvaro obregón). 3 recámaras con closet, 2 y medio baños, sala, comedor, cocina integral, cuarto de lavado, jardín y cochera para dos autos.</p><p>otras características:</p><p>espacios para autos: 2, </p>",Casa,5 de mayo,Ciudad Madero,Tamaulipas,,3.0,,2.0,116.0,120.0,104735.0,22.259418359388537,-97.82745372511272,2016-10-03 00:00:00,1.0,0.0,0.0,1.0,0.0,1290000.0,1016692.3786600948
+278022,"ex2881 casa en venta, col. petrolera en tampico","<p>amplia y funcional casa de 2 niveles
+</p><p>
+</p><p>4 recamaras, la principal con baño y vestidor
+</p><p>
+</p><p>una de las recamaras también cuenta con baño
+</p><p>
+</p><p>recibidor, sala, comedor y cocina integral
+</p><p>
+</p><p>sala de televisión y estudio
+</p><p>
+</p><p>cuarto de servicio y bodega
+</p><p>
+</p><p>cochera para 4 autos 
+</p><p>
+</p><p>jardín
+</p><p>
+</p><p>magnifica ubicación en lado sombra
+</p><p>
+</p><p>prourbe bienes raíces </p>",Casa,,Tampico,Tamaulipas,0.0,4.0,,3.0,350.0,360.0,104444.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,3500000.0,3478024.9860908985
+170531,venta de terreno privada las fuentes 270m2,excelente oportunidad venta de terreno en privadas las fuentes cuenta con 270 m2 de superficie,Terreno,Privada las Fuentes,Reynosa,Tamaulipas,,,0.0,,270.0,270.0,104000.0,26.0711963,-98.3168857,2016-03-20 00:00:00,0.0,0.0,0.0,1.0,1.0,1350000.0,2636543.752781222
+50361,casa en venta en héroe de nacozari,"-- hcv --    preciosa casa muy cerca de la unidad deportiva de ciudad madero. cuentan con sala, comedorm cocina integral, 3 recamaras (la principal con ba&ntilde;o y vestidor) y cochera para 1 auto.",Casa,Cuahtemóc .,Ciudad Madero,Tamaulipas,0.0,3.0,1.0,2.0,134.0,96.0,104710.0,,,2015-04-22 00:00:00,0.0,0.0,0.0,0.0,0.0,890000.0,1206025.6561547718
+3541,"bonita casa individual 2 plantas en fracc. arecas, altamira","f-139 bonita casa individual 2 plantas en fracc. arecas, consta de sala, comedor, cocina, 2 recámaras, 1 1/2 baños, patio de servicio, cochera, protecciones, vitropiso. se acepta crédito infonavit o contado. llámanos y haz cita para que la conozcas, sms o whatsapp al , sms al  o ",Casa,Fracc Arecas,Altamira,Tamaulipas,4.0,2.0,1.0,1.0,80.0,83.0,104852.0,,,2014-03-24 00:00:00,0.0,0.0,0.0,0.0,0.0,600000.0,638025.8236707404
+50036,"casa en venta, col. las americas en cd. madero","bonita y funcional casa
+
+3 recamaras, 1 baño y medio
+
+sala, comedor y cocina
+
+cochera techada para un auto con cortina metalica
+
+a una cuadra del blvd. lopez mateos y cerca de avenida universidad
+
+106 m2 de terreno y 160 m2 de construcción",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,1.0,1.0,160.0,106.0,104635.0,,,2013-03-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1300000.0,1479507.0569804166
+101125,casa en venta en cd. madero col. heriberto kehoe calle 14,"<p>venta de cómoda casa en condominio, se encuentra en el interior de un  de tres propiedades estando disponible la segunda casa es lado sombra volviéndola mas fresca. 
+</p><p>su cochera es techada,y cuenta con una terraza muy agradable la cual puede ser en un futuro la tercer recámara dependiendo de las necesidades.
+</p><p>
+</p><p>  
+</p><p>tel: (833) 
+</p><p>
+</p><p>a-zh31</p>",Casa,,Ciudad Madero,Tamaulipas,6.0,2.0,,1.0,71.0,100.0,104672.0,22.284322651003762,-97.83564064289557,2016-12-24 00:00:00,0.0,0.0,0.0,0.0,0.0,500000.0,543359.1849234018
+111696,casa en venta en esfuerzo nacional,"-- hcv833e-285 --    amplia casa con sala, comedor, cocina integral, 3 recamaras con closets y climas, un estudio que puede ser adaptado para cuarto de t.v u otra recamara, 3 ba&ntilde;os completos y 2 medios ba&ntilde;os, un closet de blancos y un &aacute;rea de lavander&iacute;a. la propiedad cuenta con una amplia cochera y port&oacute;n.&nbsp;lona #18",Casa,Quinta .,Ciudad Madero,Tamaulipas,35.0,3.0,2.0,3.0,231.0,192.0,104645.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1900000.0,2226321.651542755
+109262,"departamento en venta en aguila, tampico, tamaulipas","lujoso departamento en venta zona residencial, ideal como inversión o para familia ya que es muy amplio. tres recámaras de excelente tamaño, la principal con baño y vestidor. el área social incluye sala, comedor, bar y medio baño. cocina integral con desayunador. cuarto de servicio y área de lavandería. cochera para 3 autos, dos espacios techados y uno sin techar para visitantes. el área común incluye jardín y alberca. tiene aire acondicionado central.  tiene vigilancia las 24 horas y se encuentra en una zona muy segura.",Apartamento,Naranjo,Tampico,Tamaulipas,15.0,3.0,3.0,2.0,246.0,,104496.0,,,2013-01-01 00:00:00,0.0,0.0,1.0,1.0,0.0,2500000.0,2384099.382788319
+131537,,"-- hav --    excelente departamento en planta baja, ubicado en fraccionamiento los lirios. consta de 2 rec&aacute;maras, sala, comedor, cocina y 1.5 ba&ntilde;os.",Apartamento,Jimenez .,Ciudad Madero,Tamaulipas,0.0,2.0,1.0,1.0,92.0,,104730.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,570000.0,764248.0086671918
+228224,venta de casa en tampico col. charro calle marqués de guadalupe,"<p>excelente casa en privada con portón eléctrico, cuenta con patio, cocina y desayunador, 2 baños completos y medio baño, recámara principal con vestidor y baño, cuarto de lavado y servicio, cochera para un carro. 
+</p><p>v101
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,3.0,,2.0,230.0,212.0,,22.274966820264783,-97.88329526782036,2014-07-24 00:00:00,0.0,0.0,0.0,0.0,0.0,2200000.0,2215803.1361263837
+119716,casa en venta natividad garza leal,"<p>casa de 1 piso ubicada cerca de bodega aurrera y a media cuadra de la avenida monterrey.
+</p><p>
+</p><p>excelente opción para ampliar a futuro.
+</p><p>
+</p><p>cuenta con sala-comedor, cocina, baño completo, 2 recamaras y un amplio patio cerrado, lo cual hace la casa muy segura.
+</p><p>
+</p><p> 
+</p><p>tel:(833)
+</p><p>
+</p><p>a-lc80</p><p>otras características:</p><p>tipo de terreno: plano, </p>",Casa,Arturo Galindo Elizondo,Tampico,Tamaulipas,5.0,2.0,,1.0,43.0,160.0,104527.0,22.314257285684228,-97.86289188683857,2016-12-21 00:00:00,0.0,0.0,0.0,1.0,0.0,510000.0,248840.75326501502
+145724,excelente oportunidad de adquirir una bonita casa.,"excelente oportunidad de adquirir una bonita casa, cuenta con 3 recámaras, sala, comedor, medio baño, cocina integral, 3 recámaras, patio de servicio y jardín, cochera para 1 auto, está ubicada cerca de una agradable área verde dentro del fraccionamiento.",Casa,Cerrada Laguna Montecillos,Tampico,Tamaulipas,5.0,,0.0,,97.0,153.0,104611.0,,,2014-06-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1190000.0,816840.5857490466
+45958,amplia casa en esquina con recamara en planta baja cerca del parque de la piramide,"<p>amplia casa en esquina con recamara en planta baja cerca del parque de la pirámide, consta de sala, comedor, cocina integral, cuatro recamaras, 3.5 baños, la recamara principal y la recamara en planta baja tienen baño, cochera doble y patio de servicio.
+</p><p>
+</p><p> 
+</p><p>contacto: (833) 
+</p><p></p><p>otras características:</p><p>espacios para autos: 2.<br></p>",Casa,...............,Ciudad Madero,Tamaulipas,4.0,4.0,,3.0,257.0,245.0,104683.0,,,2016-07-30 00:00:00,1.0,0.0,0.0,1.0,0.0,1900000.0,2499803.0523683997
+170166,"ex3220 departamento en venta, col. petrolera en tampico","amplio departamento remodelado
+
+3 recamaras,  2 baños, sala, comedor y cocina integral
+
+area de lavado
+
+cochera techada
+
+ubicado en cuarto piso
+
+a unos pasos de la avenida universidad, cerca de escuelas y tiendas de autoservicio
+
+prourbe bienes raíces <br /><br />",Apartamento,,Tampico,Tamaulipas,0.0,3.0,1.0,2.0,114.0,97.0,104444.0,,,2012-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,850000.0,995655.3478273529
+154997,venta de casas nuevas en cd. madero col. revolución verde calle reforma (3),"<p>casa nueva en venta en cd. madero, se encuentra en zona alta, patio amplio y muy funcional, con opción a una tercer recámara con baño adentro y techar cochera. vivienda media
+</p><p>  
+</p><p>tel: (833) 
+</p><p>
+</p><p>a-rb08</p>",Casa,Reforma,Ciudad Madero,Tamaulipas,0.0,2.0,2.0,1.0,99.0,120.0,104698.0,22.31686499526384,-97.84965366125108,2015-11-23 00:00:00,0.0,0.0,0.0,0.0,0.0,710000.0,837877.6165817885
+13230,casa en venta en enrique cárdenas gonzalez,"se vende o se traspasa casa en col. enrique cardenas, excelente ubicacion (3ra avenida a una cuadra del oxxo y aka de la calle palafox, casa tipo infonavit), rutas de transporte pasan enfrente, escuelas, tiendas cerca.  pesos. tel (833) .",Casa,Calle 3 905,Tampico,Tamaulipas,10.0,2.0,1.0,1.0,60.0,60.0,104517.0,,,2012-06-03 00:00:00,0.0,0.0,0.0,1.0,1.0,400000.0,427655.51534332125
+278257,casa en venta en lázaro cárdenas,"-- hcv --    amplia casa con 3 recamaras, sala, comedor, cocina, 3 ba&ntilde;os y medio (2 est&aacute;n en el &aacute;rea de jard&iacute;n), amplio patio y cochera para dos autos.",Casa,Sor Juana Inés de la Cruz .,Ciudad Madero,Tamaulipas,27.0,3.0,2.0,3.0,300.0,,104637.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,2950000.0,2952099.2152723507
+268817,excelente propiedad en esquina,"casa de 1 piso. totalmente remodelada. consta de 3 habitaciones (2 interiores y 1 exterior con acceso independiente) o bien puede habilitarse como estancia de televisión o como recamara de visitas. cuenta con toda la ductería y cableado oculto, (interior y exterior), 4 preparaciones para aires acondicionados minisplit.  (1 x habitación y 1 en sala - comedor.). cocina con gabinetes. ventaneria moderna y fijos de aluminio  color champagne. vitropiso de 40 x 40 cms.  protecciones y portón corredizo. gran terreno excedente, ideal para ampliar la propiedad o como negocio por su excelente ubicación en avenida transitada. preparación para baño exterior.  la propiedad se ubica en jarachina norte calle aves del paraiso esq. pinos (información y citas solo por correo electrónico)",Casa,aves del paraiso 337,Reynosa,Tamaulipas,,3.0,3.0,1.0,85.0,220.0,104046.0,26.0536631,-98.3482258,2016-12-28 00:00:00,0.0,0.0,0.0,0.0,0.0,825000.0,690618.4007525952
+71175,departamento en venta en laguna de la puerta,"-- hav --    departamento en segundo nivel en excelentes condiciones, se encuentra en el fraccionamiento sotavento el cual cuenta con&nbsp;extensas &aacute;reas verdes, la propiedad cuenta con dos recamaras, un ba&ntilde;o, cocina integral, terraza, y cuarto de lavado.",Apartamento,Boulevard Sotavento .,Altamira,Tamaulipas,2.0,2.0,1.0,1.0,46.0,,104838.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,380000.0,280396.2995141279
+53444,casa cerca de refineria cd. madero,"<p>casa de dos pisos en privada, col. hidalgo cerca de refineria madero. sala-comedor, cocina con barra, dos recamaras y baño y medio. zona tranquila.</p>",Casa,,Ciudad Madero,Tamaulipas,0.0,2.0,0.0,1.0,77.0,60.0,104734.0,22.2580439,-97.8223069,2013-12-18 00:00:00,0.0,0.0,0.0,0.0,0.0,520000.0,606470.2774216275
+8146,casa en venta en victoria,"casa en venta en fracc la paz. 1 habitaciones, 1 baños, 344m2 terreno, 91m2 construcción. estátus jurídico: adjudicada. nocnok id: mx14-at0666.",Casa,,Victoria,Tamaulipas,,1.0,,1.0,91.0,344.0,,,,2015-02-05 00:00:00,0.0,0.0,0.0,0.0,0.0,818000.0,753729.4932508209
+142004,venta de casa en tampico col. enrique cárdenas calle 3-d,"<p>bonita casa. nueva. cuenta con muy buenos acabados así como excelente carpintería en clósets y cajoneras. 3 recámaras. sala, comedor, cocina y cochera para 1 auto. vivienda media
+</p><p>
+</p><p>v010
+</p><p>ll012
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,3.0,1.0,2.0,100.0,91.0,,22.307661428012924,-97.85121631583023,2015-01-31 00:00:00,0.0,0.0,0.0,0.0,0.0,690000.0,848396.1319981596
+160380,casa amplia con patio en col. petrolera,"<p>casa amplia de tres niveles consta de 4 recamaras, recibidor, sala, comedor, cocina, cuarto de tv, lavandería, jardín, cochera para 2 autos, patio, área de lavado, 3.5 baños y terreza.
+</p><p>
+</p><p> 
+</p><p>contacto: (833) 
+</p><p></p><p>otras características:</p><p>espacios para autos: 2.<br></p>",Casa,.....,Tampico,Tamaulipas,4.0,4.0,,3.0,300.0,380.0,104444.0,,,2016-07-30 00:00:00,0.0,0.0,0.0,1.0,0.0,3200000.0,2952099.2152723507
+141022,casa en venta en enrique cárdenas gonzalez,"-- hcv --    casa en preventa de 2 recamaras, ba&ntilde;o y medio, sala, comedor, cocina y cochera para un auto.",Casa,Calle H .,Tampico,Tamaulipas,0.0,2.0,1.0,1.0,71.0,93.0,104517.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,500000.0,543359.1849234018
+61483,venta de casa en cd. madero col. unidad nacional ( hidalgo),"<p>agradable casa residencial en esquina, zona no inundable y con tráfico medio de vehículos. cerca de zonas comerciales, hospitales y escuelas.
+</p><p>
+</p><p>v084 v088
+</p><p>ll059
+</p><p>a-zh31
+</p><p>
+</p><p>  
+</p><p>tel: (833) 
+</p><p></p><p>otras características:</p><p>espacios para autos: 2, tipo de clima: minisplit, tipo de terreno: plano, vigilancia: si, </p>",Casa,"Puebla esquina con Hidalgo col, Unidad Nacional",Ciudad Madero,Tamaulipas,5.0,5.0,,3.0,326.0,280.0,,22.27081694,-97.85202449,2016-12-08 00:00:00,1.0,0.0,0.0,1.0,0.0,2990000.0,3225580.6160979955
+285678,casa nueva estilo moderno de 2 niveles,"en planta alta 3 recamaras, la principal con vestidor y baño, dos con closet y baño compartido, en planta baja medio baño, sala, comedor, cocina con alacena, cuarto de lavanderia, doble cochera descubierta con porton horizontal corredizo, pisos de porcelanato, fachada con cantera, tinaco de 400 lts, interfon marca intec.",Casa,Santo Domingo,Tampico,Tamaulipas,,3.0,2.0,2.0,223.0,264.0,104479.0,22.2358844,-97.86711,2016-12-18 00:00:00,0.0,0.0,0.0,0.0,0.0,2650000.0,2142173.528211787
+92748,"departamento en venta en tinaco, ciudad madero, tamaulipas","edificio de 3 departamentos. cada departamento cuenta con 2 recamaras,sala, comedor, cocina, 1 baño, cerca de escuelas, arteli madero. la entrada es por ave. ferrocarril. ¡oportunidad en venta!",Apartamento,Ave Ferrocarril,Ciudad Madero,Tamaulipas,1.0,2.0,0.0,1.0,366.0,,104740.0,,,2013-01-01 00:00:00,0.0,0.0,0.0,1.0,0.0,1600000.0,3646321.2327528335
+293989,casa en venta en méxico,"-- hcv --    excelentes casas en preventa de 3 rec&aacute;maras, la principal con ba&ntilde;o, cocina, medio ba&ntilde;o, cochera amplia para un auto y un peque&ntilde;o jard&iacute;n en la parte de atr&aacute;s.",Casa,Tlaxcala .,Tampico,Tamaulipas,0.0,3.0,1.0,2.0,105.0,90.0,104571.0,,,2016-01-13 00:00:00,0.0,0.0,0.0,0.0,0.0,760000.0,900988.7090800143
+258760,departamento de lujo,"consta de 3 recamaras con closet y vestidor, 3.5 baños, sala, comedor, cocina integral, bodega, cuarto de servicio con baño, cuarto de lavanderia, cochera techada para  2 autos.",Apartamento,Tildillos Playa Norte,Ciudad Madero,Tamaulipas,,3.0,2.0,3.0,250.0,,104713.0,22.275,-97.799,2016-12-31 00:00:00,0.0,0.0,0.0,0.0,0.0,6000000.0,2426173.444453803
+200994,casa con dos locales comerciales cerca de av. monterrey,"<p>casa con dos locales comerciales cerca de av. monterrey, consta de sala, comedor, cocina, cochera y tres recamaras. el terreno da de calle a calle, por una de ellas tiene dos locales comerciales.</p>",Casa,,Tampico,Tamaulipas,,3.0,1.0,1.0,176.0,162.0,,,,2015-01-11 00:00:00,0.0,0.0,0.0,0.0,0.0,1000000.0,1647803.303642352
+187538,"casa en venta en tampico, colinas de san gerardo","<p>comodisima casa de dos niveles, cuenta con todos los servicios es lado sombra muy fresca ideal para una familia.
+</p><p>ll120
+</p><p>
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Tampico,Tamaulipas,,2.0,1.0,1.0,70.0,73.0,104618.0,,,2015-08-25 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,532840.6695070309
+16450,"ex3871 casa en venta, col. guadalupe victoria en tampico","<p>casa de 3 recamaras
+</p><p>
+</p><p>sala, comedor y cocina integral
+</p><p>
+</p><p>cochera techada para un auto
+</p><p>
+</p><p>prourbe bienes raíces </p>",Casa,,Tampico,Tamaulipas,0.0,3.0,1.0,2.0,216.0,330.0,104429.0,,,2013-09-27 00:00:00,0.0,0.0,0.0,0.0,0.0,1220000.0,2068543.92029719
+113180,casa nueva en venta en  cd. madero col. lucio blanco calle zaragoza (3),"<p>venta de casa nueva en cd. madero se encuentra a espaldas de la deportiva, con cochera ya techada y lista para construirle a futuro su tercer recámara, con portón y a una cuadra de la av. tamaulipas. vivienda media
+</p><p>  
+</p><p>tel: (833) </p>",Casa,,Ciudad Madero,Tamaulipas,,2.0,,1.0,113.0,77.0,104710.0,22.275411106561176,-97.82896846532822,2015-08-21 00:00:00,0.0,0.0,0.0,0.0,0.0,630000.0,985136.832410982
+293299,casa en venta en enrique cárdenas gonzalez,"-- hcv981e-285 --    casa muy cerca de avenida monterrey, la cual cuenta con un amplio terreno con&nbsp;opci&oacute;n&nbsp;a crecer,&nbsp;bonita cocina integral y zona arbolada. adem&aacute;s&nbsp;ofrece gimnasios y tiendas comerciales cercanas.&nbsp;",Casa,D .,Tampico,Tamaulipas,12.0,3.0,1.0,3.0,220.0,419.0,104517.0,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1600000.0,2110617.9819626743
+1738,"col unidad satelite, altamira, tamps","preciosa casa individual de un piso amplio patio ¡¡¡¡¡ 
+
+2 recamaras, sala, comedor, cocina, 1 baño, cuarto de servicio interior. 
+
+205 mts de terreno 
+81 mts de construccion",Casa,IB,Altamira,Tamaulipas,1.0,2.0,1.0,1.0,81.0,205.0,104821.0,,,2014-10-21 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,648544.3390871114
+81878,comoda y confortable residencia en zona muy tranquila y segura,"comoda y confortable residencia en zona muy tranquila y segura, consta de sala, comedor, cocina, tres recamaras amplias, 2.5 baños (uno en la recamara principal), cochera y patio de lavado/servicio.",Casa,,Ciudad Madero,Tamaulipas,0.0,3.0,1.0,2.0,144.0,147.0,,,,2012-11-10 00:00:00,0.0,0.0,0.0,0.0,0.0,1260000.0,1311210.8103184816
+148170,casa en venta en tampico,"muy bonita casa en esquina. cuenta con 3 rec&aacute;maras, 2 ba&ntilde;os y 1/2, sala de tv, bar, cocina integral, desayunador, antecomedor, estancia-recibidor, amplia sala, comedor, jard&iacute;n y doble cochera.",Casa,Paseo Lomas de Rosales .,Tampico,Tamaulipas,10.0,3.0,,2.0,396.0,,,,,2014-05-28 00:00:00,0.0,0.0,0.0,0.0,0.0,4000000.0,3961876.695243962
+165835,departamento estilo tradicional,"ubicado en segundo nivel, 3 recamaras, 1.5 baños, sala, comedor, cocina integral, cuarto de lavado y estacionamiento para un auto techado.",Apartamento,Universidad Nuevo Leon,Tampico,Tamaulipas,,2.0,1.0,1.0,110.0,,104554.0,22.2790169,-97.8639737,2016-12-09 00:00:00,0.0,0.0,0.0,0.0,0.0,950000.0,953581.2861618692
+245131,"ex3921 departamento en venta, col. universidad poniente en tampico","<p>bello departamento en fraccionamiento cerrado
+</p><p>
+</p><p>en planta baja, 2 recamaras, 1 baño y medio
+</p><p>
+</p><p>sala, comedor y cocina integral
+</p><p>
+</p><p>cuarto de servicio
+</p><p>
+</p><p>cochera para un auto
+</p><p>
+</p><p>piso de duela laminada, protecciones y boiler
+</p><p>
+</p><p>cuenta con vigilancia las 24 horas
+</p><p>
+</p><p>áreas verdes
+</p><p>
+</p><p>equipado con minisplit, ventiladores y persianas
+</p><p>
+</p><p>prourbe bienes raíces </p>",Apartamento,,Tampico,Tamaulipas,0.0,2.0,1.0,1.0,103.0,71.0,104554.0,,,2013-09-26 00:00:00,0.0,0.0,0.0,0.0,0.0,970000.0,879951.6782472724
+253898,venta de casa en cd. madero col. fovissste blanco fracc. santa úrsula priv. naranjo,"<p>casa de venta en cd. madero. se encuentra en privada y cuenta con acceso también por av. monterrey dándole un plus a su excelente ubicación. una de sus 2 recamaras es muy amplia y cuenta con vestidor y balcón, la cocina es integral y ampliada para mayor comodidad, el área de lavado es techada. 
+</p><p>cuenta con espacios en su terreno para futuras ampliaciones y/o modificaciones. 
+</p><p>v-176
+</p><p>pv-08
+</p><p>ll128
+</p><p>
+</p><p>  
+</p><p>tel:
+</p><p>
+</p><p>a-rb08</p>",Casa,,Ciudad Madero,Tamaulipas,,2.0,2.0,2.0,61.0,71.0,104726.0,22.26688986843779,-97.84124665806252,2015-10-30 00:00:00,0.0,0.0,0.0,0.0,0.0,950000.0,438174.0307596923
+22560,casa individual 2 plantas en la col. la pedrera,"f-141 casa individual 2 plantas en la col. la pedrera, altamira, tam., consta de sala, comedor, cocina, 1 ½ baños, 2 recámaras, patio de servicio, jardín, cochera para 2 autos chicos y vitropiso. se acepta todo tipo de crédito. llámanos y haz cita para que la conozcas, sms o whatsapp al , sms al  o ",Casa,La Pedrera,Altamira,Tamaulipas,,2.0,2.0,1.0,70.0,125.0,104849.0,,,2014-03-24 00:00:00,0.0,0.0,0.0,0.0,0.0,420000.0,532840.6695070309
+236880,"oficina en venta en sierra morena, tampico, tamaulipas","excelente oportunidad cerca de ave hidalgo. cuenta con 4 recamaras, 2 baños, cochera para 2 autos, cuarto de servicio y cuarto de tv. zona segura y con vigilancia.",Oficina comercial,Rio Mante,Tampico,Tamaulipas,0.0,,2.0,2.0,295.0,,104489.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,0.0,0.0,2300000.0,2899506.638190496
+17903,"ex3279 local comercial en esquina, col. lomas de rosales en tampico","propiedad en magnifica ubicación
+
+en esquina
+
+construcción de dos niveles tipo local comercial en planta baja y departamento en planta alta
+
+153 m2 de terreno y 115 m2 de construcción
+
+prourbe bienes raíces ",Local Comercial,,Tampico,Tamaulipas,0.0,,0.0,,115.0,153.0,104433.0,,,2012-11-24 00:00:00,0.0,0.0,0.0,0.0,0.0,1400000.0,1006173.8632437239
+139934,nueva y comoda residencia en excelente ubicacion,"<p>nueva y cómoda residencia en excelente ubicación, consta de dos niveles con tres recamaras, la principal con baño-vestidor, sala, comedor, cocina, cochera doble y 2.5 baños en total.
+</p><p>
+</p><p> 
+</p><p>contacto: (833) 
+</p><p></p><p>otras características:</p><p>espacios para autos: 2.<br></p>",Casa,....,Ciudad Madero,Tamaulipas,5.0,3.0,,2.0,210.0,190.0,,,,2016-07-30 00:00:00,1.0,0.0,0.0,1.0,0.0,2400000.0,2005432.8277989645
+290214, en venta en ciudad madero,nocnok id: mx15-bd4285.  de 2 plantas con terraza. recamara principal con jacuzzi. closets en todas las recamaras y amplios espacios interiores. estátus jurídico: libre de gravamen.,Casa,,Ciudad Madero,Tamaulipas,,3.0,1.0,3.0,120.0,133.0,104683.0,22.290793,-97.843077,2016-05-11 00:00:00,0.0,0.0,0.0,0.0,0.0,990000.0,1058766.4403255787

@@ -1,0 +1,630 @@
+id,titulo,descripcion,tipodepropiedad,direccion,ciudad,provincia,antiguedad,habitaciones,garages,banos,metroscubiertos,metrostotales,idzona,lat,lng,fecha,gimnasio,usosmultiples,piscina,escuelascercanas,centroscomercialescercanos,precio,prediction
+99609,se vende casa col plutarco elias calles,"2 plantas 
+4 recamaras 
+1 recamara planta baja con baño completo 
+3 baños 
+cocina integral 
+cochera para 3 autos 
+patio de servicio 
+aires acondicionados 
+protecciones",Casa,sindicalismo,Culiacán,Sinaloa,10.0,4.0,3.0,3.0,140.0,120.0,91624.0,24.755674385899987,-107.42323082513121,2016-10-24 00:00:00,0.0,0.0,0.0,1.0,1.0,860000.0,1359998.739640133
+48224,casa en venta en la primavera,"en area nueva y con una muy bonita casa club, de 216 m2 de terreno, con 150 m2 de construccion al precio: de  y incluye: tanque de gas, boyler, baños, regaderas, llevan pisos de marmol travertino closets y puertas. cocina espanola, granito, parrilla y campana",Casa,San Jose 1,Culiacán,Sinaloa,2.0,2.0,2.0,2.0,216.0,150.0,91641.0,24.736385755110213,-107.4016571044922,2013-01-31 00:00:00,0.0,0.0,1.0,1.0,1.0,2200000.0,2110278.652158924
+200343,las quintas cd. de monterrey,"casa de una sola planta, consta de sala, comedor, area de cocina, cochera techada, con barandal, recientemente se remodelo la fachada y ventanas a un modelo mas contemporaneo, excelente ubicacion.<br /><br />",Casa,,Culiacán,Sinaloa,0.0,4.0,2.0,2.0,180.0,200.0,91443.0,24.816134791400465,-107.3766033918182,2012-10-17 00:00:00,0.0,0.0,0.0,0.0,0.0,1770000.0,1754882.9041237072
+172542,casa en jabalíes recién remodelada,"recién remodelada con 3 recámaras, cocina, comedor, sala, patio y cochera cerrada para un auto. 
+
+tiene detalles como vitropiso nuevo, paredes enjarradas y recién pintadas, lista para habitarse.",Casa,"Andador Mc Gregor #540, Jabalies, Mazatlan, Sinaloa",Mazatlán,Sinaloa,1.0,3.0,0.0,1.0,104.0,90.0,93602.0,,,2015-12-15 00:00:00,0.0,0.0,0.0,0.0,0.0,595000.0,1004602.9916049159
+237705,aparment in lomas de mazatlan    //   departamento en lomas de mazatlan,"opportunity!!! beautiful apartment in lomas de mazatlan, one of the most peaceful and beautiful neighborhoods, unbeatable location just 4 minutes from the beach, a few steps from the green areas and close to hotels, restaurants, pharmacies, shopping centers and tourist areas in mazatlan.
+
+fully remodeled!! one bathroom, one bedroom, study area, very spacious to put a sofa-bed in the living room (like a second/third bedroom) after remodelation never used!! 
+
+great option to live, vacations, or small investment, great location to rent it. pet friendly
+itâ´s located on a very nice area, you can use it for vacation or winter season, and also you can rent it when you are not in mazatlan to get an extra income.
+
+includes: full kitchen, microwave, refrigerator, stove, 2 mini-split (air conditioners) all brand new!! call me to give you more info and make an appointment to see it in person
+
+gran oportunidad!!! hermoso departamento en fraccionamiento lomas de mazatlan, una de las mas tr",Apartamento,,Mazatlán,Sinaloa,1.0,1.0,,1.0,74.0,,,23.246,-106.441,2016-10-28 00:00:00,0.0,0.0,0.0,0.0,0.0,950000.0,708439.8682422353
+20131,venta de casa fracc. san florencio,"casa de 2 plantas- cocina, sala, comedor, 1 baño, 2 recamaras y espacio para 2 autos.",Casa,ayale #1919 ,Culiacán,Sinaloa,5.0,2.0,2.0,1.0,104.0,104.0,91409.0,24.8223164,-107.43571750000001,2016-08-23 00:00:00,0.0,0.0,0.0,0.0,1.0,740000.0,1004602.9916049159
+267140,local comercial. sinaloa.,"local comercial en dos niveles, en condominio comercial tiendas ancla: supermercado ley y coppel. 
+-frente: 4.50 m. a la plaza principal",Local Comercial,Av. Carretera Internacional S/N local 26-C Plaza del Mar,Mazatlán,Sinaloa,20.0,,0.0,,75.0,,93430.0,23.245587720895166,-106.42066701160887,2015-08-17 00:00:00,0.0,0.0,0.0,0.0,1.0,2000000.0,718311.9723543247
+103655,"casa en venta, ahome, los mochis, sinaloa","casa en venta! muy buena ubicacion y area de terreno en fraccionamiento scally, con un buen ambiente y con un precio tratable. tienes que conocerla llama a nuestra oficina y la visitamos sin compromiso alguno, tamaño del terreno 11 x 33 mts. a pocos minutos del waltmart, sams, cines cinepolis, a tres casas se encuentra un gimnasio kochul.  zona muy segura para vivir.",Casa,,Ahome,Sinaloa,11.0,5.0,0.0,2.0,103.0,364.0,92606.0,25.803407,-108.997636,2015-06-28 00:00:00,0.0,0.0,0.0,0.0,0.0,940000.0,994730.8874928267
+56839, en venta  en valles del ejido,"bonita  en venta en valles del ejido. 
+1 planta, 
+2 recámaras, 
+1 baño, 
+sala , comedor y cocina, 
+patio trasero, 
+frente con espacio para 2 autos, 
+ubicado muy cerca de ave. gonzalez boca negra, libramiento 2, a un costado de puerta del sol.",Casa,Valles del Ejido,Mazatlán,Sinaloa,0.0,2.0,2.0,1.0,80.0,140.0,93488.0,23.2790529,-106.40246639999998,2016-12-03 00:00:00,0.0,0.0,0.0,1.0,1.0,570000.0,767672.4929147714
+151181,el paraiso,"a tan solo 5 minutos de la playa y el malecón, en medio de los puntos de mayor atracción de la ciudad de mazatlán como lo son el estadio teodoro mariscal, el bosque de la ciudad y la gran plaza. lugar donde se mezcla la vida y estilo de mazatlán y donde la diversión es para todas las edades se encuentra localizada esta casa residencial en un fraccionamiento donde lo primero que salta a la vista es su paz y tranquilidad.
+
+cuenta con cuatro recámaras, cuatro baños y medio, cocina de ensueño con acabados de lujo, amplia sala comedor, cuarto de lavado y cochera para dos autos con portón automático y sistema de vigilancia y alarma.",Casa,,Mazatlán,Sinaloa,,4.0,2.0,,280.0,196.0,346913.0,23.23870545877048,-106.43500881528854,2016-12-19 00:00:00,0.0,0.0,0.0,0.0,0.0,2900000.0,2742093.3153326428
+10311,bonita casa en la col. juarez,<p>casa en colonia ju&aacute;rez s&uacute;per bien ubicada y con todas las facilidades que necesitas. casa de una planta 3 recamaras y cochera techada construida y preparada para la una segunda planta. tienes que visitarla.</p>,Casa,"MUTUALISMO #3915, Benito Juarez, Mazatlan, Sinaloa",Mazatlán,Sinaloa,5.0,3.0,1.0,1.0,108.0,,,23.2287119,-106.4112447,2013-07-04 00:00:00,0.0,0.0,0.0,0.0,0.0,630000.0,1044091.4080532735
+132303,se vende  en col. sinaloa,"1 planta 
+2 recámaras 
+1 baño 
+cocina integral 
+sala y comedor",Casa,colonia Sinaloa,Mazatlán,Sinaloa,0.0,2.0,1.0,1.0,60.0,140.0,93499.0,,,2015-05-09 00:00:00,0.0,0.0,0.0,0.0,1.0,420000.0,570230.4106729843
+187259,casa en centro histórico,"hermosa casa en el corazón del centro histórico de mazatlán. a unos pasos de la plazuela machado, podrá disfrutar de la tranquilidad que ofrece el centro histórico, además, tendrá a su alcance los mejores restaurantes, cafeterías, y podrá disfrutar de las actividades y eventos de cultura y arte que ahí se realizan de manera cotidiana.
+esta propiedad de una planta cuenta con 3 recámaras, la principal con baño completo con tina. las otras recamaras comparten un baño completo. cuenta con cocina integral, sala y comedor. así como gran potencial para acondicionar un espacio de relajamiento en su ámplia terraza.",Casa,,Mazatlán,Sinaloa,,3.0,0.0,2.0,129.0,142.0,346913.0,23.19856444628727,-106.42185794448851,2016-12-19 00:00:00,0.0,0.0,0.0,0.0,0.0,2600000.0,1251405.59440715
+154494,terreno / lote en venta en ahome,"excelente terreno residencial privado, en los mochis, con una superficie de  9 x 18= 162 m2, en el fraccionamiento portal de hierro.",Terreno,Paseo de Cataluña,Ahome,Sinaloa,,,0.0,,162.0,,,,,2015-05-19 00:00:00,0.0,0.0,0.0,0.0,0.0,374000.0,1577185.0301060989
+55837,hermosa  en venta en real del valle coto 14,"2 plantas 
+sala y comedor 
+cocina integral 
+3 recámaras 
+terraza 
+coto privado con alberca 
+acabados de lujo",Casa,Fraccionamiento Real del Valle,Mazatlán,Sinaloa,0.0,3.0,3.0,2.0,162.0,180.0,93436.0,,,2015-09-22 00:00:00,0.0,0.0,1.0,1.0,1.0,1650000.0,1577185.0301060989
+233822,"casa en venta en el dorado, mazatlán, sinaloa","fabulous one level colonial style home.  focal point of this home is the magnificent indoor garden that brings all the areas of the home together!  special features are, open spacious living areas, three indoor atriums, a large gourmet kitchen with three pantries, cathedral ceilings, marble floors and fine wood finishing throughout! master bedroom suite with large bathroom and walk in closet.  two nice sized guest bedrooms each with in suite bathroom. home features a library, attached guest's studio, sitting room/den and servants quarters. well  groomed gardens surround this home, all on a half block area, in the exclusive neighborhood of el dorado, only three blocks from the beach, restaurants, and shopping! this home is a must see....by appointment only!
+.......................................
+.......................................
+fabulosa casa de un nivel estilo colonial! el punto central de esta casa es su hermoso jardín bajo techo que junta todas las áreas de la casa! la casa cuenta con espacios muy amplios, hermosa cocina gourmet con tres alacenas, techos altos estilo catedral, pisos de mármol y bonitos acabados de madera por toda la casa! recamara principal con baño grande y vestidor, dos recamaras para huéspedes con baño y de muy buen tamaño, también cuenta con librería, estudio para huésped adjunto, sala de estar/ estudio y cuarto de servicio, hermosos jardines rodean esta propiedad, todo esto en un terreno que abarca media cuadra, en el exclusivo fraccionamiento el dorado, a solo 3 cuadras de la playa, restaurantes y tiendas! esta casa la tiene que ver?. solo con cita previa!",Casa,GABRIEL RUIZ,Mazatlán,Sinaloa,0.0,4.0,2.0,4.0,382.0,,93397.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,11000000.0,3749047.934765757
+42099,venta de casa en culiacán,"bonita casa en fracc. rancho contento.casa de dos niveles: planta baja: cochera para dos autos sin techar. con porton electrico de herreria, sala, comedor, cocineta, patio medio techado p/ lavado y medio baño. planta alta: tres recamaras, dos baños.",Casa,Cuadra Bonita 4019,Culiacán,Sinaloa,0.0,3.0,0.0,3.0,108.0,119.0,,,,2014-04-03 00:00:00,0.0,0.0,0.0,0.0,0.0,1080000.0,1044091.4080532735
+128268,venta de casa en culiacán,"agradable casa en renta en andaluciabonita casa de 4 recamaras, cochera techada con porton electrico para 4 autos, cocina integral moderna con estufa y campana, area de lavanderia techada, patio con domo y asador, totalmente recubierto de vitropiso, muy amplia.",Casa,Burgos 5864,Culiacán,Sinaloa,1.0,4.0,,4.0,279.0,181.0,,,,2014-04-12 00:00:00,0.0,0.0,0.0,0.0,0.0,2100000.0,2732221.211220553
+90836,colonia sinaloa,"<p>casa de una sola planta consta de, cochera para 1 auto, sala, comedor, cocina, 3 recamaras, 2 baños, cuarto de servicio, patio interior.</p>",Casa,,Culiacán,Sinaloa,0.0,3.0,1.0,3.0,192.0,225.0,91692.0,24.7888841922443,-107.3742414393167,2013-11-06 00:00:00,0.0,0.0,0.0,0.0,0.0,720000.0,1873348.1534687795
+71530,ubicadisimo local comercial,"local comercial muy bien ubicado sobre avenida, cuenta con 3 cuartos y 2 espacios grandes.  ideal para oficinas o restaurant",Local Comercial,AV. PROLONGACIÓN OBREGON 1451,Ahome,Sinaloa,,5.0,,2.0,170.0,220.0,92614.0,25.7942284,-109.0061994,2016-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,2600000.0,1656161.8630028137
+156907,hermosa  en venta en coto diamante,"3 recámaras 
+2 baños y medio 
+sala y comedor 
+cocina integral 
+estudio 
+closet 
+coto privado con alberca",Casa,fraccionamiento villa marina,Mazatlán,Sinaloa,5.0,3.0,2.0,2.0,90.0,99.0,93409.0,,,2015-10-12 00:00:00,0.0,0.0,1.0,1.0,1.0,1700000.0,866393.534035665
+7406,casa en venta mazatlán: lomas del mar (esquina),"<p>- amplia casa, excelente ubicación y magnificas condiciones. 
+</p><p>- a solo dos minutos de la playa.
+</p><p>- cocina con acabado en madera de cedro.
+</p><p>- ideal para renta, ya que cuenta con dos departamentos completos y separados en la planta alta.
+</p><p>- cerca de bancos, restaurantes, comercios.
+</p><p>- 10 minutos del mercado pino suárez y catedral. 
+</p><p>- zona con todos los servicios.
+</p><p>
+</p><p>planta baja (casa):
+</p><p>-porche.
+</p><p>-garaje para dos autos.
+</p><p>-cocina con acabado en madera de cedro.
+</p><p>-3 recamaras con closet.
+</p><p>-1 baño.
+</p><p>-patio de servicio.
+</p><p>
+</p><p>planta alta:
+</p><p>-entradas independientes a dos departamentos. 
+</p><p>
+</p><p>primer departamento:
+</p><p>-garaje para un auto.
+</p><p>-sala-comedor.
+</p><p>-cocina.
+</p><p>-baño.
+</p><p>-2 recámaras (una con closet y balcón).
+</p><p>
+</p><p>segundo departamento:
+</p><p>-sala con balcón.
+</p><p>-comedor con cocineta.
+</p><p>-2 recámaras con closet.
+</p><p>-baño.
+</p><p>-cuarto de servicio en azotea (área de lavado).</p>",Casa,Av. Juan Carrasco,Mazatlán,Sinaloa,1.0,7.0,2.0,3.0,416.0,218.0,93328.0,23.2142764,-106.4158702,2016-12-31 00:00:00,1.0,0.0,0.0,1.0,0.0,2000000.0,4084699.474576795
+230066,"rento y vendo locales en plaza sobre blvd valle alto desde $2,000 hasta $4,500 de 60m2","<p>rento locales en plaza ubicada en blvd valle alto, super bien ubicada, excelente afluencia vehicular.. todos cuentan con su propio baño, vitropiso y cortina de seguridad... renta desde $2,000 hasta $4,500 y venta en .....informes al cel </p>",Edificio,Fraccionamiento Valle Alto,Culiacán,Sinaloa,,,,1.0,60.0,60.0,91385.0,24.80525363,-107.46119356,2016-06-07 00:00:00,0.0,0.0,0.0,0.0,0.0,1800000.0,570230.4106729843
+229345,casa en venta en ahome centro,"oportunidad !!! casa habitación moderna en dos plantas, cochera cubierta, recibidor, sala- comedor,estancia, cocina, cuarto de tv con medio baño, cubo de escalera, cuarto de servicio y área de jardín; en planta alta: vestibulo,tres recamara con baño, dos balcones y terraza.  ubicación las misiones.",Casa,"Calle Nuestra Sra. De Loreto No. 4387, Fraccionamiento Las M",Ahome,Sinaloa,,3.0,,3.0,261.0,,92824.0,,,2016-07-08 00:00:00,0.0,0.0,0.0,0.0,0.0,4000000.0,2554523.337202945
+241706, en venta en real del valle coto 8,"2 plantas, 1 recámara en planta baja, 2 recámaras en planta alta, 3 baños, sala, comedor, cocina , patio, cochera para 2 autos, coto privado con alberca y seguridad, acabados de lujo.",Casa,Fraccionamiento Real del Valle.,Mazatlán,Sinaloa,0.0,3.0,2.0,2.0,98.0,112.0,93436.0,,,2016-11-18 00:00:00,0.0,0.0,1.0,1.0,1.0,1900000.0,945370.3669323799
+213381,casa en venta en fracc santa fe,"nocnok id: mx16-ci planta 
+2 recamaras 
+closet en recamaras 
+1 baño completo 
+cocina integral 
+cuarto de lavado 
+cochera para 2 autos 
+patio de servicio
+
+advertencia:  recuerda que nunca debes dar un anticipo sin validar que esta publicación sea legítima. nocnok no se hace responsable por la información contenida en los anuncios publicados por los usuarios a través de su sistema.",Casa,Blvd. Santa Fe #2643,Culiacán,Sinaloa,,2.0,,1.0,60.0,104.0,,24.846561,-107.425901,2016-12-12 00:00:00,0.0,0.0,0.0,0.0,0.0,575000.0,570230.4106729843
+48203,casa en venta en ahome,nocnok id: mx15-ax3994. la vivienda se encuentra en el lote: 1; manzana: 27 (97),Casa,,Ahome,Sinaloa,,3.0,,3.0,98.0,160.0,,25.819047,-108.984419,2015-04-16 00:00:00,0.0,0.0,0.0,0.0,0.0,674277.0,945370.3669323799
+179108,venta de tintorería funcionando,"venta de tintoreria, opcional: venta del inmueble con el equipo de tintoreria o solo inmueble. mediddas del terreno 9.60 x 18.70 = 160m2 contruccion de dos niveles destinado uso comercial de dos plantas: baja: area de maquinas, escalera, baño: planta alta: uso para bodega, balcon, sala, privados, baños y terraza . area construida 288m2",Inmuebles productivos urbanos,CALLE GUTIERREZ NAJERA 56 (HOY 406),Mazatlán,Sinaloa,10.0,3.0,0.0,3.0,288.0,288.0,93318.0,25.1721091,-107.4795173,2016-01-05 00:00:00,0.0,0.0,0.0,1.0,1.0,4000000.0,2821070.1482293573
+287336,casa en venta en lomas de mazatlan,"<p>hermosa casa en venta en lomas de mazatlan
+</p><p>p. baja cochera, sala-comedor-cocina, una recamara, un baño, cuarto de servicio con baño y jardin.
+</p><p>
+</p><p>p. alta: tres recamaras, tres baños y balcon.</p>",Casa,CERRO DE LA CAMPANA Y CERRO LARGO,Mazatlán,Sinaloa,5.0,4.0,0.0,,390.0,294.0,93403.0,23.2425545,-106.4440563,2016-12-21 00:00:00,0.0,0.0,0.0,0.0,0.0,4600000.0,3828024.767662472
+81845,,"
+  terreno cabecera de manzana, esquina, plano, con vista panoramica, muy comercial, 
+con gran potencial , en una zona de futuro crecimiento, aproveche el precio solo $ 2000. por metro cuadrado.
+podemos dar financiamiento, se aceptan propiedades por el 50% del valor.",Terreno,Obregon  Esquina Clouthier,Culiacán,Sinaloa,1.0,3.0,0.0,2.0,145.0,,91651.0,24.76152372984784,-107.38959789276123,2012-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1284000.0,1409359.2602005797
+196326,"casa de 4 habitaciones y 2 baños en venta en mazatlán, sinaloa","<p>casa duplex. 2 casas en una! en planta baja cuenta con porche,sala, comedor, cocina integral, 1 ba&ntilde;o 2 rec&aacute;maras,&aacute;rea de lavado. en segunda planta tiene balc&oacute;n, sala, comedor, cocineta, 1 rec&aacute;mara y estudio &oacute; 2 rec&aacute;maras 1 ba&ntilde;o. ubicada en andador, un vecindario seguro, &iexcl;ud. puede vivir en una de las casas y rentar la otra!no cuenta con estacionamiento, debe estacionar en la siguiente calle</p>
+<p>-sin amueblar-</p>
+<p>duplex! two in one, you could live in one and get a profit for the other one! two level house, in first floor it has; a porch,living room, dining area, built in kitchen, two bedrooms, one bathroom, washer &amp; dryer area. in the second floor it has a balcony, living room, dining area, kitchen 2 bedrooms, one bathroom. it is in a safe neighborhood.&nbsp;parking off street, next block</p>
+<p>-unfurnished-</p>",Casa,LOPEZ MATEOS 3,Mazatlán,Sinaloa,30.0,4.0,0.0,2.0,120.0,120.0,93550.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,765000.0,1162556.6573983459
+29238,terreno en blvd. agricultores,"<p>venta de terreno en blvd. agricultores poste 114, casi esquina con c. tierra y libertad. sup. total de terreno 10 x 37, construidos 100.98 m 2. tiene 3 cuartos y 1 baño (sin enjarre), cuenta con banqueta y el blvd. tiene pavimento de concreto hidráulico. a una cuadra se encuentran escuela primaria, jardín de niños e iglesia así como diversos comercios y supermercado a 4 cuadras.  informes:  y </p>",Terreno,Blvd. Agricultores,Culiacán,Sinaloa,10.0,3.0,,1.0,100.0,370.0,91681.0,24.78940339313304,-107.35325932502748,2016-06-12 00:00:00,0.0,0.0,0.0,0.0,0.0,600000.0,965114.5751565585
+239092,vendo casa carlos v ,"casa con terreno excedente 
+4 recamaras
+closets
+3 baños completos
+1 medio baño
+area de cocina 
+area para sala y comedor
+inf. cel. . easybroker id: eb-ao9700",Casa,,Culiacán,Sinaloa,,4.0,3.0,3.0,123.0,130.0,,24.8231660012,-107.4380385383,2016-12-17 00:00:00,0.0,0.0,0.0,0.0,0.0,950000.0,1192172.9697346138
+49991,excelente oportunidad  en la olímpica,"excelente oportunidad se vende  ideal para negocio en la colonia olímpica, muy cerca del hospitalito de la juárez, cuenta con local comercial, bodega, oficina, cochera techada, y un departamento de 2 recámaras de muy buen tamaño.",Casa,Pedro Infante,Mazatlán,Sinaloa,5.0,2.0,3.0,2.0,280.0,180.0,93561.0,23.235261,-106.41078329999999,2015-04-26 00:00:00,0.0,0.0,0.0,1.0,1.0,900000.0,2742093.3153326428
+252173,casa en venta en fraccionamiento valle alto,"nocnok id: mx16-ci3665. casa de 3 recamaras
+1.5 baños
+cocina integral
+patio con bardas y firme de cemento
+vitropiso
+protecciones
+
+advertencia:  recuerda que nunca debes dar un anticipo sin validar que esta publicación sea legítima. nocnok no se hace responsable por la información contenida en los anuncios publicados por los usuarios a través de su sistema.",Casa,Comarca del Valle  #2804,Culiacán,Sinaloa,,3.0,2.0,2.0,96.0,117.0,91385.0,24.806112,-107.46777,2016-12-15 00:00:00,0.0,0.0,0.0,0.0,0.0,950000.0,925626.1587082011
+21940,casa en venta fracc chulavista,"casa de 2 plantas
+4 recamaras
+2 baños completos
+terraza trasera con tejaban metalico
+balcon al frente
+protecciones
+sala/comedor
+escaleras con barandal de madera
+pasillo de servicio
+cochera techada
+patio trasera con piso de concreto. easybroker id: eb-p7275",Casa,,Culiacán,Sinaloa,,4.0,1.0,2.0,167.0,96.0,,24.757098100000004,-107.4128299,2015-11-08 00:00:00,0.0,0.0,0.0,0.0,0.0,700000.0,1626545.5506665455
+154691,casa en venta fracc villa colonial (barrancos),"2 plantas
+3 recamaras
+recamara principal con baño vestidos
+área de televisión
+2 baños completos
+1/2 baño planta baja
+cocina integral
+mini split en sala y recamaras
+cochera para 2 auto
+excelentes acabados
+porton electrico
+cochera techada
+patio de servicio. easybroker id: eb-r5803",Casa,,Culiacán,Sinaloa,,3.0,2.0,2.0,211.0,109.0,,24.7507033702,-107.4294086399,2016-01-20 00:00:00,0.0,0.0,0.0,0.0,0.0,1500000.0,2060918.1315984773
+84448,local comercial en genaro estrada,"una opción para cualquier tipo de negocio. se encuentra en av. principal genaro estrada, cerca de escuelas.
+
+cuena con 126 m2 de terreno y 126 m2 de construcción, de frente 7m y de fondo 18m.
+
+puede ser utilizado como bodega también, ya que tiene acceso para trailer.",Local Comercial,,Mazatlán,Sinaloa,,1.0,2.0,1.0,126.0,126.0,346913.0,23.26649295194312,-106.37206541633606,2016-12-15 00:00:00,0.0,0.0,0.0,0.0,0.0,900000.0,1221789.282070882
+7126,se vende casa centro de navolato 1 piso 3 habitaciones cochera 4 carros 316 mts de terreno,"<p>se vende casa de con un terreno 315.95 (10 de frente por 31.6 de fondo), construcción:  planta, 3 recámaras, 2 baños, sala comedor, cocina amplia, cuarto de servicio, patio amplio con lavadero, (paredes de material y techo laminado), cochera para dos carros techada y 2 sin techumbre, ubicada en el centro de navolato....precio ...informes al cel </p>",Casa,Colonia Navolato Centro,Navolato,Sinaloa,,3.0,,2.0,130.0,316.0,91784.0,24.76843773,-107.70202804,2016-06-07 00:00:00,0.0,0.0,0.0,0.0,0.0,1280000.0,1261277.6985192394
+242284,"casa en venta, ahome, los mochis, sinaloa","casa en centrica privada  el pueblito, muy buen sector cerca de escuelas, centros comerciales,centro historico,  ideal para parejas jovenes que trabajan ambos;  consta de 2 plantas, 3 recamaras 2 y medio baños, area para estacionamiento de  dos carros, area recreativa en condominio, equipada con cocina integral, aires acondicionados, closets, patio de servicio.",Casa,,Ahome,Sinaloa,21.0,3.0,2.0,3.0,116.0,161.0,92613.0,25.795448,-109.004502,2015-07-01 00:00:00,0.0,0.0,0.0,0.0,0.0,795000.0,1123068.2409499884
+141729,las quintas,"<p>casa de dos plantas, pb: cochera techada con porton elect. sala, comedor, cocina integral, alacena adyacente, una recamara con baño completo, patio, 1/2 baño.
+</p><p>pa: 3 recamaras, 2 baños completos, estancia familiar, balcon, cuarto de lavado con 1/2 baño.</p>todas las recamaras tienen closet de cedro, aire acondicionado y ventiladores de techo, los marcos y puertas son de cedro, la casa esta remodelada hace pocos años.",Casa,LAS QUINTAS,Culiacán,Sinaloa,0.0,4.0,2.0,3.0,270.0,150.0,91443.0,24.815992043822583,-107.38153007374956,2013-10-09 00:00:00,0.0,0.0,0.0,0.0,0.0,2250000.0,2643372.274211749
+67688, portomolino residencial privadomazatlán ,"elige ser parte de un gran comienzo....... porto molino residencial privado 
+tenemos 4 modelos disponibles! cada uno cuenta con un estilo y características únicas para que elijas el que más se adecua a tus necesidades y posibilidades. con nuestros planes de financiamiento, adquirir tu casa nueva es mucho más fácil. dale un patrimonio a tu familia. 
+mas informacion ..... asesor inmobiliario   cel.",Casa,ave. de las torres ,Mazatlán,Sinaloa,0.0,3.0,2.0,2.0,120.0,,93443.0,,,2014-11-14 00:00:00,0.0,0.0,1.0,0.0,0.0,1309000.0,1162556.6573983459
+195646,"casa en venta en privada cumbres real.3 rec, con 4 minisplit cocina integral","<p>casa en venta en privada cumbres real consta de 3 recamaras 4 minisplit,cocina integral completa.1.5 ba&ntilde;os con cancel toda la casa con protecciones</p>
+<p>seguridad las 24 horas con puerta de acceso de tarjeta.areas verdes con juegos</p>",Casa,SAN EUGENIO 1277   COL SANTA FE PRIVADA CUMBRE REAL,Culiacán,Sinaloa,8.0,3.0,2.0,1.0,90.0,,,24.844958409070443,-107.42276997647093,2013-08-28 00:00:00,0.0,0.0,0.0,1.0,1.0,810000.0,866393.534035665
+137001,depto. en el conchi,"excelente oportunidad de adquirir un departamento, cuenta con 2 recámaras, un baño completo, sala, comedor, cocina integral, cuarto de lavado, todo en excelentes condiciones, lista para habitarse.",Casa en condominio,,Mazatlán,Sinaloa,,2.0,1.0,1.0,59.0,75.0,346913.0,23.24913542125168,-106.38987528419494,2016-12-19 00:00:00,0.0,0.0,0.0,0.0,0.0,350000.0,560358.3065608949
+161100,terreno el barrio,"<p>terreno de 1,500 m2 totalmente bardeado, da de calle a calle, con un tejaban de 110m2, cuenta con arboles frutales.</p>",Terreno comercial,,Culiacán,Sinaloa,0.0,,0.0,,110.0,,91685.0,24.802788287444912,-107.33271734191135,2013-11-06 00:00:00,0.0,0.0,0.0,0.0,0.0,1590000.0,1063835.6162774523
+290731,"casa en fraccionamiento cedros, sector la conquista.","<p>excelente oportunidad cerca de la conquista, a pocos minutos de escuelas, hospitales y tiendas de autoservicio.
+</p><p>la casa se encuentra por calle cerrada frente a la universidad del pacifico.
+</p><p>
+</p><p>el frente tiene capacidad para estacionar 2 autos, tiene sala, comedor, cocina integral con parrilla y campana, medio baño, pasillo lateral, y patio con barda y piso firme. 
+</p><p>en la segunda planta dos recamaras con closet y un baño con cancel.
+</p><p> 
+</p><p>
+</p><p> </p>",Casa,,Culiacán,Sinaloa,,2.0,2.0,1.0,62.0,115.0,91430.0,24.8227773,-107.4537074,2016-12-31 00:00:00,0.0,0.0,0.0,1.0,0.0,635000.0,589974.618897163
+249411,"casa en venta, mazatlán, sinaloa","casa en venta, excelente ubicación en uno de los mejores cotos privados de mazatlán, varios accesos todos controlados, seguridad las 24 hrs. del día, pavimentación empedrada y adoquinada, terreno de forma trapezoidal, muy cerca del área común: alberca y gimnacio,  sala - comedor, cocina integral, área de lavado, pasillo de servicio, medio baño, 3 recamaras, 3 baños.",Casa,,Mazatlán,Sinaloa,4.0,3.0,2.0,3.0,240.0,221.0,93387.0,23.261928,-106.445632,2015-09-11 00:00:00,0.0,0.0,0.0,0.0,0.0,2850000.0,2347209.1508490685
+283756, en real del valle coto 9,"hermosa  en venta en real del valle coto 9 
+2 recámaras, 
+1 estudio, 
+sala, comedor, cocina integral color roja. 
+aires, 
+1.5 baños 
+coto privado con alberca",Casa,fraccionamiento Real del Valle,Mazatlán,Sinaloa,5.0,2.0,2.0,1.0,82.0,144.0,93436.0,,,2015-12-19 00:00:00,0.0,0.0,1.0,1.0,1.0,1150000.0,787416.7011389502
+263246,venta de casa en culiacán,"casa amplisima en ventaamplia casa con 4 recamaras, 4 baños completos y medios baños. sala, comedor, bar, cocina integral con estufa y campana, cuarto de servicio con baño closet en cada recamara, cochera para 3 autos, cuarto de lavado techado, terraza y balcón, piso laminado, granito, mármol y vitropiso.",Casa,,Culiacán,Sinaloa,0.0,4.0,3.0,4.0,279.0,153.0,,,,2014-01-09 00:00:00,0.0,0.0,0.0,0.0,0.0,2500000.0,2732221.211220553
+265804,casa habitación en venta,"casa habitación de 2 plantas ubicada en ej. mochis, consta de 2 recámaras, 1 bano completo, cocina, comedor, sala, terraza con asador, cochera para 2 autos techada, y área de lavado.",Casa,Cristobal Colón s/n,Ahome,Sinaloa,9.0,2.0,2.0,1.0,192.0,343.0,92575.0,25.826937124994,-109.04986375232001,2016-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,748000.0,1873348.1534687795
+52766,casa en venta en fraccionamiento rincón del valle," excelente, cochera 3 autos al frente , patio trasero  de  7 x 7.0 mts . con acceso independiente
+
+ 3 recamaras cla principal con baño integrado . acepto terrenos acuenta  del 70 % del valor.  ",Casa,Campo Arbaco 5525,Culiacán,Sinaloa,1.0,3.0,3.0,2.0,108.0,160.0,91549.0,,,2012-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,850000.0,1044091.4080532735
+282952,inmueble en venta en hacienda molino de flores,"niveles: 2,  edad: 6,  garage: 2,  tels: 0,",Casa,,Culiacán,Sinaloa,0.0,,0.0,2.0,179.0,179.0,91550.0,24.7842478,-107.39477870000002,2012-11-21 00:00:00,0.0,0.0,0.0,0.0,0.0,1400000.0,1745010.8000116178
+87280,"casa nueva en venta, privada del caimanero, playa sur","hermosa casa en zona privada playa del caimanero. 
+con construcción de 2 plantas 
+primer piso: 
+-cochera 
+-sala 
+-cocina 
+-estudio 
+-área de lavado 
+-1/2 baño 
+
+segundo piso: 
+-3 recámaras 
+-2 baños 
+-terraza",Casa,playas del sur,Mazatlán,Sinaloa,1.0,3.0,2.0,2.0,160.0,160.0,93347.0,23.188531,-106.42003030000001,2016-12-05 00:00:00,0.0,0.0,0.0,1.0,0.0,1600000.0,1557440.82188192
+299755,casa en venta en culiacán,"nocnok id: mx15-ax3752. la vivienda se encuentra en el lote: 1; manzana: 327
+
+-la vivienda se encuentra invadida. el desalojo va por cuenta del cliente.",Casa,,Culiacán,Sinaloa,,2.0,,1.0,114.0,249.0,91699.0,,,2015-05-16 00:00:00,0.0,0.0,0.0,0.0,0.0,486000.0,1103324.0327258096
+14382,venta de casa en ahome,"casa de dos plantas,con espacio para sala, comedor, cocina integral, 2 recamras ne planta baja, en planta alta 3 recamras todas con baño propio y closet, 5 aires acondicionados, cochcera techada con cerco para 2 autos.",Casa,Conrrado Espinoza 777,Ahome,Sinaloa,15.0,5.0,2.0,,279.0,188.0,92571.0,,,2015-04-10 00:00:00,0.0,0.0,0.0,0.0,0.0,1600000.0,2732221.211220553
+14975,casa en venta,"excelente casa de tres recamaras a la venta , tiene acabados de lujo asi como detalles que aunque pequeños hacen la gran diferencia, en la recamara principal cuenta con baño -vestidor y en la planta baja una muy atractiva recamara, sin dejar de lado le excelente ubicación y los acabados residenciales , además todos nuestros servicios son subterráneos y el cocreto en todas nuestras calles es hidráulico, y la calidad ",Casa,av meteotro,Culiacán,Sinaloa,0.0,3.0,2.0,2.0,98.0,,91369.0,,,2014-05-11 00:00:00,0.0,0.0,0.0,1.0,1.0,950000.0,945370.3669323799
+13332,casa en privada villas del río plus,"<p>excelente propiedad en magnificas condiciones, 3 recámaras, 1 baño, patio con barda, sala, comedor, recién pintada, portón eléctrico, protecciones, lista para colocar equipos de aire acondicionado, persianas, cuarto de lavado techado.</p>",Casa,,Culiacán,Sinaloa,11.0,3.0,1.0,1.0,42.0,108.0,91398.0,,,2014-09-24 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,392532.5366553759
+220702,marina kelly,"cuenta con un área de casa club con piscina, perfecto para compartir con amigos y familiares, la seguridad y la privacidad de las áreas y al mismo tiempo muy cerca de las mejores playas de mazatlán. 
+
+la propiedad cuenta con una hermosa arquitectura y fue diseñado para disfrutar de cada minuto que usted viva en ella, su enorme jardín-patio que dá la oportunidad de usarlo en sus reuniones privadas o utilizarlo para espacio recreativo para los niños, o tan simple como para construir cualquier tipo de construcción adicional, que es uno de los más lujosos y de mayor valor en mazatlán.",Casa,"barlovento #320, Marina Kelly, Mazatlan",Mazatlán,Sinaloa,2.0,2.0,2.0,3.0,151.0,298.0,93410.0,,,2016-01-05 00:00:00,0.0,0.0,1.0,0.0,0.0,2399000.0,1468591.884873116
+194532,"remate hipotecario, jardines del country, sinaloa (ac-3600)","empresa dedicada a los   ante notario y registro público tiene grandes oportunidades para ti desde un 50-70% debajo de su avalúo, cesiones de derechos con garantia hipotecaria en buenas condiciones en venta únicamente de contado no creditos. si no sabes que es un remate hipotecario no te preocupes nosotros te explicamos. inversión segura, pago de contado. 
+
+* las imágenes y descripción aquí presentadas pueden no representar con exactitud la realidad por tener diferencias en relación con la numeración, ubicación y superficies.  (r) no es inmobiliaria sino media derechos crediticios litigiosos y/o adjudicatarios.",Casa,Prof. Candelario Ochoa Sur #460 ,Sinaloa,Sinaloa,10.0,3.0,2.0,2.0,221.0,420.0,93234.0,25.8727794,-108.13916100000002,2016-12-03 00:00:00,0.0,0.0,0.0,0.0,0.0,2667500.0,2159639.1727193706
+253541,casa amplia con excedente de terreno,"<p>ubicado por la calle escobedo en la colonia hidalgo, casa de dos plantas, en planta baja tres recamaras, sala comedor, ba&ntilde;o completo, cochera para tres autos, terreno de 10x40 mts,</p>",Casa,escobedo s/n col miguel hidalgo,Culiacán,Sinaloa,20.0,3.0,3.0,2.0,140.0,400.0,91460.0,24.8048499,-107.385498,2014-03-21 00:00:00,0.0,0.0,0.0,1.0,1.0,1200000.0,1359998.739640133
+147909,casa amplia en venta,"casa amplia y bien ubicada,situada en esquina, espacio para sala comedor y cocina, 3 recamaras, 2 banos completos, cochera techada para 3 autos, portón eléctrico cuenta con local comercial con bano.",Casa,Vicente Guerrero 1099,Ahome,Sinaloa,18.0,3.0,3.0,2.0,230.0,206.0,92657.0,25.799928,-108.9829921,2016-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,1300000.0,2248488.1097281747
+267398,casa en venta fracc bonanza,"casa de 2 plantas
+3 recamaras
+recamara principal con baño vestidor
+2 baños completos
+1/2 baño
+equipada con cocina integral
+mini splits en toda la casa
+cochera con porton electrico para 3 autos. easybroker id: eb-q6127",Casa,,Culiacán,Sinaloa,,3.0,3.0,2.0,108.0,146.0,,24.827028755900002,-107.40470159979999,2015-10-05 00:00:00,0.0,0.0,0.0,0.0,0.0,1950000.0,1044091.4080532735
+78002," en preventa en real del valle, muy buen tamaño y agradable"," en preventa en real del valle, muy bien equipada, con tres recámaras, la principal con baño, vestidor y terraza, el mejor coto de real del valle, con un diseño , muy vanguardista y funcional, con aire acondicionado en toda la , cuarto de tv, sala, cocina y comedor muy amplios, cochera techada para 2 autos, aprovecha la preventa.",Casa en condominio,Coto 8,Mazatlán,Sinaloa,0.0,3.0,2.0,2.0,181.0,119.0,93436.0,23.28265945554657,-106.4337298793762,2015-02-21 00:00:00,0.0,1.0,1.0,1.0,1.0,1780000.0,1764755.0082357966
+40871,casa en venta en montuosa,"nocnok id: mx16-bq6347. tim 714883
+desarrollado en 2 niveles que consta de :
+pb sala, comedor,cocina, baño, patio de servicio y recamara
+pa. 2 recamaras, baño , comedor, cocina
+
+advertencia:  recuerda que nunca debes dar un anticipo sin validar que esta publicación sea legítima. nocnok no se hace responsable por la información contenida en los anuncios publicados por los usuarios a través de su sistema.",Casa,"18 de Marzo  #2304 , Mz 30 Cuartel IX",Mazatlán,Sinaloa,,2.0,,1.0,193.0,96.0,93341.0,23.210046,-106.414119,2016-09-13 00:00:00,0.0,0.0,0.0,0.0,0.0,526000.0,1883220.257580869
+109782,venta de edificio en culiacán,"edificio en cuatro niveles para uso de oficinas o habitación.edificio en cuatro niveles que consta: planta baja: local comercial, medio baño, cochera con portón para dos autos. primer piso: oficina con tres cubiculos y dos medios baños. segundo piso: departamento que consta de dos recamaras, un baño completo, centro de lavado, cocina integral, dos recamaras, un baño completo, área de lavado. tercer piso: azotea con terraza panoramica con cuarto de servicio y lavadero.",Edificio,Juan de Dios Batiz 1808,Culiacán,Sinaloa,10.0,,2.0,,274.0,77.0,91561.0,,,2015-01-17 00:00:00,0.0,0.0,0.0,0.0,0.0,1900000.0,2682860.6906601065
+19549,se vende hermosa  en el fracc. el cid.,"hermosa  en venta en fracc. el cid. 
+4 recámaras 
+estudio 
+ante comedor 
+alberca 
+4 baños 
+sala y comedor 
+cocina integral 
+jardín 
+cochera para 3 autos",Casa,fraccionamiento el cid,Mazatlán,Sinaloa,0.0,4.0,3.0,4.0,400.0,,93398.0,,,2016-03-21 00:00:00,0.0,0.0,1.0,1.0,1.0,8500000.0,3926745.8087833654
+21973,"se vende casa nueva, en portalegre excelente precio ","casa de 2 recamaras, 1.5 baños, area para sala y comedor, area de cocina, patio con pasillo lateral, cochera para 2 autos... aprovecha..",Casa,portalegre,Culiacán,Sinaloa,0.0,2.0,2.0,1.0,90.0,119.0,91437.0,,,2014-07-14 00:00:00,0.0,0.0,0.0,0.0,0.0,638000.0,866393.534035665
+141859,casa en venta fracc. paraiso,"a tan solo 5 minutos de la playa y el malecón, en medio de los puntos de mayor atracción de la ciudad de mazatlán como lo son el estadio teodoro mariscal, el bosque de la ciudad y la gran plaza. 
+
+lugar donde se mezcla la vida y estilo de mazatlán y donde la diversión es para todas las edades, ahí se encuentra localizada esta casa residencial en un fraccionamiento donde destaca su paz y tranquilidad. 
+
+cuenta con tres recámaras, 4 baños, 2 completos y 2 medios, cocina equipada, amplia sala comedor, 6 minisplits y cochera para 2 autos.",Casa,"Los Angeles 1, El Paraiso, Mazatlan, Sinaloa",Mazatlán,Sinaloa,2.0,3.0,2.0,2.0,146.0,166.0,93448.0,,,2016-12-03 00:00:00,0.0,0.0,0.0,1.0,0.0,2585000.0,1419231.364312669
+210815,,"es casa sin estrenar, esta libre de gravamen, en una privada con seguridad, se recibe credoto.",Casa,san juan diego,Culiacán,Sinaloa,0.0,3.0,0.0,2.0,120.0,147.0,,24.7573774,-107.4627938,2012-06-09 00:00:00,0.0,0.0,0.0,0.0,0.0,720000.0,1162556.6573983459
+86529,venta de casa en ahome,"casa de una planta, consta de sala, comedor, cocina integral sin estufa, 3 recamaras con sus closet,un baño, cochera techada con reja para un auto.",Casa,Calle del Nivel 2725,Ahome,Sinaloa,20.0,3.0,1.0,1.0,110.0,113.0,,,,2015-04-16 00:00:00,0.0,0.0,0.0,0.0,0.0,590000.0,1063835.6162774523
+166910,"remate hipotecario. angostura, sinaloa.       id 3636","empresa dedicada a los   ante notario y registro público tiene grandes oportunidades para ti desde un 50-70% debajo de su avalúo, cesiones de derechos con garantia hipotecaria en buenas condiciones en venta únicamente de contado no creditos. si no sabes que es un remate hipotecario no te preocupes nosotros te explicamos. inversión segura, pago de contado. 
+
+* las imágenes y descripción aquí presentadas pueden no representar con exactitud la realidad por tener diferencias en relación con la numeración, ubicación y superficies.  (r) no es inmobiliaria sino media derechos crediticios litigiosos y/o adjudicatarios.",Casa,Adolfo López Mateos,Angostura,Sinaloa,5.0,2.0,1.0,1.0,80.0,310.0,93021.0,,,2016-12-03 00:00:00,0.0,0.0,0.0,0.0,0.0,485000.0,767672.4929147714
+163762,departamento en venta en culiacán,"nocnok id: mx15-bm0620. escritura en trámite de inscripción en el rpp, no contamos con la posesión",Apartamento,,Culiacán,Sinaloa,,2.0,,1.0,83.0,,91377.0,,,2016-01-14 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,797288.8052510394
+75688,real pacifico,"propiedad a la venta en real pacifico, un desarrollo habitacional seguro y tranquilo, a corta distancia de centros comerciales, hospitales, escuelas, universidades y el centro de convenciones. 
+
+acogedora casa de dos recámaras con minisplits, estudio, sala, comedor, cocina, área de lavado, baño, cochera techada para dos carros.",Casa,"Calle Mantarraya #3219, Real Pacifico, Mazatlan, Sinaloa",Mazatlán,Sinaloa,5.0,2.0,2.0,1.0,94.0,107.0,93447.0,,,2015-11-23 00:00:00,0.0,0.0,0.0,0.0,0.0,860000.0,905881.9504840224
+282217,casa los olivos,"hermosa propiedad residencial frente alberca en fraccionamiento privado, cuenta con vigilancia las 24 horas del día y se encuentra muy cerca de colegios reconocidos, iglesias y centros comerciales, y a sólo unos minutos de las hermosas playas del puerto de mazatlán.
+esta casa tiene la virtud de estar muy iluminada y con una excelente distribución que consta de dos niveles:
+planta baja: un espacio muy amplio para sala y cocina integral con madera de cedro en excelentes condiciones, cuarto de lavado, medio baño, un patio bardeado de muy buen tamaño para poder disfrutar de una tarde agradable.
+planta alta: cuenta con 3 amplias recámaras; cada una de ellas con sus mini split, y closet en cada una de las 3 recámaras, la recámara principal cuenta con una bonita terraza con vista a la alberca y a las áreas verdes y baño completo.
+espacio para estudio o área de televisión, y otro baño completo en pasillo para compartir.
+esta propiedad cuenta con aljibe.",Casa,,Mazatlán,Sinaloa,,3.0,1.0,3.0,187.0,205.0,346913.0,23.2609257792008,-106.41473399734495,2016-12-15 00:00:00,0.0,0.0,0.0,0.0,0.0,1500000.0,1823987.6329083326
+256349,"casa en venta, mazatlan, sinaloa","excelente casa estilo moderno en coto privado, seguridad las 24 horas., cuenta con alberca y áreas verdes (área común)....  tiene cochera techada para dos autos, tres recamaras, la principal con baño completo; el medio baño se encuentra en la planta baja, sala comedor, cocina integral, patio.  terreno de 110.50 m2 y una construcción de 173 m2  cerca de plazas y centros comerciales......",Casa,,Mazatlán,Sinaloa,4.0,3.0,2.0,3.0,173.0,111.0,,23.285504,-106.430569,2016-05-29 00:00:00,0.0,0.0,0.0,0.0,0.0,1600000.0,1685778.1753390818
+158251,casa nueva en venta en fracc. del bosque,"casa para estrenar ubicada uno de los lugares más céntricos de la ciudad a tan solo 5 minutos de supermercados y tiendas comerciales. 
+
+esta acogedora casa de distribuye de la siguiente manera sala, comedor, cocina y un baño completo, 2 recámaras amplias, patio y una cochera para dos autos.",Casa,"Rincón de las Palmas #74, Fracc. del bosque, Mazatlan, Sinaloa",Mazatlán,Sinaloa,5.0,2.0,2.0,1.0,42.0,109.0,93616.0,,,2016-01-05 00:00:00,0.0,0.0,0.0,0.0,0.0,420000.0,392532.5366553759
+101716,"exclusivo departamento en venta, en la isla, culiacan sinaloa","<p>ubicado en privada tenerife, isla musala, 2 rec., planta baja, area comun en alberca, vitropiso, patio.</p>",Apartamento,,Culiacán,Sinaloa,0.0,2.0,1.0,1.0,66.0,97.0,91451.0,24.825394155291942,-107.36654377062223,2013-09-15 00:00:00,0.0,0.0,0.0,0.0,0.0,745000.0,629463.0353455205
+227484,terreno en venta col. chapultepec 396m2 frente de 13x30 excelente ubicacion,terreno en venta colonia chapultepec tiene un frente de 13x 30 de fondo muy buena ubicacion el terreno tiene una construccion de 120m2 en la parte trasera.,Terreno,CHAPULTEPEC,Culiacán,Sinaloa,,,0.0,,120.0,,91377.0,24.8215746,-107.3905737,2014-04-02 00:00:00,0.0,0.0,0.0,1.0,1.0,2120000.0,1162556.6573983459
+259524,casa en venta en culiacán,"oportunidad excelente casa residencial con accesos controlados, seguridad las 24 hrs, cuenta con cocina integral acabado en caoba, 2 recamaras con closets con acabados en caoba, cuenta con 2 minisplit   de 1 ton en 2 cuartos, 1 minisplit de 2 ton en la sala ambos nuevos, toda la casa con abanicos de techo, patio trasero techado, pasillo lateral  ambos con piso, boyler nuevo, persinas, etc.",Casa,Posada 2459,Culiacán,Sinaloa,2.0,3.0,2.0,1.0,95.0,126.0,,,,2012-02-15 00:00:00,0.0,0.0,0.0,1.0,1.0,990000.0,915754.0545961118
+204389,departamento en venta en mazatlán,"marina villas garden. es un desarrollo de condiminios para quienes desean un lugar para vivir, vacacionar e invertir. al mismo tiempo  una oportunidad de consolidar su patrimonio.son 2 torres, la primera  de 5 niveles y la otra de 4, cuenta con 2 escaleras y un elevador.52 condominios con opcion a equipamiento com, paquete opcional (refrigerador ge, centro de lavado, closets, canceles de bajo, granito en la cubierta de la cocina)
+ $  valor condominios,apartado ,de contado ",Apartamento,Sabalo Cerritos 366 Garden,Mazatlán,Sinaloa,1.0,2.0,2.0,2.0,103.0,,,23.2795954,-106.4680879,2013-12-05 00:00:00,0.0,0.0,1.0,1.0,1.0,1985000.0,994730.8874928267
+273773,casa en venta en mazatlán,"-- rcv1372e-28 --    be the first owner of this beautiful brand new home, located on the marina el cid, in the most exclusive gated community in mazatlan! finishings are the very best...porcelain and marble floors,  and granite in the bathrooms. incredible open spaces and views of the water. home has 3 bedrooms, 5 full bathrooms, an office on the main level and a large den / studio that could be a fourth bedroom. custom make your kitchen!
+just listed by , at this location, price, the quality of the construction and finishings it won´t be here long! make your appointment to see this home today!
+
+           el cid, en la comunidad cerrada más exclusiva de mazatlán! acabados son los mejores...porcelana y suelos de marmol y granito en los banos. espacios abiertos y vistas increíbles del agua. la casa tiene 3 dormitorios, 5 baños completos, una oficina en la planta principal y una amplia sala / estudio que podría ser un cuarto dormitorio. hacer su cocina!
+solo aparece por , en este lugar, el precio, la calidad de la construcción y acabados que no estarán aquí mucho tiempo! haga su cita para ver esta casa hoy!",Casa,EL CID 420,Mazatlán,Sinaloa,0.0,3.0,2.0,,295.0,248.0,,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,6000000.0,2890174.877013983
+124226,venta de casa en mazatlán,"hermosa casa en villa galaxia en excelente ubicaciónhermosa casa de dos niveles excelente ubicación en zona comercial, y afluencia vehicular.  pb.cochera para un auto, sala, comedor cocina integral, 3 locales. pa. 1 recamara con baño completo , 2 recamaras, un baño completo, terraza, y area de lavado.",Casa,Libra 3500,Mazatlán,Sinaloa,22.0,4.0,1.0,3.0,182.0,140.0,,,,2015-04-29 00:00:00,0.0,0.0,0.0,0.0,0.0,1342000.0,1774627.112347886
+20382,"inmueble ideal para consultorios , laboratorio, oficinas, zona centro","casa sola muy bien ubicada para oficina, comercio, notaría, consultorio, laboratorio, etc., ya que por su distribución puede adaptarse fácilmente a varios cubículos. 
+ubicada en la zona centro, muy bien comunicada, con todos los servicios a la mano. 
+está frente al hospital del carmen. 
+el terreno es irregular, el frente que da a la calle es de 4.5 ml. pero al terminar la cochera se amplia a 7.50ml. con un fondo de 30 ml. 
+
+está libre de gravamen.",Casa,Hidalgo 423,Culiacán,Sinaloa,20.0,3.0,1.0,2.0,192.0,226.0,92031.0,24.8088707,-107.39012379999996,2016-07-19 00:00:00,0.0,0.0,0.0,1.0,1.0,1590000.0,1873348.1534687795
+32307,casa céntrica con alberca col. los pinos,"<p>casa en col. los pinos de dos plantas cuanta con: cochera p/2 autos, sala, comedor, cocina integral, desayunador, area de servicio, 3 1/2 baños, sala de juegos, area de asador, alberca, sala de tv, 3 recamaras, balcon.</p><p>otras características:</p><p>tipo de aire acondicionado: minisplit.<br></p>",Casa,rio suchiate,Culiacán,Sinaloa,10.0,3.0,2.0,3.0,340.0,342.0,91448.0,,,2016-09-26 00:00:00,0.0,0.0,1.0,1.0,1.0,3000000.0,3334419.562058004
+26122,casa en venta en mazatlán,"-- rcv1381e-28 --    beautiful contemporary home! enjoy life in a gated comunity with 24/7 security, green areas with parks and located in area with potential added value and close to shopping mall and school.
+thsi home is two stories, 2 bath and master bedroom with with studio a full bathroom, kitchen cabinetry with cedar wood, storage unit, two car garage and air conditioner units.
+inquire for more information today!           hermosa y espaciosa casa con un toque moderno! disfrute de la tranquilidad de este fraccionamiento privado, con seguridad las 24 horas y acceso controlado, con bonitas áreas verdes con juegos infantiles, ubicado en una zona de gran plusvalia muy cerca de centros comerciales y escuelas. 
+esta casa cuenta con 2 plantas, 3 recámaras,2 baños, recámara principal amplia con estudio y baño, cocina integral con gabinetes de cedro, patio, bodega, cuarto de lavado techado, cochera para 2 autos y 3 minisplits. 
+no deje pasar esta oportunidad!!",Casa,LOS MANGOS II 435,Mazatlán,Sinaloa,0.0,3.0,2.0,2.0,108.0,194.0,,,,2016-02-18 00:00:00,0.0,0.0,0.0,0.0,0.0,1890000.0,1044091.4080532735
+83040,casa en venta en villa satelite,"<p>casa con muy buena ubicacion de dos niveles. 
+</p><p>primer nivel: cochera techada con porton electrico para un carro, cocina integral con estufa y campana, area de lavado, medio baño, sala, comedor, 2 recamaras con baño completo y closet.
+</p><p>segundo nive: 2 recamaras la recamara principal con baño completo con jacuzzi y close, la segunda con closet y area de lavado.</p>",Casa,,Culiacán,Sinaloa,10.0,4.0,1.0,2.0,179.0,113.0,91458.0,24.803661,-107.35506700000002,2013-10-24 00:00:00,0.0,0.0,0.0,0.0,0.0,1250000.0,1745010.8000116178
+151571,"casa en venta en benito juárez, mazatlán, sinaloa","excellent investment property located in a corner over an avenue 1st. floor: three commercial spaces, a garage that can be made into another commercial space. 2nd floor: 3 bedrooms, living and dining area that can be another 4 commercial spaces.
+excelente oportunidad de inversión en la colonia juárez, sobre avenida independencia, en esquina con 3 locales comerciales, 3 recámaras y cochera que pueden convertirse en una plaza de 8 locales.
+",Casa,JUAN ESCUTIA,Mazatlán,Sinaloa,20.0,3.0,1.0,1.0,280.0,140.0,93609.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,1200000.0,2742093.3153326428
+62740,casa en venta fraccionamiento los angeles ,"<p>casa de 2 recamaras, area para sala y comedor, area de cocina, closets, 1 ba&ntilde;o completo, estacionamiento para 2 autos..</p>",Casa,sas,Culiacán,Sinaloa,4.0,2.0,2.0,1.0,90.0,110.0,91273.0,24.8034321,-107.4404419,2014-07-14 00:00:00,0.0,0.0,0.0,0.0,0.0,390000.0,866393.534035665
+21677,casa en venta  loma bonita,"casa de oportunidad de 1 planta sobre avenida bahia de kino, cuenta con cocina, sala área de comedor, 2 recámaras, 1 baño completo, patio enrejado, cochera para un auto con cancel tiene 6.50 metros de frente por 16 metros de fondo.
+
+aplica cualquier tipo de crédito.",Casa,,Mazatlán,Sinaloa,,2.0,1.0,1.0,75.0,104.0,346913.0,23.246003101630702,-106.36994647121435,2016-12-15 00:00:00,0.0,0.0,0.0,0.0,0.0,450000.0,718311.9723543247
+31668,"casa en venta col.las vegas,  de 227m2 de terreno y 164 de construccion , 3 rec. area de sala comedo","<p>&nbsp;</p>
+<p><strong>casa en venta&nbsp; , de 2 plantas ,planta baja area de salacomer,&nbsp; amplias.area de cocina un granpatio,parte frontal con cuarto ideal para negocio , planta alta 3 recamaras&nbsp; con ba&ntilde;o compartido ,con closet y pisolaminado en una recamara ,balcon&nbsp; frontal</strong></p>
+<p>&nbsp;</p>
+<p><strong>terreno de 227m2 y 164superficie de construccion.</strong></p>",Casa,CALLE CUAHTEMOC LAS VEGAS,Culiacán,Sinaloa,0.0,3.0,0.0,2.0,164.0,227.0,91459.0,24.80793828955604,-107.38153588717194,2013-08-25 00:00:00,0.0,1.0,0.0,1.0,1.0,1175000.0,1596929.2383302776
+13746,condomino hacienda las cruces,"2 planta, 
+2 recámaras, 2 baños, sala, comedor, cocineta, aljibe,cuarto de lavado. 
+acabados de lujo.",Apartamento,fraccionamiento hacienda las cruces,Mazatlán,Sinaloa,0.0,2.0,1.0,2.0,89.0,99.0,93452.0,,,2016-03-15 00:00:00,0.0,0.0,1.0,1.0,1.0,1100000.0,856521.4299235756
+141913,casa en venta en culiacán,nocnok id: mx15-ax3974. la vivienda se encuentra en el lote: 61; manzana: 25,Casa,,Culiacán,Sinaloa,,2.0,,1.0,230.0,297.0,91656.0,24.775981,-107.382765,2015-04-16 00:00:00,0.0,0.0,0.0,0.0,0.0,971300.0,2248488.1097281747
+233196,casa en venta en fraccionamiento valle alto,"casa en privada valle adriatico, 3 recamaras, area de cocina, sala y comedor, totalmente nueva sin estrenar con 100 m2 de terreno excedente, aprovecha super precio...",Casa,Privada Valle Adriatico,Culiacán,Sinaloa,3.0,3.0,3.0,2.0,140.0,220.0,91385.0,,,2012-01-11 00:00:00,0.0,0.0,0.0,0.0,0.0,1300000.0,1359998.739640133
+190704,casa en venta en ahome,nocnok id: mx14-aw1620. la vivienda se encuentra en el lote: 17; manzana: 4,Casa,,Ahome,Sinaloa,,3.0,,2.0,93.0,119.0,,25.805764,-108.964489,2015-05-16 00:00:00,0.0,0.0,0.0,0.0,0.0,633955.0,896009.8463719331
+270054,venta de casa en valle del ejido oportunidad!(**),"oportunidad de adquirir una vivienda que tiene todo al alcance; esta rodeada por centros comerciales como plaza sendero, avenidas y calles principales como libramiento 3, santa rosa, av. oscar perez escobosa a unos minutos. 
+
+tiene las siguientes características: 
+48 metros construidos 
+103 metros de construcción 
+1 piso 
+2 recamaras 
+1 baño",Casa,OCÉANO ATLANTICO,Mazatlán,Sinaloa,10.0,2.0,0.0,1.0,48.0,103.0,93488.0,23.2748625,-106.399258,2016-12-31 00:00:00,0.0,0.0,0.0,0.0,0.0,405000.0,451765.16132791206
+111009,excelente ubicación! casa en playa sur,"<p>asombrosa casa en playa sur ubicada en la zona carnavalera de mazatlan muy cerca de la plazuela machado, de deliciosos restaurantes,bares y museos, y unos minutos del malec&oacute;n de mazatlan y a solo 5 minutos del mercado pino suarez y tiendas en el centro!!</p>
+<p>planta baja: cochera para dos carros con vitropiso (solo queda un carro techado) cocina integral en madera de cedro con alacena en madera de cedro. sala y comedor y un ba&ntilde;o completo, asi como una recamara con ba&ntilde;o completo con puerta de aluminio con salida al patio.pasillo lateral con entrada al patio, cuarto de lavado con lavadero y boyler nuevo, instalacion para lavadora y secadora.escalera con pasamanos de madera en madera de cedro y desvan de cedro bajo la escalera.planta alta: area para t.v., una recamara amplia con terraza, otra recamara con vista a la calle, las dos recamaras cuentan con closet, un ba&ntilde;o completo para compartir en las dos recamaras y cuarto con cocineta.tanque estacionario. ventaneria en aluminio y protecciones en toda la casa.</p>
+<p>no desaproveche esta oportunidad!!</p>
+<p>estoy a sus</p>
+<p></p>",Casa,"playa azul  #321 mazatlan, sinaloa",Mazatlán,Sinaloa,7.0,3.0,2.0,3.0,204.0,,,23.1919164,-106.4196987,2013-07-04 00:00:00,0.0,0.0,0.0,0.0,0.0,2100000.0,1991813.4028138518
+21861,venta de casa en ahome,"casa con excelente ubicacion consta de 2 recamras con closet, 1 baño, espacios para sala, comedor, cocina integral,area de lavado techada, cochera para un auto.",Casa,Privada San Jeronimo 1540,Ahome,Sinaloa,25.0,2.0,1.0,1.0,98.0,160.0,92606.0,,,2015-03-22 00:00:00,0.0,0.0,0.0,0.0,0.0,850000.0,945370.3669323799
+283660,"casa en venta en prados del sol, (stanza magnolia) culiacan sinaloa","<p>casa en venta de dos plantas, 2 recamaras 1.5 baños, 96 m2 terreno y 64.5 construc. protecciones, sala-comedor, cocina, patio de servicio, cochera descubierta
+</p><p>cochera para 2 autos. conocida como stanza magnolia.</p>",Casa,,Culiacán,Sinaloa,,2.0,2.0,2.0,65.0,96.0,91628.0,24.773019248261672,-107.41539001464844,2015-02-23 00:00:00,0.0,0.0,0.0,0.0,0.0,495000.0,619590.9312334311
+3260,prados del sol (cerca de plaza san isidro),"<p>casa de una planta cerca de el boulevard las torres y de la plaza san isidro 
+</p><p>
+</p><p>pasada de camiones
+</p><p>cerca de escuela
+</p><p>media cuadra de boulevard
+</p><p>
+</p><p>casa de 1 planta
+</p><p>2 recamaras
+</p><p>area de sala-comedor
+</p><p>area de cocina
+</p><p>patio trasero bardeado
+</p><p>area de lavado
+</p><p>
+</p><p>protecciones </p>",Casa,CALLE,Culiacán,Sinaloa,5.0,2.0,2.0,1.0,45.0,96.0,91628.0,24.752355778479927,-107.4094784259796,2016-10-17 00:00:00,0.0,0.0,0.0,1.0,1.0,380000.0,422148.848991644
+262784,excelente casa en venta en framiento valle alto,"excelente casa en privada, consta de la siguiente distribución:  cochera techada para dos autos, amplia área de sala-comedor, con refrigeración, preciosa cocina integral con madera, con cubierta de granito y campana; medio baño y patio de excelente tamaño.   planta alta: tres recamaras amplias, cada una con refrigeración; recamara principal con baño vestidor, dos de las recamaras cuentan con closet de madera. agradable terraza.",Casa,Circuito Valle del Caspio 2610,Culiacán,Sinaloa,3.0,3.0,2.0,3.0,161.0,126.0,91385.0,24.8040077,-107.4625869,2016-12-02 00:00:00,0.0,0.0,0.0,0.0,0.0,1500000.0,1567312.9259940095
+26769,blvd. jiquilpan,"<p>casa de dos plantas, cochera techada con porton electrico p/2 autos, sala, comedor, cocina integral, 3 recamaras con closet, 2 baños, patio interior.</p>",Casa,,Ahome,Sinaloa,0.0,3.0,2.0,2.0,177.0,231.0,92549.0,25.80923222416475,-108.99942876088257,2013-11-06 00:00:00,0.0,0.0,0.0,0.0,0.0,1750000.0,1725266.591787439
+285779,"departamento torres del rio, torre 4 5to nivel","<p>hermoso departamento, con muy bonita vista al rio!!
+</p><p>cuenta con sala, comedor, cocina integral , area de lavado, baño completo, recamara con closet y recamara principal con baño vestidor.
+</p><p>cuenta con a.a. acondicinado y persianas en todas las areas, estacionamiento techado para 2 autos. servicio de vigilancia y monitoreo 24 hr. acceso controlado.
+</p><p></p>",Apartamento,,Culiacán,Sinaloa,2.0,2.0,2.0,2.0,85.0,,91316.0,24.823851741011875,-107.40300464603935,2013-10-23 00:00:00,0.0,0.0,1.0,0.0,0.0,1500000.0,817033.0134752182
+256279,"casa en venta en el cid, mazatlán, sinaloa","vista al campo de golf
+area para construir alberca
+zona privilegiada
+muy buena ubicación
+excelente para rentar con facilidad...
+view to the golf course
+excellent area to build a swimmingpool very good location",Casa,CALLE DE LA TIZONA,Mazatlán,Sinaloa,1.0,4.0,,2.0,200.0,250.0,93398.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,2349000.0,1952324.9863654943
+21784,extra large master suite marina condo  //  condominio en la marina con las habitaciones mas amplias,"best condos in la marina 
+enjoy the size, great marina view and high quality in this beautiful 3 bedroom condo, with 2 full baths, gourmet kitchen, cedar and granite in baths and kitchen.  all appliances included. laundry, on demand hot water system, water pressurization. double private terrace.central a/c, water purification system. monitored security system 24/7 , swimming pool, palapa, very pleasant common areas and private parking. 
+you have to visit them!!
+
+los mejores condominios en la marina
+disfrute los espacios amplios, la preciosa vista a la marina y calidad de estos condominios de 3 recamaras y 2 baños completos, cocina gourmet, cedro y granito. electrodomesticos completos, lavanderia, hidroneumatico y agua caliente on - demand.  central a/c y sistema de purificacion de agua. doble terraza privada. sistema monitoreado de vigilancia 24/7, alberca, palapa, agradables areas comunes. estacionamiento privado.
+tiene que conocerlos!!",Casa en condominio,,Mazatlán,Sinaloa,1.0,3.0,1.0,3.0,157.0,,346913.0,23.2755,-106.466,2016-12-28 00:00:00,0.0,0.0,0.0,0.0,0.0,3500000.0,1527824.509545652
+176210,no tienes para el enganche? rentala un año y quedatela! urbiquintas versalles!,"<p>sin comprobar ingresos! sin infonavit! sin enganche!solo rentala por un a&ntilde;o, ahorra gastos de enganche, escrituraci&oacute;n y mas a trav&eacute;s de tu renta, y al mes 13 la casa se escritura a tu nombre!&nbsp;asi es! te otorgamos un cr&eacute;dito para que esa casa sea tuya, con pagos fijos, en pesos, y con un seguro de vida que salvaguarde el patrimonio de tu familia, el cual tiene validez desde el periodo de renta.las casas se encuentran dentro de residenciales privados, con &aacute;reas verdes, parques seguro para tus hijos, seguridad y un ambiente tranquilo.nota:estamos hablando de casas residenciales! en esta ocasi&oacute;n no contamos con casas de interes social o infonavit..somos reales home &amp; finance</p>",Casa,"BLVD. LAS TORRES, ENSEGUIDA DE MZ TERRANOVA",Culiacán,Sinaloa,5.0,3.0,2.0,1.0,100.0,122.0,,24.768604066667,-107.45836263333,2013-07-16 00:00:00,0.0,0.0,0.0,1.0,1.0,850000.0,965114.5751565585
+172950,casa amplia en venta,"sc 110m2. 
+st 425m2. 
+casa de gran tamaño en muy buenas condiciones, está en esquina. 
+bardeado completamente con 3 recamaras, 2 baños completos, 2 closets grandes, cocina integral, vitropiso, porton, porche, cochera 4 autos. 
+todos los servicios.",Casa,"El Diez, Calle sexta",Culiacán,Sinaloa,5.0,3.0,1.0,2.0,110.0,425.0,92031.0,,,2014-07-14 00:00:00,0.0,0.0,0.0,1.0,0.0,860000.0,1063835.6162774523
+164588,casa en privanzas frente alberca,"id:28355, excelente propiedad  totalmente amueblada en un exclusivo fraccionamiento privado con seguridad las 24 horas, sus amenidades son: casa club, alberca, áreas verdes, zona de parrilladas.
+
+esta propiedad cuenta en segunda planta con 3 recamaras, la recamara principal cuenta con closet vestidor, baño completo y con una amplia terraza con vista a la alberca, un baño completo compartido con 2 recamaras, un estudio, cada una de sus habitaciones cuenta con minisplit y closet.
+
+planta baja cuenta con sala-comedor con minisplit, medio baño, cocina integral, pasillo de servicio, aljibe y bomba hidronomatica, un pequeño patio, cochera techada 2 autos con portón americano.
+
+ no pierdas esta gran oportunidad haz una cita!",Casa,,Mazatlán,Sinaloa,,3.0,2.0,2.0,147.0,231.0,,,,2014-09-09 00:00:00,0.0,0.0,0.0,0.0,0.0,1850000.0,1429103.4684247584
+248090,casa en venta enseguida de walmart,"<p>3 bedroom, 2 1/2 bathroom, kitchen, </p>",Casa,,Mazatlán,Sinaloa,0.0,3.0,2.0,2.0,130.0,112.0,93430.0,23.228653,-106.43072010000004,2013-11-20 00:00:00,0.0,0.0,0.0,0.0,0.0,1350000.0,1261277.6985192394
+169040,hermosa casa en venta mazatlan : mediterraneo club residencial,"<p>planta baja 
+</p><p>
+</p><p> porche 
+</p><p> estudio
+</p><p> sala
+</p><p> cocina
+</p><p> desayunador
+</p><p> comedor
+</p><p> área de lavado
+</p><p> patio y jardín
+</p><p> área para parrilla
+</p><p>
+</p><p>planta alta 
+</p><p>
+</p><p> recámara i con baño
+</p><p> recámara ii
+</p><p> recámara iii
+</p><p> baño
+</p><p></p>",Casa,anda lucia,Mazatlán,Sinaloa,5.0,3.0,2.0,2.0,191.0,191.0,93419.0,23.2494148,-106.41114249999998,2016-12-31 00:00:00,0.0,0.0,0.0,0.0,0.0,3200000.0,1863476.0493566901
+166482,vendo casa en colinas del real,"<p>vendo casa en colinas del real en muy buen estado y consta de:</p>
+<ul>
+<li>1 planta</li>
+<li>sala-comedor</li>
+<li>cocina</li>
+<li>2 rec&aacute;maras</li>
+<li>2 ba&ntilde;os (uno en el patio trasero)</li>
+<li>cochera</li>
+<li>tinaco</li>
+<li>protecciones</li>
+</ul>
+<p>en buena ubicai&oacute;n cerca de juegos infantiles, avenidas importantes, escuelas, rutas de cami&oacute;n, centros comerciales. &nbsp;nosotros tramitamos tu cr&eacute;dito.</p>",Casa,Fracc Colina del Real,Mazatlán,Sinaloa,17.0,2.0,1.0,2.0,70.0,90.0,93523.0,23.2684702,-106.3883258,2013-12-10 00:00:00,0.0,0.0,0.0,1.0,1.0,345000.0,668951.4517938779
+184772,fovissste playa azul,"excelente casa muy amplia en fovissste playa azul de 2 niveles, con fachada estilo minimalista, tiene 3 recámaras, 2 baños, sala, comedor, cocina integral, cochera para dos autos con portón eléctrico, muy bien ubicada, todo a tu alcance: clínicas, escuelas, tiendas de autoservicio, central de autobuses etc.",Casa,"Ocho #2113, Fovissste Playa Azul, Mazatlan, Sinaloa",Mazatlán,Sinaloa,5.0,3.0,2.0,2.0,197.0,148.0,93347.0,,,2015-11-27 00:00:00,0.0,0.0,0.0,0.0,0.0,1320000.0,1922708.6740292264
+138332,bonita casa en la juarez,"<p>casa ubicada a una cuadra de la plazuela de la ju&aacute;rez y del mercado esta propiedad cuenta con dos plantas.</p>
+<p>&nbsp;planta baja cuenta con: 3 recamaras 2 de ellas en closet de cedro, su cocina integral en cedro, comedor, sala&nbsp; cuenta con estudio, ba&ntilde;o completo, amplio patio, &aacute;rea de lavado techado.</p>
+<p>&nbsp;planta alta cuenta con: 2&nbsp; recamaras, su cocina, comedor, ba&ntilde;o completo, terraza, adem&aacute;s cuenta con entrada independiente.</p>
+<p>&nbsp;</p>
+<p>es ideal para negocio ya que cuenta con una distribuci&oacute;n de dos casa en una, cada una con entrada independiente.&nbsp;</p>
+<h5 class=title>instalaciones</h5>
+<ul>
+<li>cuarto de lavado</li>
+<li>patio</li>
+<li>terraza</li>
+</ul>
+<p>&nbsp;</p>",Casa,"Juan escutia #505, Benito Juarez, Mazatlan, Sinaloa",Mazatlán,Sinaloa,6.0,,0.0,,157.0,,,23.2292148,-106.4068972,2013-07-04 00:00:00,0.0,0.0,0.0,1.0,0.0,1100000.0,1527824.509545652
+177962,casa en venta en stanza toscana,"casa en venta en culiacán de oportunidad, en residencial stanza toscana , se encuentra en privada, consta de  dos plantas, recién ampliada,  se integra de 3 recamarás con closet´s, 1 cuarto de juegos o estudio, cuarto de lavado, 2 baños completos planta alta, 1/2 baño planta baja , sala, comedor, bonita cocina integral  con barra de granito. casa completamente climatizada. pasillo lateral a patio, cochera techada con estructura metálica para dos carros. excelente ubicación, zona muy tranquila y agradable,  cercana a  escuelas privadas, universidades y supermercados. informes ",Casa,Privada Sarre,Culiacán,Sinaloa,,3.0,1.0,4.0,110.0,187.0,91390.0,,,2016-09-02 00:00:00,0.0,0.0,0.0,0.0,0.0,1260000.0,1063835.6162774523
+242425,venta de departamento en culiacán,"departamento con muy buena ubicacióndepartamento ubicado en modulo 4, tercer piso que consta de sala, comedor, cocina integral con estufa y campana, barra de cristal, area de lavado, closet de blancos, baño completo, recamara con closet. recamara principal con closet y baño completo con accesorios finos.",Apartamento,Av. El Dorado 1609-406,Culiacán,Sinaloa,0.0,2.0,2.0,2.0,90.0,,,,,2014-09-06 00:00:00,0.0,0.0,0.0,0.0,0.0,699000.0,866393.534035665
+101400,juan carrasco,"en venta casa con dos locales comerciales, se ubican en av. principal a unas cuadras del malecón y playas.
+
+la propiedad se encuentra lista para establecer sus negocios, cuenta con un cuarto en la parte trasera que puede servir como cuarto de servicio o bodega, acompañado de pequeño patio.",Local Comercial,,Mazatlán,Sinaloa,,3.0,1.0,1.0,130.0,129.0,346913.0,23.214556938238115,-106.41188146805763,2016-12-19 00:00:00,0.0,0.0,0.0,0.0,0.0,900000.0,1261277.6985192394
+71257,venta de casa en ahome,"casa de una planta en excelente ubicacion en sector scally.de 2 recamaras, 2 baños, area de lavado cubierta, cochera para un auto, closet en una recamara en",Casa,Rio Quelite 893,Ahome,Sinaloa,28.0,2.0,1.0,2.0,138.0,144.0,92606.0,,,2015-03-25 00:00:00,0.0,0.0,0.0,0.0,0.0,900000.0,1340254.5314159542
+73276,excelente casa en venta en guamuchil sinaloa.,"excelente casa en esquina de una planta, con cochera para 2 autos con portón eléctrico ,consta de 3 recamaras cada una cuenta con closet, 3 baños completos, un estudio, área de sala, comedor, recibidor, cocina integral en madera, cuarto de lavado.",Casa,Hilario Perez de León 65,Salvador Alvarado,Sinaloa,35.0,3.0,2.0,3.0,296.0,310.0,92945.0,21.524,-102.228,2016-12-03 00:00:00,0.0,0.0,0.0,0.0,0.0,2100000.0,2900046.9811260724
+246182,,"excelente residencia con finos acabados, tres recamaras con baño propio cada una y closets de lujo, cuarto de tv adicional, cocina integral de calidad, piso rectificado, escalera con pasamanos de cristal, cochera para tres autos",Casa,Cerro del Vigia  450,Culiacán,Sinaloa,3.0,3.0,3.0,3.0,349.0,235.0,91662.0,24.7865309,-107.38737720000002,2014-03-21 00:00:00,0.0,0.0,0.0,1.0,1.0,4400000.0,3423268.4990668083
+222251,casa en rafael buelna,"amplia casa cuenta con: 
+
+cochera 
+sala 
+2 comedores 
+2 cocinas 
+4 recamaras 
+2 baños 
+2 estudios 
+balcón 
+
+excelente ubicación!!",Casa,avenida rafael buelna,Mazatlán,Sinaloa,5.0,4.0,1.0,2.0,188.0,133.0,93461.0,,,2016-08-19 00:00:00,0.0,0.0,0.0,1.0,1.0,1375000.0,1833859.737020422
+88566,casa en condominio en venta en mazatlán,"-- rcov1143e-28 --    excelente oportunity !!
+great location, just a 3 blocks from the beach, malls, restaurans, clubs etc.
+living room, kitchen, 2 bedrooms, 1 bathroom and laundry room.
+this is one of the few condos for sale in this  great price at this zone!
+make an appointment to see it!â¡â¡excelente oportunidad!!
+departamento amueblado a tan solo 3 cuadras de la playa, espacioso, sala comedor, cocina integral y 2 recamaras de muy buen tamaã±o.
+esta es una de las pocas propiedades que encontras en esta zona a este precio.
+haz tu cita para verla!",Casa en condominio,SABALO COUNTRY 34,Mazatlán,Sinaloa,0.0,2.0,1.0,1.0,62.0,,,,,2016-01-26 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,589974.618897163
+234082,casa de oportunidad en venta fracc santa susana (barrancos),"casa de 1 planta
+2 recamaras
+1 baño
+sala comedor
+cocina integral
+cochera para 2 autos con rejas
+patio de servicio. easybroker id: eb-q7326",Casa,,Culiacán,Sinaloa,,2.0,2.0,1.0,49.0,127.0,,24.7582986502,-107.43676338520001,2015-07-15 00:00:00,0.0,0.0,0.0,0.0,0.0,350000.0,461637.26544000144
+102763,"casa en venta, mazatlán, sinaloa","excelente casa en venta, bien ubicada, tres recamaras, sala, comedor, cocina integral con superficie de granito, módulos de madera de caoba, cuenta con estufa empotrada en la base y campana, cisterna de 6000 lts., tubería de cobre, portón eléctrico fabricado en forja de hierro, así como puerta principal y puerta de entrada de cochera al interior.  se escuchan ofrecimientos!! ven y conocela.",Casa,,Mazatlán,Sinaloa,,3.0,2.0,4.0,194.0,140.0,,23.24592,-106.41688899999998,2016-01-25 00:00:00,0.0,0.0,0.0,0.0,0.0,1350000.0,1893092.3616929583
+20614,"casa en venta en lomas de mazatlán, mazatlán","<p>buscas una casa en buen estado, economica y con excelente ubicacion???  casa de 3 recamaras, sala, comedor, cocina, cochera para un carro, patio y lavanderia... a 3 cuadras de la zona dorada y una cuadra de la  buelna (sams, mega, la gran plaza, malecon, restaurante la brocheta, etc...   se muestra solo con cita (48hrs previas) rentada en este momento.   oficina  cell</p>",Casa,Lomas de Mazatlan -Cerro Chato - -,Mazatlán,Sinaloa,0.0,3.0,1.0,1.0,200.0,200.0,93403.0,23.2433719,-106.4443451,2013-08-30 00:00:00,0.0,0.0,0.0,1.0,1.0,1520000.0,1952324.9863654943
+204356,casa en venta en culiacán,"casa en venta en fracc paseo de los arcos. 1 habitaciones, 2 baños, 104m2 terreno, 64m2 construcción. estátus jurídico: en regularización. nocnok id: mx14-as8475.",Casa,,Culiacán,Sinaloa,,1.0,,2.0,64.0,104.0,,,,2015-01-31 00:00:00,0.0,0.0,0.0,0.0,0.0,351000.0,609718.8271213417
+96220,proyecto real del valle coto 13,"magnífica oportunidad de adquirir tu hogar en uno de los fraccionamientos de mas plusvalía en mazatlán como lo es real del valle, dentro de privada con seguridad y acceso controlado todo el día y todo el año, áreas comunes con jardines, juegos infantiles, alberca y terraza para eventos. la propiedad es de dos niveles, tres habitaciones de muy buen tamaño, la principal con baño y vestidor propio, sala-comedor, cocina, cuarto de lavado techado, cochera techada para dos autos, cisterna, construida con materiales de primer nivel, piso rectificado porcelanato 60x60, en verdad una genial opción no dejes pasar la oportunidad y haz tu cita, no te arrepentirás.",Casa,"Santa Eugenia, Real del valle, Mazatlan, Sinaloa",Mazatlán,Sinaloa,2.0,3.0,2.0,2.0,160.0,115.0,93436.0,,,2015-12-14 00:00:00,0.0,0.0,0.0,0.0,0.0,1655000.0,1557440.82188192
+253101,casa en misiones,"excelente propiedad en muy buena ubicación cerca de escuelas, centros comerciales a unas cuadras del nuevo parque lineal y principales avenidas de acceso, zona totalmente urbanizada y muy tranquila, con todos los servicios en la cual podrás establecer tu nuevo hogar. 
+
+esta propiedad de una planta cuenta con 2 amplias recámaras y un estudio que se pudiera utilizar como una tercer recámara, tiene también sala, comedor, y cocina; un patio de muy buen tamaño y cochera techada para un carro.",Casa,"Mision San Javier #5225, Misiones, Mazatlan, Sinaloa",Mazatlán,Sinaloa,5.0,2.0,1.0,1.0,63.0,93.0,93478.0,,,2015-11-13 00:00:00,0.0,0.0,0.0,0.0,0.0,530000.0,599846.7230092523
+282770,hermosa casa en coto excelente ubicacion,"<p>hermosa casas de dos niveles, sala, comedor, cocina integral, cuarto de servicio, patio, 3 recamaras, 3 balcones, estudio, 3 baños, alberca en area comun, minisplit, </p>",Casa,,Mazatlán,Sinaloa,5.0,3.0,2.0,3.0,214.0,309.0,93402.0,23.24592022868691,-106.45079040579728,2013-12-18 00:00:00,0.0,0.0,0.0,0.0,0.0,3400000.0,2090534.4439347454
+47955,condominio en real del valle,"gran oportunidad, hermoso condominio con acceso controlado! 2 recámaras con acabados de lujo. situado en el corazón de real del valle, el fraccionamiento donde todo el mundo quiere estár!
+
+disfrute de una reunión con la familia y amigos en la enorme terraza, relajarse bajo el sol en la piscina o ir a nadar. a pocos minutos de campos de golf, colegios, centro de convenciones, walmart y el centro comercial gallerías.
+
+este condominio tiene magnificos pisos de porcelanato, acabados de madera de cedro en puertas, cubiertas, armarios y gabinetes, asi como de encimeras de granito de alta calidad en la cocina y marmol en el baño.
+
+cada condominio cuenta con:
+
+-2 dormitorios.
+
+-1 baño completo.
+
+- 2 habitaciones, con grandes armarios de madera de cedro.
+
+- cocina de concepto abierto, sala y comedor que crean un amplio ambiente relajante para las visitas de la familia o para entretenimiento.
+
+- encimeras de cocina de granito y barra de desayuno.
+
+-cuarto de lavado.
+
+-preparaciones para minisplit.
+
+- cisterna de 3,250 litros.
+
+-tinaco 1.230 litros.
+
+-boyler de 40 litros.
+
+-tanque de gas estacionario de 200 kg.
+
+-una cajón de estacionamiento.
+
+-área común, 58 m2 de terraza, con 2 parrillas, zona de relajación y piscina. sólo hay cinco condominios disponibles, se venderán rápido!",Casa en condominio,,Mazatlán,Sinaloa,,2.0,1.0,1.0,77.0,,346913.0,23.28091377399148,-106.43063413238524,2016-12-19 00:00:00,0.0,0.0,0.0,0.0,0.0,1250000.0,738056.1805785034
+133347,preciosa casa en royal country,"<p>hermosa casa de dos niveles en fraccionamiento royal country, esta propiedad cuenta en su primer nivel con sala-comedor, una muy linda cocina reci&eacute;n remodelada con cajoner&iacute;a en cedro y barra forrada con granito, cuarto de lavado techado, patio de buen tama&ntilde;o con su asador en concreto forrado con cer&aacute;mica y barra de m&aacute;rmol, en su planta alta cuenta con tres recamaras de las cuales una cuenta con ampliaci&oacute;n, recamara principal con ba&ntilde;o propio, adem&aacute;s de que este agradable fraccionamiento cuenta con &aacute;rea com&uacute;n con alberca, terraza y asadores donde podr&aacute;s pasar momentos inolvidables al lado de tu familia.</p>
+<p>&nbsp;</p>
+<h5 class=title>instalaciones</h5>
+<ul>
+<li>acceso minusv&aacute;lidos</li>
+<li>casa club</li>
+<li>cuarto de lavado</li>
+<li>jard&iacute;n</li>
+<li>patio</li>
+<li>piscina</li>
+<li>terraza</li>
+<li>zona de parrilladas</li>
+</ul>",Casa,"AVE. VILLA MARINA #40, Villa Marina, Mazatlan, Sinaloa",Mazatlán,Sinaloa,3.0,3.0,2.0,2.0,161.0,,,23.2906833,-106.4718511,2013-07-04 00:00:00,0.0,0.0,1.0,1.0,1.0,1910000.0,1567312.9259940095
+246047,casa en venta en fraccionamiento colinas de san miguel,"bonita casa en venta en colinas de san miguel, con amplios espacios, alberca, piso de marmol, totalmente refrigerada, baños con buenos acabados nuevos, cuarto de servicio, cochera para 3 autos.. conozcala !",Casa,Cerro del Tule 1979,Culiacán,Sinaloa,13.0,4.0,2.0,4.0,130.0,363.0,91662.0,24.7863949,-107.390071,2012-06-18 00:00:00,0.0,0.0,1.0,1.0,1.0,4500000.0,1261277.6985192394
+135055,casa en sabalo country,"hermosa casa en sábalo country, consta de 3 recámaras con closets, 2 1/2 baños y la recámara principal con baño vestidor, estudio, cocina integral cedro y cubierta de granito incluye campana y estufa, lámparas de techo, patio, cochera techada 4 autos, aljibe de 10,000 litros.",Casa,,Mazatlán,Sinaloa,,3.0,,3.0,342.0,225.0,346913.0,23.26066899197103,-106.4607915494442,2016-12-19 00:00:00,0.0,0.0,0.0,0.0,0.0,2998000.0,3354163.770282183
+204306,casa en venta en mazatlán,"-- rcv1287e-28 --    corner located home!! 
+it has 3 bedrooms, studio, 4 full bathrooms and 2 cover car garage.
+
+very well located house: near to malls, golden zone and to the beach, ready to be remodeled to your taste!           casa ubicada en esquina!! 
+cuenta con 3 recamaras, estudio, 4 baños completos y cochera para dos autos.
+
+excelente ubicación: cerca de centros comerciales, de la zona dorada y de la playa, lista para ser remodelada a su gusto!",Casa,EL TOREO 139,Mazatlán,Sinaloa,0.0,3.0,2.0,4.0,288.0,160.0,,,,2016-04-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1960000.0,2821070.1482293573
+266556,"casa en venta, mazatlán, sinaloa","casa en muy buen estado, en excelente zona, cerca del malecon de la ciudad, bosque, acuario, estadio, plazas y centros comerciales, conecta con avenidas muy transitadas...  la casa es de un nivel, con dos recamaras, un baño, sala, comedor, cocina, jardin en la parte de enfrente, cochera, y patio....  terreno de 200 m2 (10x20), y construccion de 95.5 m2",Casa,,Mazatlán,Sinaloa,,2.0,2.0,1.0,96.0,200.0,,23.236456,-106.435161,2016-05-29 00:00:00,0.0,0.0,0.0,0.0,0.0,1900000.0,925626.1587082011
+175162,agradable casa en venta en colonia tierra blanca,"casa que incluye tres departamentos (uno en planta baja y dos en planta alta) consta de 1/2 baño, recibidor, amplia sala comedor, bar, cocina integral con estufa y campana, patio de servicio, boyler, recamara con baño completo, área para closet, cubo de luz.   planta alta: amplia recamara con baño, preparación para aire de acondicionado de ventana, espacio para closet, salida a terraza. otra recamara que tambien sale a terraza, tiene baño con jacuzzi, regadera con cancel, aire acondicionado. los departamentos de la planta alta constan de sala, comedor y tarja, una recamara con closet, patio y lavadero.   el departamento de la planta baja consta de sala, comedor, lavadero, tarja y regadera, a parte recamara con 1/2 baño, closet e instalación para aire acondicionado.",Casa,Francisco Marquez 2090,Culiacán,Sinaloa,10.0,3.0,1.0,,411.0,200.0,91369.0,25.826,-108.216,2016-12-21 00:00:00,0.0,0.0,0.0,0.0,0.0,2990000.0,4035338.9540163483
+138028,remato casa nueva en esquina fracc monterreal (la conquista) 3 habitaciones 3 baños escrituras regal,"<p>estrene casa nueva, en residencial monterreal en la zona la conquista y udeo, con espacios inteligentemente aprovechados, area familiar y tranquila, con gran ubicacion y vialidades grandes y de concreto, cableado subterraneo, cuenta con 3 habtaciones y 2 baños completos en planta alta, asi como medio baño en planta baja, escrituras regaladas. terreno de 6 x 17 mts y 94 mts de construccion, a 1 calle de parques con areas de juegos y de ejercicios... precio de remate ....informes al cel </p>",Casa,,Culiacán,Sinaloa,0.0,3.0,,3.0,94.0,102.0,91437.0,24.82803101543877,-107.44123792595929,2016-06-07 00:00:00,0.0,0.0,0.0,0.0,0.0,790000.0,905881.9504840224
+240391,casa en venta de una planta en col. las quintas,"terreno de 10x20m. 
+
+3 recamaras 
+
+2 y medio baños 
+
+cocina integral 
+
+sala comedor 
+
+piscina 
+
+cochera para dos autos 
+
+acabados de primera calidad. 
+
+sistema de video vigilancia 
+
+alarma 
+
+cerca electrica 
+
+refrigeraciòn en todas sus areas 
+
+trato directo...",Casa,cd. tepic 1338,Culiacán,Sinaloa,10.0,3.0,2.0,2.0,168.0,168.0,91443.0,24.815873100000005,-107.3751749,2016-12-07 00:00:00,0.0,0.0,0.0,0.0,0.0,2950000.0,1636417.654778635
+290924,lomas del sol premier,"<p>cochera para dos autos semitechada, sala, comedor, cocina, 1/2 baño, patio interior, area de lavado, pasillo lateral.
+</p><p>planta alta: tres recamaras, un baño completo</p>",Casa,,Culiacán,Sinaloa,0.0,3.0,2.0,1.0,134.0,128.0,91284.0,24.8364483,-107.3850494,2013-10-31 00:00:00,0.0,0.0,0.0,0.0,0.0,1100000.0,1300766.1149675967
+125828,casa puertas del sol,"esta propiedad de dos plantas recien remodelada es una excelente opción para vivir, ya que se encuentra ubicada cerca de la avenida libramiento 3, escuelas, áreas verdes y a unos minutos de plaza sendero.
+
+la casa cuenta en planta baja sala, comedor, cocina integral, patio y cochera para un auto y con 3 recámaras y baño completo en la planta alta.
+
+aplica cualquier tipo de crédito.",Casa,,Mazatlán,Sinaloa,,3.0,1.0,2.0,76.0,91.0,346913.0,23.27366995076693,-106.39878021812444,2016-12-15 00:00:00,0.0,0.0,0.0,0.0,0.0,700000.0,728184.076466414
+62218,interlomas,"<p>casa de dos plantas consta de:
+</p><p>pb: cochera techada para dos autos porton electrico con espacio excedente, sala, comedor, cocina integral, 1/2 baño, cuarto de lavado, patio trasero y pasillo de acceso, cuenta ademas con minisplit de dos toneladas y persianas en todas las ventanas de la casa.
+</p><p>pa: tres recamaras todas con minisplit de 1 tonelada la principal con baño vestidor, un baño completo y terraza muy amplia.
+</p><p></p>",Casa,,Culiacán,Sinaloa,0.0,3.0,2.0,2.0,178.0,165.0,91290.0,24.84143450944993,-107.38570332527159,2013-10-30 00:00:00,0.0,0.0,0.0,0.0,0.0,1650000.0,1735138.6958995285
+172842,los pinos // los pinos,"only a half of block from the sea! 
+this one level home is in a quiet upscale neighborhood.
+each bedroom has a full bathroom and walk in closets. excellent location, only steps from the malecon and within walking distance to centro historico and olas altas! great for evening strolls to some of mazatlan?s best restaurants and entertainment. home is secure and with a two car garage. not furnished
+
+solo media cuadra del mar!!!  
+este casa  de un nivel esta en un tranquilo colonia.
+cada habitacion tiene un bano completo y  walk in closets. excelente ubicacion, a solo unos pasos del malecon, a poca distancia de centro historico y olas altas! bueno para la noche pasea a algunos de los mejores restaurantes y entretenimiento mazatlan. el hogar es seguro y de un garaje para dos coches. no amueblado",Casa,,Mazatlán,Sinaloa,1.0,3.0,2.0,4.0,300.0,418.0,93317.0,23.2066219,-106.4278887,2016-12-16 00:00:00,0.0,0.0,0.0,0.0,0.0,4150000.0,2939535.39757443
+100727,departamento en venta en mazatlán,"marina del sol es un proyecto en preventa ubicado sobre la bella playa cerritos en mazatlán, lugar en el cual serás testigo de bellos atardeceres compuestos de bellas postales de las 3 islas y el majestuoso océano pacífico, simplemente un estilo de vida que disfrutarás como en ningún otro lugar del mundo.
+
+en marina del sol lo podrás disfrutar el placer con todas sus amenidades, su amplia alberca frente al mar será testigo de tus reuniones con tus seres queridos. si lo que disfrutas es un estilo de vida saludable contarás con gimnasio equipado con agradable vista al mar, actividades que podrás complementar después de un bello recorrido por la playa.
+
+torre de 20 condominios en 10 niveles cuenta con 2 elevadores, 2 habitaciones, 2 1/2 baños, 1 walking closet en recámara principal, 1 closet en recámara de visitas, cuarto de máquinas  y bodega, centro de lavado, cocina con parrilla eléctrica y campana, sala, comedor, terraza, 3 minisplits, boiler eléctrico, 1 estacionamiento de cajón en segundo nivel con sombra.
+
+amenidades. 
+gym, lobby, vapor, área de recepción, área de cine, 2 albercas, snack bar.
+
+atrévete a vivir ese estilo de vida que mereces.
+
+i ven y conoce marina del sol!.  i te encantará!.",Apartamento,Avenida Sábalo Cerritos,Mazatlán,Sinaloa,,2.0,0.0,3.0,134.0,,,23.2939522,-106.4763728,2016-12-24 00:00:00,0.0,0.0,0.0,0.0,0.0,3300000.0,1300766.1149675967
+179270,,"excelente residencia sin estrenar, ubicada en privada la encantada, a espaldas de tienda mz sucursal lola beltran, de tres recamaras, closets  de cedro, aire acondicionado en toda la casa, cocina integral con estufa incluida, piso rectificado, escalera con marmol, dos baños y medio, a precio excelente de $  de precio de oferta.",Casa,Privada La Encantada 6,Culiacán,Sinaloa,1.0,3.0,2.0,2.0,154.0,126.0,91338.0,,,2012-02-11 00:00:00,0.0,0.0,0.0,1.0,1.0,1800000.0,1498208.197209384
+272268,casa en condominio en venta en fraccionamiento valle alto,"acceso controlado con tarjeta, area comun con jardin, residencia de dos plantas, 3 recamaras, 2 1/2 baños, habitacion principal con amplio baño vestidor, amplia cocina cuenta con barra desayunador y alacena de muy buen tamaño, piso rectificado en planta baja y escaleras y piso laminado en planta alta, patio con area de lavado y entrada de servicio, protecciones en toda la casa.",Casa en condominio,PRIVADA ADRIATICO 2771,Culiacán,Sinaloa,3.0,3.0,2.0,2.0,145.0,144.0,91385.0,,,2012-01-14 00:00:00,0.0,0.0,0.0,1.0,1.0,1220000.0,1409359.2602005797
+15490,"casa en venta san agustín la primavera, culiacan sinaloa.","<p>cuenta con 4 recamaras en planta alta, 1 recamara en planta baja, sala, comedor, cochera para 3 carros. construccion: 381 m2 y terreno: 412 m2  mn. mas informacion con lic. ruben rubio  </p>",Casa,,Culiacán,Sinaloa,,5.0,,,381.0,412.0,127390.0,,,2014-06-02 00:00:00,0.0,0.0,0.0,0.0,0.0,4600000.0,3739175.830653668
+298391,country alamos,"casa de dos plantas consta de:
+planta baja: cochera semitechada dos carros, sala, comedor, cocina integral, 1/2 baño, area de lavar y cuarto de servicio.
+planta alta: tres recamaras con closet de pvc,  la principal con baño propio, un baño completo.terreno irregular",Casa,,Culiacán,Sinaloa,0.0,3.0,2.0,2.0,131.0,132.0,91477.0,24.802814961811915,-107.42357611656188,2013-06-06 00:00:00,0.0,0.0,0.0,0.0,0.0,1150000.0,1271149.8026313288
+62586,oportunidad casa 2x1 coto diamante ,"2x1 esta fabulosa residencia viene con condo !! incluye 3 recamras, sala, comedor, cocina, centro de lavado, cocheras, patio y condominio de dos plantas",Casa,"Calle Rubi 530, Coto Diamante, Mazatlan, Sinaloa ",Mazatlán,Sinaloa,0.0,3.0,3.0,2.0,122.0,180.0,93406.0,,,2016-12-23 00:00:00,1.0,1.0,1.0,1.0,1.0,2950000.0,1182300.8656225246
+41720,casa en venta en fraccionamiento rincón de las plazas,"residencial quinta real, excelente ubicacion, privacidad, seguridad las 24 hrs. ",Casa,Quinta Real,Mazatlán,Sinaloa,1.0,3.0,2.0,2.0,137.0,144.0,93449.0,23.2377362,-106.4042473,2012-03-07 00:00:00,0.0,0.0,0.0,1.0,1.0,1250000.0,1330382.4273038649
+58941,"casa en venta col. aurora, culiacan sinaloa","cuenta con tres recamaras, dos baños, cocina integral, cochera dos autos. venta $ . llame para mas información o mande su teléfono.",Casa,Colonia Aurora,Culiacán,Sinaloa,5.0,3.0,2.0,2.0,115.0,190.0,91444.0,,,2015-10-21 00:00:00,0.0,0.0,0.0,1.0,1.0,1500000.0,1113196.136837899
+279005,chapultepec,"<p>casa de una sola planta consta de:
+</p><p>cochera para dos autos (con posibilidad de ampliar para tres autos), sala, comedor, cocina integral con cubierta de granito, sala de tv, tres recamaras cada una con baño completo la principal con closet vestidor, area de lavado, cuarto y pasillo de servicio.
+</p><p>cuenta tambien con minisplit en todas las areas, abanicos de techo en recamaras.</p>",Casa,,Culiacán,Sinaloa,0.0,3.0,2.0,4.0,290.0,390.0,91377.0,24.8256572,-107.38999610000002,2013-11-06 00:00:00,0.0,0.0,0.0,1.0,0.0,3150000.0,2840814.356453536
+36496,"casa en venta en barrio san agustin la primavera 2,rec.principal,area de tev.amplios espacios jardin","<p><strong>en venta casa de una planta&nbsp; 2 recamaras principal con bano vestidor,cuarto de visitas con bano,area de tv.muy amplios espacios y mucha lus muy bonito jardin,terreno de 250m2 y contruccion de 140m2 ,cochera para 2 autos,la casa ideal para personas que buscan la tranqulidad. visitanos en facebook   .</strong></p>
+<p><strong>llame al  para citas.</strong></p>",Casa,BARRIO SAN AGUSTIN LA PRIMAVERA,Culiacán,Sinaloa,0.0,2.0,2.0,2.0,140.0,250.0,91641.0,24.738001366667,-107.39810590000002,2013-08-25 00:00:00,0.0,1.0,1.0,1.0,1.0,2120000.0,1359998.739640133
+158092,casa en venta en villas del rio,"<p>casa chica de 2 recamaras, 1 1/2 baños, cochera para dos autos, sala comedor, area de cocina, patio encementado, protecciones.</p>",Casa,,Culiacán,Sinaloa,0.0,2.0,2.0,1.0,74.0,104.0,91396.0,24.80743092399217,-107.44873437113506,2013-10-24 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,708439.8682422353
+93800,"casa riva palacio, guadalupe","<p>casa de 2 plantas cuenta con cochera para 1 auto techado y con porton electrico, muy amplia sala comedor, recamara ppal con baño-vestidor, recamara con baño completo, cocina integral de cedro con desayunador, cuarto de lavado, bodega, patio interior, planta alta cuarto de servicio con baño completo y una bodega (oficina)</p>alarma y cerco perimetral",Casa,,Culiacán,Sinaloa,0.0,2.0,1.0,3.0,198.0,180.0,91658.0,24.79438975692048,-107.40016431889342,2013-10-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1690000.0,1932580.7781413156
+273115,bonita casa en costa dorada,"<p>excelente ubicaci&oacute;n, &aacute;rea muy tranquila, 2 rec&aacute;maras 1 ba&ntilde;o y patio de servicio. cochera para 1 auto con port&oacute;n. ampliaci&oacute;n de recamaras. hecha totalmente de ladrillo. protecciones en toda la casa. no deje pasar esta oportunidad de que sea suya! haga una cita con nosotros&hellip;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",Casa,"COSTA HERMOSA # 8719, Costa Dorada, Mazatlan, Sinaloa",Mazatlán,Sinaloa,5.0,2.0,1.0,1.0,93.0,,,23.2551629,-106.3836773,2013-07-04 00:00:00,0.0,0.0,0.0,0.0,0.0,630000.0,896009.8463719331
+225612,"casa en venta, mazatlán, sinaloa","excelente    casa    en    coto    privado,     buena     ubicacion,     vigilancia     las     24    horas     del    dia,    cerca    de    centros    comerciales,      tiendas departamentales,     supermercados,    3    recamaras,    sala ,    comedor,    cocina  integral,     cuarto   de    lavado,    cochera    para    un    auto,     conocela   !!!!!",Casa,,Mazatlán,Sinaloa,4.0,3.0,1.0,2.0,141.0,207.0,,23.256044,-106.423488,2015-07-24 00:00:00,0.0,0.0,0.0,0.0,0.0,1260000.0,1369870.8437522224
+130964,residencial las flores,"<p>casa de dos plantas consta de:
+</p><p>pb: cochera para dos autos semitechada con estructura y madera, sala, comedor, cocina integral, estudio,1/2 baño, area de lavado, patio interior.
+</p><p>pa: tres recamaras con baño cada una, sala de tv.
+</p><p></p>",Casa,,Culiacán,Sinaloa,0.0,3.0,2.0,3.0,200.0,196.0,127378.0,,,2013-11-24 00:00:00,0.0,0.0,0.0,0.0,0.0,2495000.0,1952324.9863654943
+205171,"casa en venta en sanchez celis, mazatlán, sinaloa","if you are looking for a great opportunity, this is the home! located close to the gran plaza, malecon, soriana, mega, home depot and the golden zone, in a quiet and tranquil mazatlan neighborhood at a very affordable price. this charming home has been totally renovated and ready for your final touches! 
+........................................
+si usted esta buscando una muy buena oportunidad, cerca de la gran plaza, malecon, soriana, mega, home depot y la zona dorada, en una colonia mazatleca muy tranquila y a muy buen precio, esta es la ideal.",Casa,DURANGO,Mazatlán,Sinaloa,1.0,2.0,1.0,1.0,97.0,105.0,93427.0,,,2013-01-03 00:00:00,0.0,0.0,0.0,1.0,0.0,760000.0,935498.2628202905
+159116,casa en venta en culiacán,nocnok id: mx14-aw1113. la vivienda se encuentra en el lote: 7; manzana: 42,Casa,,Culiacán,Sinaloa,,4.0,,4.0,268.0,160.0,,24.809486,-107.360379,2015-05-16 00:00:00,0.0,0.0,0.0,0.0,0.0,1747000.0,2623628.06598757
+153557,casa nueva en venta en la primavera barrio san agustin,"vendo casa nueva en el barrio san agustin cuenta con 2 plantas, recamara 
+principal con baño y vestidor , 2 recamaras con baño, sala, comedor, baño de visitas, cuarto de servicio, cuarto de lavado y cochera techada para 2 autos. 
+metros de construccion: 215m2 y de terreno: 219m2 año:2014 
+contactar:  correo:  telefono: ",Casa,San Agustin 155,Culiacán,Sinaloa,0.0,3.0,2.0,3.0,215.0,219.0,91641.0,,,2014-12-28 00:00:00,0.0,0.0,0.0,0.0,0.0,2400000.0,2100406.5480468343
+267133,calle av.rey baltazar no.2840,"<p>casa de 1 recamara, sala comedor, cocina, cuarto de servicio, patio de servicio, cochera para 2 autos</p>",Casa,,Culiacán,Sinaloa,0.0,1.0,2.0,1.0,152.0,254.0,91263.0,24.83736921492497,-107.39181232478586,2013-12-18 00:00:00,0.0,0.0,0.0,0.0,0.0,450000.0,1478463.9889852053

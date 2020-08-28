@@ -1,0 +1,601 @@
+id,titulo,descripcion,tipodepropiedad,direccion,ciudad,provincia,antiguedad,habitaciones,garages,banos,metroscubiertos,metrostotales,idzona,lat,lng,fecha,gimnasio,usosmultiples,piscina,escuelascercanas,centroscomercialescercanos,precio,prediction
+85648,casa marmol,"te presento casa  marmol 
+casa con espacios muy amplios y comodos... 
+una casa y cocinota asi te mereces... 
+con muy buena ubicacion, libre de trafico y sin peligros de arroyos. 
+ubicadas a unos metros de el hospital, tiendas departamentales y acceso a todas las vialidades. 
+terreno: 220 m2 
+construccion: 153 m2 
+estacionamientos 2 
+recámaras 3 
+baños 2 
+1/2 baños 1 
+hermosa residencia ubicada en una privada con portón eléctrico de solo 10 viviendas con acabados de lujo espacios amplios muy cómodos con calles de concreto hidráulico,instalaciones ocultas ( luz , teléfono , cable ) con todo el confort que su familia merece!!",Casa,J. Mujica,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,153.0,220.0,3638.0,,,2015-01-15 00:00:00,0.0,0.0,0.0,0.0,1.0,1470000.0,1674949.28969784
+244670,casa con terreno excedente en monte real recidencial ,"monte real residencial 
+descripción: 
+monte real residencial casa de 2 niveles, 3 recamaras, sala, comedor, cocina, baño y medio, patio, espacio para 2 autos, con 204 m2 de terreno y 92 m2 de construcción, cerca de escuelas, aceptamos crédito infonavit y tramitamos tu crédito bancario. 
+para citas o mas detalles comunícate al celular .",Casa,Los Espinos,Los Cabos,Baja California Sur,4.0,3.0,2.0,1.0,92.0,204.0,253921.0,23.0757266,-109.71870389999998,2016-05-06 00:00:00,0.0,0.0,0.0,0.0,0.0,770000.0,974282.1657724157
+210096,68078 paraiso del sol,casa en buenas condiciones con cocina integral,Casa,,La Paz,Baja California Sur,0.0,2.0,2.0,1.0,59.0,140.0,3667.0,24.0641186,-110.30140749999998,2013-05-31 00:00:00,0.0,0.0,0.0,1.0,0.0,456000.0,595232.738075055
+76973,casa diana laura,"<p>una casa nueva recien construida sobre un amplio terreno perfecta para ampliarse, con espacio para una linda palapa y alberca, la casa consta de dos recamaras 1 bano completo y preparacion para otro, sala cocina comedor. 
+</p><p>
+</p><p>también hay disponibilidad de subdividir esta propiedad en dos quedando de la siguiente forma:
+</p><p>
+</p><p>1) casa con 200 m cuadros de terreno precio:  m.n.
+</p><p>2) terreno baldío 200 m2 precio: $  m.n.
+</p><p>
+</p><p></p>",Casa,,La Paz,Baja California Sur,0.0,2.0,2.0,1.0,90.0,400.0,3654.0,24.08021613434783,-110.3198446892202,2014-02-11 00:00:00,0.0,0.0,0.0,0.0,0.0,500000.0,951309.4731846969
+249054,casa chedraui,"bonita casa en uno de los fraccionamientos con mas plusvalia, cerca de bancos, escuelas, plazas comerciales, hospitales, cines, gasolineras, restaurants....que mas puedes pedir, aceptamos tu credito infonavit, ven y conocela !!!",Casa,,Los Cabos,Baja California Sur,10.0,3.0,2.0,2.0,108.0,112.0,4005.0,22.901537688123714,-109.92653846740723,2013-04-28 00:00:00,0.0,0.0,0.0,0.0,0.0,900000.0,1158063.7064741664
+203993,casa residencial michellin,"hermosa casa residencial en uno de los desarrollos mas exclusivos de los cabos, el inmueble es un bien adjudicado de la banca, es una super oportunidad de tener este inmueble.....cerca de bancos, cines, plaza comercial, oxxos, hospitales, gasolineras.",Casa,,Los Cabos,Baja California Sur,4.0,3.0,2.0,2.0,153.0,317.0,4001.0,22.905016507078198,-109.93651628494264,2013-03-08 00:00:00,0.0,0.0,0.0,1.0,0.0,1650000.0,1674949.28969784
+58650,casa san marino,"casa en privada con excelente ubicacion cerca de colegios particulares de primaria, secundaria, preparatoria juan pablo, plaza punto la paz, universidad mundial, chedraui, hospitales, etc., 3 recamaras, 2 1/2 baños. estudio, cochera 2 autos, patio de servicio, jardin. ",Casa,,La Paz,Baja California Sur,12.0,3.0,2.0,2.0,270.0,235.0,3702.0,24.137903064902464,-110.3387188911438,2013-04-27 00:00:00,0.0,0.0,0.0,0.0,0.0,1660000.0,3018851.8060793914
+144844,villas de san lorenzo,desarrollo exclusivo con amplios terrenos con casas estilo california en la zona de mayor plusvalia en la paz<br /><br />,Casa,,La Paz,Baja California Sur,0.0,2.0,0.0,1.0,99.0,375.0,3673.0,24.109803860935465,-110.32972789030458,2012-08-08 00:00:00,0.0,0.0,0.0,1.0,0.0,1237000.0,1054686.5898294316
+125434,grand 3,"<p>excelente vivienda con 3 recamaras, terrazas y una ubicacion envidiable!</p>",Casa,,Los Cabos,Baja California Sur,2.0,3.0,2.0,2.0,96.0,140.0,4002.0,22.90963766384277,-109.93029785149702,2013-09-23 00:00:00,0.0,0.0,0.0,1.0,0.0,1050000.0,1020227.5509478534
+196669,la posada (pirata),"<p>magnifica residencia ubicada en exclusiva zona residencial , acabados de lujo ,</p>la mejor ubicacion de la paz ",Casa,,La Paz,Baja California Sur,0.0,3.0,3.0,3.0,157.0,262.0,3699.0,,,2013-11-20 00:00:00,0.0,0.0,0.0,0.0,0.0,3200000.0,1720894.6748732778
+28023,casa con excedente de terreno precio rebajado!!!!!!,"estacionamientos 4 
+recámaras 2 
+baños 2 
+m2 construcción 75 m2 
+m2 terreno 257 m2 
+casa en privada, a una cuadra de carretera forjadores, plazitas comerciales, bodega aurrera, escuelas, secundarias, un lugar muy tranquilo con terreno amplio. 
+cochera para dos autos 
+sala 
+comedor 
+cocina integral con campana 
+dos recamaras con closet, la principal con baño 
+cisterna 2500 litros con bomba 
+tinaco de 600 litros 
+sistema de alarma con sensor de movimiento en puertas y ventana principal 
+protecciones en toda la casa 
+boiler de gas 
+calentador automático de 40 litros 
+vitropiso 
+pórtico con teja de barro 
+patio trasero techado",Casa,HALCON # 354,La Paz,Baja California Sur,4.0,2.0,,2.0,75.0,257.0,3679.0,,,2014-08-29 00:00:00,0.0,0.0,0.0,1.0,1.0,700000.0,779014.2787768056
+56615,casa la fuente,"<p>comoda vivienda ubicada en el fraccionamiento la fuente, cuenta con 2 recamaras, sala, comedor, cocina, baño, enrejada, amplio terreno.</p>",Casa,,La Paz,Baja California Sur,0.0,2.0,1.0,1.0,72.0,200.0,3679.0,,,2013-09-21 00:00:00,0.0,0.0,0.0,0.0,0.0,525000.0,744555.2398952274
+19182,casa universidad,casa ubicada en una excelente zona en calle cerrada a solo 100 m de la uabsla casa tiene un diseño exclusivo en una zona de gran plusvalia,Casa,,La Paz,Baja California Sur,0.0,2.0,2.0,2.0,70.0,162.0,,,,2013-06-16 00:00:00,0.0,0.0,0.0,1.0,0.0,690000.0,721582.5473075085
+259563,67861 country del mar,<p>casa de 1 planta en buenas condiciones de 3 recamaras</p>se encuentra a 5 minutos del centro de la ciudad y cerca de centros comerciales.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,1.0,1.0,71.0,140.0,3899.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,626000.0,733068.893601368
+79474,oportunidad casa de un piso en villas del encanto utiliza tu credito infonavit,"casa de un nivel, 2 habitaciones, sala, comedor, cocina, un baño, espacio para estacionar, 65 m2 de construcción el inmueble se localiza en calle santa teresita en un buen punto de la ciudad, centros comerciales, cines, supermercados todo al alcance. 
+
+para citas o mas detalles comunícate al  aceptamos tu crédito infonavit y tramitamos tu crédito bancario. en facebook nos puedes encontrar como baja zone",Casa,Villa Natalia,La Paz,Baja California Sur,4.0,2.0,2.0,1.0,56.0,140.0,3661.0,24.10474,-110.32958490000001,2016-01-24 00:00:00,0.0,0.0,0.0,1.0,0.0,465000.0,560773.6991934767
+286464,61615 colinas plus,<p>casa de 2 plantas en buenas condiciones de 3 recamaras</p>se encuentra cerca de centros comerciales y a 7 minutos del centro de la ciudad.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,135.0,140.0,3900.0,23.071361655078693,-109.72071647644043,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1245000.0,1468195.0564083706
+23399,60207 casa blanca,<p>casa en buenas condiciones</p>,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,138.0,200.0,4000.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1599000.0,1502654.0952899489
+74727,terranova,"precioso condominio, puedes adquirirlo equipado o sin equipo, planta bajo alta con solarium, no pierdas esta oportunidad, solo son pocos, incluye area de jardines con alberca.
+comunicate para hacer una cita.<br /><br />",Casa en condominio,TERRANOVA,Los Cabos,Baja California Sur,0.0,,0.0,,83.0,,4005.0,,,2012-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,1157955.0,870905.049127681
+105977,oportunidad casa de un piso en costa dorada ,"casa de un nivel, 2 habitaciones, sala, comedor, un baño, espacio para 2 autos, 140 m2 de terreno y 69 m2 de construcción cerca del aeropuerto. para citas o mas detalles comunícate al  aceptamos crédito infonavit y tramitamos crédito bancario sin costo por asesoría y gestoria.",Casa,Playa Inocentes ,Los Cabos,Baja California Sur,4.0,2.0,2.0,1.0,69.0,140.0,3877.0,23.165865518255767,-109.71375825058895,2016-12-27 00:00:00,0.0,0.0,0.0,0.0,0.0,512000.0,710096.2010136491
+35634,utiliza tu crédito infonavit en monte real.,"monte real 
+descripción: 
+casa de 2 niveles, 3 habitaciones, sala, comedor, cocina, baño y medio, espacio para 2 autos, 140 m2 de terreno y 94 m2 de construcción, zona tranquila, cerca del instituto tecnológico. 
+
+para citas o mas detalles comunícate al celular  aceptamos crédito infonavit y tramitamos tu crédito bancario.",Casa,Bustillos,Los Cabos,Baja California Sur,4.0,3.0,3.0,1.0,94.0,140.0,253921.0,23.0760131,-109.72306070000002,2016-01-24 00:00:00,0.0,0.0,0.0,0.0,0.0,843000.0,997254.8583601345
+295669,casa en venta en lomas residencial,"*cortinas de toda la casa
+*aires, son uno en cada recamara y uno en la sala
+*mozquiteros en las puertas y ventanas de aluminio
+*polarizado de ventanas
+*muebles de baño,espejos en los mismos y puertas de baño con canceleria de vidrio templado 6mm, el baño principal tiene una barra de
+marmol.
+*sistema de riego en jardin
+*closets en las 3 recamaras
+*tinaco adicional en azotea
+*tanque estacionario de gas
+*cocina con estufa y campana
+*toma extra de agua en jardin frontal
+*lamparas  en to",Casa,LasLomas m06 l31,Los Cabos,Baja California Sur,4.0,3.0,2.0,2.0,150.0,200.0,253902.0,,,2012-05-14 00:00:00,0.0,0.0,1.0,0.0,0.0,1700000.0,1640490.2508162619
+48214,casa en venta en colinas plus,"aproveche super precio de oferta, preciosa casa de dos plantas, 3 recamaras, 2 1/2 baños, cocina integral c/estufa de 6 quemadores, cisterna de 10,000 l3, hidroneumatico, a/c y ventiladores de techo, piso firme en area de garage. excelente ubicacion, cerca de escuelas, centros comerciales, servicios, jardines. urge vender. todo tipo de creditos.",Casa,Colina del Valle 32,Los Cabos,Baja California Sur,3.0,3.0,2.0,2.0,100.0,140.0,3900.0,,,2012-05-14 00:00:00,0.0,0.0,0.0,1.0,1.0,780000.0,1066172.936123291
+284314,71012 lomas del valle,"<p>casa en buenas condiciones, una planta, 3 recamaras, 1 baño</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,73.0,147.0,4009.0,22.924816403639284,-109.95067405805456,2013-09-23 00:00:00,0.0,0.0,0.0,1.0,0.0,574000.0,756041.5861890868
+237428,privada puesta del sol,"<p>comoda vivienda dos plantas en privada, cuenta con tres recamaras, 1 1/2 baños, cocina integral, sala, comedor, bardeada, area de servicio techado, herreria, piso en patio frontal y posterior.</p>",Casa,,La Paz,Baja California Sur,10.0,3.0,1.0,1.0,90.0,104.0,3693.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,700000.0,951309.4731846969
+13174,casa marina sur junto al mar !!!!!!!,"excelente oprtunidad !!!! 
+casa en la mejor zona de la paz bcs, pegado a waltmart, paseo la paz, the shoppes at la paz 
+campo de beisbol... 
+
+estacionamientos 6 
+recámaras 3 
+baños 4 
+estacionamiento para seis autos 
+sala 
+comedor 
+cocina integral con estufa y campana con barra de granito 
+tres recamaras con closet 
+tres baños completos 
+cuarto abajo con opción a una cuarta recamara, estudio o sala de t.v. 
+baño completo en el área de la alberca 
+abanicos de techo en cuartos y baños 
+alberca propia con asador y barra y contra barra 
+
+área en común: 
+parque recreativo 
+alberca",Casa,calle abasolo,La Paz,Baja California Sur,1.0,3.0,,4.0,173.0,,3712.0,,,2014-10-29 00:00:00,0.0,0.0,1.0,1.0,1.0,2500000.0,1904676.2155750284
+185162,hermosa casa en el corazon de la paz,"si te gusta vivir cerca del mar, esta es tu casa a solo 4 cuadras del malecon, segura, tranquila y con excelentes acabados, escalera de marmol y piso rectificado, cocina con barra de granito, seis minisplit en la casa. la casa distribución de la casa: 
+
+planta baja: 
+*cochera para 2 autos techada, con portón electrico y piso. 
+*sala/ comedor. 
+*cocina integral con barra y splash en pared de granito, con estufa, campana y mini split. 
+*estudio. 
+*medio baño. 
+*alberca con cuarto de máquina. 
+*area de lavado 
+*alarma inalambrica. 
+*cisterna de 5000 lt y tinaco. 
+
+planta alta: 
+*3 recamaras, recamara principal con con walk in closet. 
+*3 baños completos con cancel de vidrio templado. 
+
+área construida: 160 m2 área del terreno: 214 m2 
+recámaras: 3 baños: 3 
+medios baños: 1",Casa,Calle Rosales,La Paz,Baja California Sur,1.0,3.0,2.0,3.0,160.0,214.0,3520.0,,,2016-04-29 00:00:00,0.0,0.0,1.0,1.0,1.0,2700000.0,1755353.713754856
+87253,62995 villas de cortes ,casa de 2 plantas en buenas condiciones de 3 recamaras se encuentra cerca de centros comerciales.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,90.0,125.0,,,,2013-05-07 00:00:00,0.0,0.0,0.0,0.0,0.0,737000.0,951309.4731846969
+288845,casa frac. plamares 200,"casa de 2 recamaras, sala-comedor, cocina, 1 baño, con cisterna, tinaco, vitropiso, en terreno de 8 x 25   lista para su entrega en enero del 2013",Casa,,La Paz,Baja California Sur,5.0,2.0,1.0,1.0,48.0,200.0,,,,2013-03-20 00:00:00,0.0,0.0,0.0,0.0,0.0,375000.0,468882.9288426014
+139406,67093 costa dorada,<p>casa de 1 planta en buenas condiciones de 3 recamaras</p>se encuentra a 10 minutos del aeropuerto.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,68.0,140.0,3877.0,,,2013-10-01 00:00:00,0.0,0.0,0.0,0.0,0.0,522000.0,698609.8547197897
+121825,casa arcos del sol,"casa recuperada de infonavit para venta a acreditados de infonavit. cubicada a unos pasos del nuevo hospital del issste y poder judicial, entrada principal a conchalito. cuenta con dos plantas, una ampliación en la entrada, patio de servicio y totalmente bardeada. ejerce tu credito e invierte en tu patrimonio.<br /><br />esta ubicada cerca del nuevo issste. ",Casa,,La Paz,Baja California Sur,18.0,2.0,0.0,1.0,75.0,,,24.137027042357346,-110.34008122350002,2012-09-26 00:00:00,0.0,0.0,0.0,1.0,0.0,397000.0,779014.2787768056
+97809,72683 arcos del sol,"<p>casa en buenas condiciones, cerca de supermecados como soriana
+</p><p></p>",Casa,,Los Cabos,Baja California Sur,0.0,2.0,2.0,2.0,58.0,68.0,4005.0,22.90557785407557,-109.92870783818942,2013-09-23 00:00:00,0.0,0.0,0.0,1.0,0.0,525000.0,583746.3917811955
+206273,57706 casa blanca,"<p>casa en buenas condiciones, terraza y cisterna</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,155.0,200.0,4000.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1644000.0,1697921.982285559
+151017,67420 flamingos plus,"<p>casa de 2 niveles, 3 recamaras, 2 1/2 baños en buenas condiciones</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,110.0,164.0,3997.0,22.8999128907317,-109.94401359610492,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,992000.0,1181036.3990618852
+191913,casa bahia magdalena,"<p>casa de 2 niveles
+</p><p>planta baja: estancia, sala, comedor, comedor, cocina, estudio, area de asador
+</p><p>planta alta 3 recamaras la ppal con baño y 1 baño comun, terraza, arez de servicio</p>",Casa,,La Paz,Baja California Sur,0.0,3.0,1.0,2.0,150.0,84.0,3639.0,,,2013-11-15 00:00:00,0.0,0.0,0.0,0.0,0.0,840000.0,1640490.2508162619
+112598,casa en venta en altos de miramar,casa en buenas condiciones,Casa,Mar del Caribe Mza-6 Lte-7 24,Los Cabos,Baja California Sur,4.0,2.0,2.0,1.0,43.0,93.0,3951.0,22.88817503129189,-109.94748115539551,2012-05-13 00:00:00,0.0,0.0,0.0,1.0,1.0,520000.0,411451.1973733044
+211754,"venta $1' casa camineros 3r, 2.5b, area garzas-ley","venta $1' casa de 3 recámaras, 2 y medio baños, aires acondicionados en cada recámara, cocina integral con estufa, bardeada, en esquina, cochera hasta para 2 autos, área de servicio, se acepta cualquier tipo de financiamiento, ubicada en calle camineros esquina jose ramón lara, fraccionamiento del sol, 120m2 de construcción y 180m2 de terreno, atrás del fracc islas, mayores informes en  cel. .",Casa,Camineros,La Paz,Baja California Sur,4.0,3.0,2.0,2.0,120.0,180.0,3623.0,24.122126608818174,-110.33127952165682,2015-01-09 00:00:00,0.0,0.0,0.0,1.0,1.0,1300000.0,1295899.8620004794
+79956,casa amplia (252 m2 terreno y 145 m2 de construcion),"<p>casa con amplios espacios.sala independiente, comedor, cocina integral, estudio, 3 recamaras con closet todas, jard&iacute;n interior con pergolado de madera, tragaluz en area de recamaras, 2 ba&ntilde;os completos (ba&ntilde;o ppal de m&aacute;rmol), armario, cuarto de servicio, &aacute;rea de asador, terraza techada, cochera para 2 carros grandes, port&oacute;n el&eacute;ctrico, mini split en toda la casa, protecciones. cisterna. (espacios amplios, ubicada en esquina)muy cerca de centros comerciales importantes.&nbsp;la construcci&oacute;n tiene 145 m2el terreno 252 m2informes. trato directocasa: cel: </p>
+<p>correo: </p>",Casa,CIRIO ESQ. MAGUEY ,La Paz,Baja California Sur,4.0,3.0,3.0,2.0,145.0,252.0,3612.0,24.125575116519407,-110.32303551157835,2014-02-09 00:00:00,0.0,0.0,0.0,1.0,1.0,1380000.0,1583058.5193469648
+249620,casa mina con 516 m2 y en calle principal.,"excelente casa ubicada en blvd. 5 de febrero, pensado para usarse para local comercial, pero a precio de casa, las medidas del terreno es de 16.50 de frente x 31.20 de largo. 
+a unos metros de ley, gum, escuelas, aramburo y muy cerca de el palacio de gobierno 
+
+recámaras 2 
+baños 2 
+m2 construcción 80 m2 
+m2 terreno 516 m2 
+casa ubicada en una calle principal!! ideal para negocio ,cuenta con un gran terreno !! 
+
+* sala cocina comedor. 
+* 2 recamaras. 
+* 2 baños. 
+* 3 minisplits. 
+* cuarto de lavado. 
+* 2 tinacos de 1100 lts.c/u. 
+* protecciones en toda la casa. 
+* bardas.",Casa,Blvd. 5 de febrero,La Paz,Baja California Sur,4.0,2.0,,2.0,80.0,,3561.0,24.1383927,-110.3074557,2015-08-25 00:00:00,0.0,0.0,0.0,1.0,1.0,1800000.0,836446.0102461027
+173483,60623 altos de miramar,<p>casa en regulares condiciones</p>,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,101.0,84.0,3951.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,988000.0,1077659.2824171504
+19,casa los olivos,"<p>hermosa casa a una cuadra de boulevard de 5 de febrero, cuenta con 2 espaciosas recamaras, 1 baño, sala cocina, comedor y seguridad de rejas, bardas. su ubicación es excelente para tus necesidades diarias, hay centros comerciales, hospitales,escuelas,bancos, restaurantes, parques etc, todo lo que ocupes.</p>",Casa,,La Paz,Baja California Sur,,2.0,2.0,1.0,100.0,148.0,3561.0,24.141528955807576,-110.31022360548376,2014-12-12 00:00:00,0.0,0.0,0.0,0.0,0.0,830000.0,1066172.936123291
+220772,casa gerrero.,"casa en venta, cuenta con agua, drenaje, electricidad y disponibilidad de teléfono y cable. sala, comedor, cocina y aljibe de 500lts.<br /><br />",Casa,,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,258.0,300.0,3637.0,24.16631280601399,-110.30319719314579,2012-08-08 00:00:00,0.0,0.0,0.0,1.0,0.0,1400000.0,2881015.6505530784
+15604,casa en privazas residencial excelente lugar para invertir en tu nueva casa,"unos de los fraccionamientos exclusivos de cabo san lucas, privazas residencial localizado en calle circuito monarcas, 2 niveles, 3 habitaciones, sala, comedor, cocina, 2 baños y medio, espacio para 2 autos, terraza, patio trasero, seguridad las 24 horas en área de uso común alberca, casa club, gym, cancha de tenis sin duda una excelente inversión para ti y tu familia. 
+
+te interesa contáctanos al celular  para citas o mas detalles, aceptamos crédito infonavit y tramitamos tu crédito bancario. en facebook nos encuentras como baja zone",Casa,Circuito Monarcas,Los Cabos,Baja California Sur,4.0,3.0,2.0,2.0,150.0,223.0,3918.0,22.89139664767828,-109.9156843545532,2016-07-31 00:00:00,0.0,0.0,0.0,1.0,1.0,2165000.0,1640490.2508162619
+71370,63107 casa blanca,"<p>casa de 3 recamaras, terraza, area de tv, cisterna en buenas condiciones</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,138.0,215.0,4000.0,22.90546321210964,-109.94821929722092,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1441000.0,1502654.0952899489
+104126,casa degollado centro,<p>casa en centro de la ciudad </p>,Casa,,La Paz,Baja California Sur,0.0,2.0,0.0,2.0,80.0,250.0,3520.0,24.155735668376536,-110.31123965978622,2013-10-03 00:00:00,0.0,0.0,0.0,1.0,0.0,1250000.0,836446.0102461027
+250869,casa en venta en puesta del sol,"casa de 2 plantas, 4 recámaras, la principal en planta baja con baño, closets, 2.5 baños, cocina integral, sala, comedor, cocina, area tv, acabados residenciales, ubicada en privada a 2 cdas de la carret transp, cerca de plazas comerciales, mega, chedraui. mayor información . (no incluye los muebles)",Casa,Ocaso,La Paz,Baja California Sur,4.0,4.0,1.0,2.0,155.0,135.0,3693.0,24.1320964,-110.3385466,2012-09-12 00:00:00,0.0,0.0,0.0,0.0,0.0,1150000.0,1697921.982285559
+108669,casa d. l. justicia,"<p>comoda vivienda con dos recamaras, sala, comedor, cocina, dos baños, cochera, amplio terreno, muy cerca de zona escolar y comercial.</p>",Casa,,La Paz,Baja California Sur,0.0,2.0,1.0,2.0,82.0,200.0,3654.0,,,2013-09-22 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,859418.7028338215
+102954,casa blanca privada,"casas desde  a 
+son de 2 recamaras en 1 nivel 
+de 3 recamaras en 2 pisos, cuentan con cocina integral, y 2 closet, en privada con
+armonia, confort, seguridad",Casa,,La Paz,Baja California Sur,0.0,2.0,2.0,1.0,72.0,154.0,3539.0,,,2013-03-24 00:00:00,0.0,0.0,0.0,0.0,0.0,698000.0,744555.2398952274
+156894,casa calamar,"<p>casa ubicada en fraccionamiento villas del encanto, cuenta con dos recamaras, un baño, protecciones en toda la casa, cochera de una planta, patio, muy cerca de escuelas, supermercados, a 5 minutos de liverpool.</p>",Casa,Villa Calamar,La Paz,Baja California Sur,4.0,2.0,1.0,1.0,52.0,117.0,3661.0,24.102204689047532,-110.33142529428005,2016-02-22 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,514828.3140180391
+27588,75469 quintas california,"<p>casa de 2 niveles; 3 recamaras, 2 1/2 baños, excelente ubicacion</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,1.0,2.0,112.0,140.0,3952.0,22.887293365819392,-109.93212604575092,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1205000.0,1204009.091649604
+129316,puerto ilusión condominio 402-a la paz b.c.s.,"<p>puerto ilusión, es un nuevo desarrollo de condominios residenciales en la paz, la capital de baja california sur. ubicado a unos pasos del malecón, este majestuoso proyecto no sólo proporcionan acceso inmediato a la playa, sino que también ofrece espectaculares puestas de sol que se diluyen en la bahía, dejando el resplandor de las luces de la ciudad en su máxima expresión. puerto ilusión esta ubicado estratégicamente en el lugar más seguro, más cómodo y más deseable en la paz.</p>",Apartamento,,La Paz,Baja California Sur,,2.0,1.0,2.0,102.0,,3537.0,24.168990790810426,-110.3088685869966,2015-06-25 00:00:00,0.0,0.0,0.0,0.0,0.0,3127000.0,1089145.6287110099
+13726,61620 tabachines,<p>casa ubicada dentro de una privada con caseta de seguridad; 3 recamaras 2 1/2 baños</p>,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,110.0,143.0,3956.0,22.898635968845984,-109.9127669337031,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1420000.0,1181036.3990618852
+186668,almacen caracol,"el inmueble consta de :
+
+edificio de 2 plantas al fondo del terreno
+al frente un patio de maniobras para carga y descarga
+
+planta alta:
+3 oficinas, cuarto de archivo
+
+planta baja:
+2 oficinas, 2 bodegas refrigeradas, caseta vigilancia, patio maniobras y area de carga y descarga a la altura de camiones.
+
+area construida oficinas: 133.30m2
+area construida cuartos frios: 127m2
+area cubierta de carga y descarga: 51.50m2
+
+total construido:  311.90m2
+
+superficie total de terreno: 482.40m2
+
+superficie patio maniobras: 260m2
+<br /><br />",Edificio,,La Paz,Baja California Sur,0.0,,0.0,2.0,311.0,,3588.0,24.14681755600618,-110.32560162488407,2012-08-08 00:00:00,0.0,0.0,0.0,0.0,0.0,2500000.0,3489792.0041276272
+94910,casa san pablo,"tranquilidad y quietud!!zona centrica de facil acceso por blvd. las garzas o colosio y a unos minutos de centros comerciales. ubicada en una privada tranquila y de poco trafico, casa muy acogedora,  en excelente estado de conservación de un solo nivel con cocina integral equipada, sala-comedor, dos recamaras, un baño. jardin exterior completamente encementado y adoquinado. ideal para familia pequeña.<br /><br />",Casa,,La Paz,Baja California Sur,7.0,2.0,1.0,1.0,79.0,140.0,3600.0,24.124677676612624,-110.32924680709841,2012-09-26 00:00:00,0.0,0.0,0.0,1.0,0.0,700000.0,824959.6639522433
+145069,departamento en venta en el tezal,"excelente oportunidad de inversión. modernos departamentos equipados con aires acondicionados, closets, acabados de marmol en baños, acceso directo a la alberca principal. exclusivo desarrollo con seguridad privada 24hrs. venta directa con el dueño, precio mucho mas bajo que el desarrollador. envia correo a  para mas información y citas!!! ",Apartamento,Blvd Las Torres Luna del Tezal 12 102,Los Cabos,Baja California Sur,2.0,2.0,2.0,2.0,82.0,,3922.0,,,2012-05-04 00:00:00,0.0,0.0,1.0,1.0,1.0,1400000.0,859418.7028338215
+220583,57798 quintas josefina,"departamento con alerca en area comun, closets y cocina integral, cerca del centro de cabo san lucas",Apartamento,,Los Cabos,Baja California Sur,0.0,2.0,1.0,1.0,59.0,67.0,3952.0,,,2013-06-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1097000.0,595232.738075055
+159827,casa m. dieguez,casa 3 recamaras en 2 niveles<br /><br />,Casa,CASA M. DIEGUEZ,La Paz,Baja California Sur,1.0,3.0,2.0,1.0,100.0,150.0,3561.0,,,2012-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,990000.0,1066172.936123291
+98438,casa san ernesto,"<p>casa en esquina ubicada cerca de boulevares, escuela a un costado y a unos minutos de plazas comerciales, cuenta con excedente de terreno y esta compuesta de sala, comedor, cocina, 3 recamaras, enrejada y bardeada. para mayores informes al .</p>casa en esquina en  zona muy tranquila",Casa,,La Paz,Baja California Sur,10.0,3.0,3.0,1.0,83.0,178.0,253609.0,24.09262630783013,-110.32719813287258,2013-11-06 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,870905.049127681
+262395,71792 hojazen,"<p>casa de una planta en buenas condiciones, muy buena ubicacion</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,82.0,160.0,3992.0,22.89883363563364,-109.95379400279491,2013-09-18 00:00:00,0.0,0.0,0.0,1.0,0.0,686000.0,859418.7028338215
+41189,folio: 56767 calle corsario edificio 7 terrazas del mar,"casa de 2 plantas en buenas condiciones, con vista a la playa, privado y cuenta  con seguridadtiene vista a la playa, tiene un area de tv y  cuenta con vigilancia las 24 horas. ",Casa,,Los Cabos,Baja California Sur,0.0,2.0,2.0,2.0,196.0,182.0,3879.0,,,2013-09-07 00:00:00,0.0,0.0,0.0,1.0,0.0,3581000.0,2168862.1803337946
+103325,casa del tiro,"casa de dos pisos  con  tres   recamaras, dos y medio baños, sala comedor, cocina integral, cisterna, porton electrico.",Casa,,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,120.0,160.0,3683.0,24.05774927241671,-110.29690861701964,2012-12-14 00:00:00,0.0,0.0,0.0,0.0,0.0,1050000.0,1295899.8620004794
+247113,if-080 chulavista,<p>casa en buenas condiciones de 3 recamaras</p>,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,64.0,112.0,3890.0,22.922089098086637,-109.94355869319406,2013-12-18 00:00:00,0.0,0.0,0.0,0.0,0.0,525000.0,652664.469544352
+273497,casa diana laura,"<p>en venta casa, excelente ubicación
+</p><p>
+</p><p>características:
+</p><p>
+</p><p>sala-comedor
+</p><p>cocina
+</p><p>3 recamaras
+</p><p>1 baño
+</p><p>patio trasero y delantero
+</p><p>pasillo
+</p><p>
+</p><p></p>",Casa,,La Paz,Baja California Sur,0.0,3.0,0.0,1.0,91.0,200.0,3654.0,,,2013-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,962795.8194785563
+106038,casa bahia banderas,"<p>en venta casa en buena ubicación cerca de plazas comerciales
+</p><p>
+</p><p>características: 
+</p><p>
+</p><p>sala-comedor
+</p><p>cocina integral
+</p><p>3 recamaras 
+</p><p>1 baño 
+</p><p>area de lavado
+</p><p>patio trasero y delantero
+</p><p>pasillo lateral
+</p><p>cochera techada para 1 auto
+</p><p></p>",Casa,,La Paz,Baja California Sur,0.0,3.0,1.0,1.0,69.0,147.0,3667.0,,,2013-10-25 00:00:00,0.0,0.0,0.0,1.0,0.0,635000.0,710096.2010136491
+106383,"casa en venta en los cabos, baja california sur","cond. horizontal formado por varios cotos.  este tiene alberca, palapa con asadores, camastros con mesas con sombrilla, jardín con juegos, ym con baño y aire acondicionado y vigilancia.  en el corredor turístico san josé del cabo - san lucas.  a 10 min. de escuelas, restaurantes, bancos, centros comerciales, supermercados, blockbuster, office depot, home depot, wallmart, sams, costco, gasolinería, carwash, etc.",Casa,Isla Margarita,Los Cabos,Baja California Sur,3.0,2.0,2.0,2.0,128.0,94.0,,22.9338383,-109.92475729999998,2013-09-13 00:00:00,0.0,0.0,1.0,1.0,0.0,2300000.0,1387790.6323513547
+140945,if-062 gardenias,"<p>casa de 2 niveles, 2 recamaras; 1 1/2 baños; con excedente de terreno</p>",Casa,,Los Cabos,Baja California Sur,0.0,2.0,2.0,1.0,81.0,225.0,3993.0,22.894445365168448,-109.94091939821374,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,890000.0,847932.3565399621
+181317,casa en remate bancario. los cabos b. c. s.,"empresa dedicada a los   ante notario y registro público tiene grandes oportunidades para ti desde un 50-70% debajo de su avalúo, cesiones de derechos con garantia hipotecaria en buenas condiciones en venta únicamente de contado no creditos. si no sabes que es un remate hipotecario no te preocupes nosotros te explicamos. inversión segura, pago de contado. 
+
+* las imágenes y descripción aquí presentadas pueden no representar con exactitud la realidad por tener diferencias en relación con la numeración, ubicación y superficies.  (r) no es inmobiliaria sino media derechos crediticios litigiosos y/o adjudicatarios. 
+con poseciòn material.",Casa en condominio,Retorno de las Misiones,Los Cabos,Baja California Sur,5.0,1.0,1.0,1.0,64.0,132.0,3849.0,,,2015-09-11 00:00:00,0.0,0.0,0.0,0.0,0.0,1568000.0,652664.469544352
+251510,77693 villas de cortes,<p>casa de 2 plantas en buenas condiciones de 3 recamaras </p>se encuentra cerca de centro comercial ,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,130.0,125.0,,23.05367216786097,-109.70011711120605,2013-10-30 00:00:00,0.0,0.0,0.0,0.0,0.0,1015000.0,1410763.3249390735
+252103,casa en el sargento ,"<p>residencia en el sargento, con bella vista al mar de cortés. jacques cousteau lo llamó'' el acuario del mundo.'' que hacen que sea un lugar ideal para vivir y vacacionar. la paz, a tan solo 20 minutos en coche, lugar de los amantes del windsurf.</p>",Casa,,La Paz,Baja California Sur,4.0,3.0,,2.0,300.0,360.0,,24.084810288331127,-109.99372445046902,2013-11-06 00:00:00,0.0,0.0,0.0,0.0,0.0,1300000.0,3363442.194895174
+87649,casa priv puesta del sol mod. i,"casa en privada con casa club, seguridad, alberca, cisterna, etc. 
+amplia en 2 niveles, con cochera y estacionamiento para visitas dentro de la privada",Casa,,La Paz,Baja California Sur,0.0,3.0,1.0,2.0,154.0,171.0,3588.0,,,2012-11-23 00:00:00,0.0,0.0,1.0,1.0,0.0,1890000.0,1686435.6359916995
+246259,64392 miramar,"casa en muy buena ubicacion, 2 plantas, 2 recamaras en buenas condiciones",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,82.0,140.0,3936.0,,,2013-07-15 00:00:00,0.0,0.0,0.0,0.0,0.0,774000.0,859418.7028338215
+74738,"casa 2 rec. excelente ubicación. jardines del sol, cabo san lucas","casa de 2 recámaras, sala comedor, cocina, estancia, patio de servicio, pasillo lateral, bardeada, protecciones en puertas y ventanas,",Casa,Migriño,Los Cabos,Baja California Sur,5.0,2.0,1.0,1.0,60.0,,4002.0,,,2014-07-06 00:00:00,0.0,0.0,0.0,1.0,1.0,550000.0,606719.0843689144
+15929,casa diana laura,"casa de 2 recamaras, sala, comedor, cocina, 1 baño, terreno de 10 x 20",Casa,,La Paz,Baja California Sur,0.0,2.0,2.0,1.0,56.0,200.0,3654.0,24.08588403980511,-110.31741142272949,2013-04-05 00:00:00,0.0,0.0,0.0,0.0,0.0,460000.0,560773.6991934767
+64447,"venta unica casa en esta zona, 2r, 1b, área tranquila, fracc. el dorado ","venta de casa 2 recámaras, 1 baño, cocineta, completamente enrejada y bardeada, cochera para 1 auto, 64m2 construcción, 140m2 terreno, ubicada en zona muy tranquila, limpia y bonita, a 300 mtrs de la carretera, a la entrada de la colonia el progreso, en fracc el dorado, se acepta cualquier tipo de financiamiento, mayores informes en , cel. . se escuchan propuestas, se aceptan carros o terrenos a cuenta.",Casa,calle Cobre y Oro,La Paz,Baja California Sur,5.0,2.0,1.0,1.0,70.0,140.0,3652.0,24.08413066440946,-110.30615699444272,2014-04-11 00:00:00,0.0,0.0,0.0,1.0,1.0,545000.0,721582.5473075085
+166721,72427 montereal,casa de 1 planta en buenas condiciones de 2 recamaras se encuentra cerca de centro comercial y a 10 minutos del centro de la ciudad. ,Casa,,Los Cabos,Baja California Sur,0.0,2.0,2.0,1.0,65.0,140.0,253921.0,23.02839743972061,-109.7083568572998,2013-09-16 00:00:00,0.0,0.0,0.0,0.0,0.0,603000.0,664150.8158382114
+98072,casa villa del sahuaro,"<p>casa de 3 recamaras con closet, 2 baños, estancia, sala, comedor, cocina, area de servicio, patio, jardin, cisterna, hidro, bardas perimetrales,, etc.</p>",Casa,,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,96.0,164.0,3661.0,,,2013-10-06 00:00:00,0.0,0.0,0.0,0.0,0.0,980000.0,1020227.5509478534
+202144,casa a 3 min de la uabcs,"<p>casa de 2 recamaras, 1 baño, áreas de sala, comedor, cocina, estacionamiento para 2 autos.
+</p><p>a solo 3 min de la uabcs, ideal para estudiantes que vienen a estudiar a la uabcs o el tecnológico. fácil acceso.
+</p><p>a 5 min de liverpool, plaza soriana forjadores, cines, casinos, parques, escuelas, etc.
+</p><p>
+</p><p></p>",Casa,Turqueza,La Paz,Baja California Sur,0.0,2.0,,1.0,54.0,140.0,,,,2016-07-04 00:00:00,0.0,0.0,0.0,0.0,0.0,440000.0,537801.0066057579
+245723,departamento en venta en arenal,"cuenta con 68 m2 de const., 2 recámaras, 2 baños completos, cocina integral, comedor, sala, una terraza, balcón, espacio de estacionamiento para un auto, patio de servicio ubicado en la azotea, 3 aires acondicionados, 4 ventiladores de techo, tanque estacionario de gas, boiler ahorrador.
+
+areas comunes: amplios jardínes, alberca, palapa, baños, elevador.
+
+a 3 cuadras de la playa y a 1 de la zona trendy de los cabos.
+
+informes:
+tel. (222) 
+id. 
+",Apartamento,Edificio Montserrat,Los Cabos,Baja California Sur,10.0,2.0,1.0,2.0,68.0,,3954.0,,,2012-08-11 00:00:00,1.0,0.0,1.0,1.0,1.0,1800000.0,698609.8547197897
+132002,65505 country del mar,casa de 1 planta en buenas condiciones de 3 recamarasse encuentra a 5 minutos del centro de la ciudad y cerca de centros comerciales.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,1.0,1.0,71.0,140.0,3899.0,,,2013-07-15 00:00:00,0.0,0.0,0.0,0.0,0.0,543000.0,733068.893601368
+29871,oportunidad!!! casa indeco,"casa de dos plantas, 3 recamaras, 2 baños, un estudio, sala, comedor, cocina, amplio patio, cochera, etc.
+ubicada en la col. indeco, muy cerca de todo, centros comerciales, escuelas, hospitales, etc.
+
+a un excelente precio!!!
+para verla o mayor informacion : comunicarse al  y oficina 
+
+",Casa,,La Paz,Baja California Sur,15.0,3.0,1.0,2.0,184.0,152.0,3600.0,,,2013-04-25 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,2031026.0248074818
+212938,casa crespo,"<p>bonita casa en venta en fraccionamiento agua clara, donde encontraras tranquilidad y seguridad, totalmente bardeada, cisterna de 5000 litros, cocineta equipada, aires acondicionados, closets, fuente, jardin, cerca de todos los servicios, bancos, plaza comercial, super mercados, transporte publico, gasolineras, escuelas, universidades, restaurantes, ven y conocela, te encantara, usa tu credito infonavit !!!</p>la casa se encuentra semi amueblada.",Casa,,Los Cabos,Baja California Sur,5.0,2.0,1.0,1.0,60.0,140.0,3999.0,22.91117093193933,-109.95875045657158,2013-11-20 00:00:00,0.0,0.0,0.0,0.0,0.0,650000.0,606719.0843689144
+4053,64690 colinas plus,<p>casa de 2 plantas en buenas condiciones de 3 recamaras </p>se encuentra cerca de centros comerciales y a 7 minutos del centro de la ciudad. cuenta con barra en el patio.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,,112.0,140.0,3900.0,,,2013-10-22 00:00:00,0.0,0.0,0.0,0.0,0.0,1043000.0,1204009.091649604
+278136,hermosa residencia con inigualable ubicacion,"<p>espectacular residencia de dos niveles de construcción, cuenta con tres recamaras, tres baños completos con su tina integrada y un medio baño, sala, comedor, cocina con barra desayunador, cuarto de servicio y una pequeña bodega que puedes utilizar como almacén de herramientas y enceres domésticos
+</p><p>
+</p><p> agradable patio con césped en donde podrían jugar tus hijos o reunirte con tus visitas, protecciones en en toda la casa, la zona muy segura y agradable, su ubicación es muy accesible ya que se encuentra muy cerca de colegios, supermercados, bancos, recintos deportivos, etc 
+</p><p>
+</p><p>aproveche el financiamiento que le brinda bbva bancomer donde usted daría un enganche de  mil pesos y mensualidades desde $  mil pesos.
+</p><p>
+</p><p>* sujeto aprobación de crédito
+</p><p></p>",Casa,,La Paz,Baja California Sur,,3.0,2.0,3.0,200.0,252.0,,24.138558694889785,-110.31445178205105,2015-10-03 00:00:00,0.0,0.0,0.0,0.0,0.0,2300000.0,2214807.565509232
+71792,casa alarcon,"<p>nueva vivienda de 3 recamaras, sala, comedor, cocina, 2 baños, con bardas.</p>se aceptan todos los creditos",Casa,,La Paz,Baja California Sur,0.0,3.0,1.0,2.0,87.0,160.0,3683.0,,,2013-10-25 00:00:00,0.0,0.0,0.0,0.0,0.0,780000.0,916850.4343031186
+127138,"casa camino real, la paz mexico","casa usada de 2 plantas, ubicaa en el fraccionamiento el camino real, en la paz, accesible y cerca de los principales centros comerciales.
+características:
+planta baja:
+recamara principal con baño y vestidor
+sala  comedor 
+cocina  integral 
+1/2 baño
+cochera  para 2 autos descubierta
+patio trasero con bardas
+pasillo lateral
+área de lavado
+
+planta alta:
+2 recamaras con closet
+1 baño complete
+estancia familiar
+terraza al frente
+area crecimiento para una recamara mas
+
+
+
+",Casa,,La Paz,Baja California Sur,7.0,3.0,2.0,2.0,108.0,160.0,3683.0,24.05558870008049,-110.30012703161623,2013-05-28 00:00:00,0.0,0.0,0.0,0.0,0.0,725000.0,1158063.7064741664
+170255,63981 lomas del valle,<p>casa en regulares condiciones</p>,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,73.0,150.0,4009.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,607000.0,756041.5861890868
+153246,gran casa con alverca ubicada en  goleta residencial,"goleta residencial 
+descripción: 
+casa residencial en una de las zonas mas exclusivas de san jose del cabo, casa de 2 niveles, 3 recamaras, sala, comedor, cocina, integral, baño y medio, espacio para 2 carros, seguridad las 24 horas, áreas verdes, alberca, centros comerciales muy cercas. 
+
+para cita o mas información comunícate al celular  aceptamos crédito infonavit y tramitamos tu crédito bancario.",Casa,Paseo Goleta,Los Cabos,Baja California Sur,4.0,3.0,2.0,1.0,137.0,199.0,3892.0,23.062437857685946,-109.71216124736021,2016-06-17 00:00:00,0.0,0.0,0.0,0.0,0.0,2713000.0,1491167.7489960894
+34823,casa con excelente terreno la fuente en venta en la paz,"<p> excelente terreno ubicada en el fraccionamiento la fuente, consta de sala, comedor, cocina, 3 recamaras con closets, 2 baños y enrejada. </p>casa cerca de la carretera con magnifico terreno, para jardin, alberca o incluso construir otra casa.",Casa,,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,98.0,400.0,3679.0,24.061696128190235,-110.30310317873956,2013-12-11 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,1043200.2435355722
+239292,casa economica kadeibi,"<p>casa económica de una planta, dos recamaras, un baño.
+</p><p>en esquina, tiene amplio patio, protecciones, espacio para chochera de uno o dos carros.
+</p><p>ideal para personas que requieran poner un negocio propio. </p><p>otras características:</p><p>espacios para autos: 2.<br></p>",Casa,Kadeibi #204,La Paz,Baja California Sur,4.0,2.0,,1.0,41.0,158.0,3577.0,24.027141408224782,-110.27209281921387,2016-07-04 00:00:00,0.0,0.0,0.0,0.0,0.0,319000.0,388478.50478558557
+225955,casa jazmin,"<p>bonita casa en venta por entidad financiera, en una zona de crecimiento, cerca de todos los servicios, bancos, gasolineras, entidades gubernamentales, plaza comerciales, restaurantes, escuelas, universidades, hospitales, ven y conoce esta bonita propiedad.</p>",Casa,,Los Cabos,Baja California Sur,0.0,2.0,1.0,2.0,128.0,200.0,3990.0,22.902524453809146,-109.95324840769173,2013-11-22 00:00:00,0.0,0.0,0.0,1.0,0.0,1055000.0,1387790.6323513547
+65481,63597 colinas de san jose,"casa de 2 plantas con excelente ubicación de 3 recamaras cuenta con terreno excedente, se encuentra enfrente del parque del fraccionamiento y cerca de un centro comercial. ",Casa,,Los Cabos,Baja California Sur,0.0,3.0,3.0,1.0,100.0,175.0,3867.0,,,2013-05-05 00:00:00,0.0,0.0,0.0,0.0,0.0,936000.0,1066172.936123291
+203895,departamentos imelda,"excelente oportunidad de negocio,5 departamentos de 2 recamaras c/u 2 baños en cada departamento,sala,comedor,cocina,cuarto de lavado interior,cochera para 6 autos,bodega,cisterna de 10 mil litros de agua<br /><br />",Edificio,,La Paz,Baja California Sur,10.0,,,,428.0,432.0,3731.0,24.14295009586355,-110.30701249837877,2012-09-26 00:00:00,0.0,0.0,0.0,0.0,0.0,5000000.0,4833694.520509179
+125840,casa diana laura,la casa se encuentra ubicada en la colonia diana laura en una exclusiva privada de solo 5 casas <br /><br />la casa cuenta con bardas en la parte trasera y se aceptan todos los creditos inclusive fovissste ,Casa,,La Paz,Baja California Sur,0.0,2.0,2.0,1.0,52.0,152.0,3654.0,,,2012-08-18 00:00:00,0.0,0.0,0.0,1.0,0.0,439999.0,514828.3140180391
+55293,casa san pablo,"<p>casa de 2 plantas, con tres recamaras con closet, un baño y medio,cocina, porton de herreria, protecciones en toda la casa, area de lavado techada, cuarto de servicio, patio amplio, cochera para dos autos, cocina. </p>",Casa,,La Paz,Baja California Sur,,3.0,2.0,1.0,84.0,140.0,3666.0,24.09139639423893,-110.32108283056006,2015-11-06 00:00:00,0.0,0.0,0.0,0.0,0.0,790000.0,882391.3954215404
+282069,casa agua azul,"<p>a distancia de un lote de la playa del comitan, aproximadamente 16 km de la paz. sólo unos minutos de caminar lo llevarán a dos playas donde usted podrá correr por las mañanas al contemplar el sol levantarse de las montañas, o caminar en la noche disfrutando del brillo de la luna sobre las luces de la ciudad. la casa se encuentra sobre un terreno de 1,614 metros cuadrados. 129 metros de construcción, 2 recamaras, baño, amplia cocina, chimenea y mucho espacio de almacen. el terreno es suficientamente grande para el crecimiento. completamente bardeado y con portón. la propiedad se localiza de tal manera que no cuenta con los vecinos de tres lados. cuenta con la alberca con agua salada, mucha sombra, grandes palmeras, y hasta la cancha de basket pavimentada! la propiedad necesita algunas mejoras y renovaciones, como la superficie en los patios, terminar segundo baño etc. ... eso se refleja en el precio bajo de la propiedad.</p>",Casa,,La Paz,Baja California Sur,40.0,2.0,0.0,1.0,129.0,,3749.0,,,2013-12-06 00:00:00,0.0,0.0,1.0,0.0,0.0,1163500.0,1399276.978645214
+227770,casas lorenzo,"casa en un nivel
+2 recamaras 1 baño
+bardas laterales<br /><br />",Casa,,La Paz,Baja California Sur,0.0,2.0,2.0,1.0,100.0,375.0,3642.0,,,2012-08-30 00:00:00,0.0,0.0,0.0,1.0,0.0,1200000.0,1066172.936123291
+45121,casa arcoiris iii,"comoda vivienda con 2 recamaras c/ closet, sala, comedor, cocina integral con barra, 1 baño completo, rejas en puertas y ventanas, bardeada.",Casa,,La Paz,Baja California Sur,7.0,2.0,2.0,1.0,45.0,140.0,3680.0,,,2013-07-18 00:00:00,0.0,0.0,0.0,0.0,0.0,400000.0,434423.88996102323
+197453,casa en venta en pueblo nuevo,"-- -33 --    casa de dos recamaras, sala, comedor, cocina, un ba&ntilde;o, excelente ubicaci&oacute;n.",Casa,Privada Carlon Luque SN,La Paz,Baja California Sur,0.0,2.0,1.0,1.0,62.0,164.0,3588.0,,,2015-08-15 00:00:00,0.0,0.0,0.0,0.0,0.0,850000.0,629691.7769566332
+194436,quintas residencial,"<p>hermosa casa tipo residencial en conjunto privado, dos plantas, tres recamaras en planta alta, 2 baños completos en planta alta, medio baño en planta baja, piso rectificado tipo marmol, 180 m2 construccion, 192 m2 terreno, sala, comedor, cocina madera de alder con cristales, barra de granito, interiores en yeso acabado fino, patio de servicio, cisterna de 5,000 lts, cochera para 2 autos.</p>",Casa,QUINTAS RESIDENCIAL,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,180.0,192.0,3520.0,24.153489741105336,-110.31633231034664,2013-08-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1850000.0,1985080.6396320444
+12266,"empieza a utilizar tu crédito infonavit casa en venta en aura, cabo san lucas","casa de 2 recamaras, sala, comedor, cocina, baño y medio, con patio trasero, espacio para 2 autos en venta en  pesos aceptamos crédito infonavit y tramitamos tu crédito bancario. para citas o mas detalles comunícate al  con gusto lo atenderemos. en facebook nos encuentras como baja zone. 
+
+tenemos un amplio inventario de casas en san jose del cabo, la paz, cabo san lucas, comunícate y dime por que área estas buscando y te ayudo en tu busqueda.",Casa,Supernova ,Los Cabos,Baja California Sur,4.0,2.0,2.0,1.0,54.0,140.0,3996.0,22.892622242515298,-109.93795741821287,2015-12-06 00:00:00,0.0,0.0,0.0,0.0,0.0,460000.0,537801.0066057579
+149107,casa marquez,"<p>magnifica oportunidad en el centro de la ciudad, residencia 3 recamaras, 3 baños, sala, comedor, cocina, terraza con excelente vista.</p>",Casa,,La Paz,Baja California Sur,0.0,3.0,2.0,3.0,150.0,193.0,3520.0,,,2013-10-25 00:00:00,0.0,0.0,0.0,1.0,0.0,1400000.0,1640490.2508162619
+119828,75157 colinas de san jose,<p>casa en buenas condiciones de 1 planta con 3 recamaras </p>se encuentra cerca de centros comerciales y a 5 minutos del centro de la ciudad.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,63.0,120.0,3867.0,23.063780731003714,-109.6973705291748,2013-10-10 00:00:00,0.0,0.0,0.0,0.0,0.0,555000.0,641178.1232504926
+283919,casa d. l. articulo 4°,"<p>comoda vivienda con dos recamaras, sala, comedor, cocina, dos baños, cochera, amplio terreno, muy cerca de zona comercial y escolar.</p>",Casa,,La Paz,Baja California Sur,0.0,2.0,1.0,2.0,90.0,200.0,3654.0,,,2013-09-22 00:00:00,0.0,0.0,0.0,0.0,0.0,570000.0,951309.4731846969
+248614,hermosa casa una sola planta 400 m2 de terreno,"hermosa casa en una sola planta, cerca de escuelas y parques y a solo 2 cuadras de carretera transpeninsular , cuenta con un gran patio trasero, excelente para el proyecto que tanto anelas, espacios muy amplios en toda la casa . 
+caracteristicas: 
+* 3 recamaras ( recamara principal con vestidor) 
+* dos baños 
+* sala-comedor 
+* área de cocina con barra desayunadora 
+* bardeada completamente 
+* tinaco de 1,100 lts. 
+* estacionamiento para dos carros 
+justo lo que tu buscabas. 
+área construida: 106 m2 área del terreno: 400 m2 
+medida de frente: 10 m medida de fondo: 40 m 
+recámaras: 3 baños: 2",Casa,baja california,La Paz,Baja California Sur,0.0,3.0,3.0,2.0,106.0,400.0,3750.0,,,2016-04-29 00:00:00,0.0,0.0,0.0,1.0,1.0,1150000.0,1135091.0138864475
+126107,casa en colinas de san jose empieza a utilizar tu crédito infonavit! ,"colinas de san jose localizado en san jose de cabo, casa totalmente indepediente con 3 recamaras, sala comedor, cocina, baño y medio, espacio para 2 carros con 150 m2 de terreno y 122 m2 de construcción, comunidad a 10 minutos del centro de san jose del cabo es una comunidad residencial, no comercios a los alrededores por lo que hace mas tranquila muy familiar. te interesa llámanos para citas o mas detalles al celular  aceptamos crédito infonavit y tramitamos tu crédito bancario sin costo por asesoría y gestoria.",Casa,colinas burgos,Los Cabos,Baja California Sur,4.0,3.0,2.0,2.0,122.0,150.0,3867.0,23.07151902243907,-109.7170292260742,2016-08-21 00:00:00,0.0,0.0,0.0,0.0,1.0,1020000.0,1318872.5545881982
+248239,san guillermo #247,bonita casa seminueva lista para ser habitada cerca de escuelas y supermercados en avenidas principales.,Casa,San Guillermo #247,La Paz,Baja California Sur,,3.0,2.0,1.0,75.0,140.0,3820.0,24.091,-110.32,2016-12-28 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,779014.2787768056
+1686,casa del bosque,"<p> casa habitacion ubicada en fraccionamiento la fuente
+</p><p>
+</p><p> caracteristicas:
+</p><p> 
+</p><p> -sala
+</p><p> -comedor
+</p><p> -cocina
+</p><p> -dos recamaras
+</p><p> -un baño
+</p><p> -estacionamiento para un auto
+</p><p> -rejas de proteccion en toda la casa
+</p><p> -a sus alrededors cuenta con todo tipo de comercios</p>",Casa,,La Paz,Baja California Sur,,2.0,1.0,1.0,72.0,200.0,3679.0,24.06039256483295,-110.30235450714828,2015-07-21 00:00:00,0.0,0.0,0.0,0.0,0.0,513000.0,744555.2398952274
+1963,casa la cholla,"<p>hermosa casa adjudicad por entidad financiera, en uno de los fraccionamientos con mas plusvalia, ven y conocela, puedes ofertar sobre este inmueble, tu familia te lo agradecera.</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,139.0,285.0,253902.0,23.012266279246806,-109.73666153848171,2013-11-22 00:00:00,0.0,0.0,1.0,1.0,0.0,1814000.0,1514140.4415838083
+192356,63991 villas de cortes,"casa de 1 planta en regulares condiciones de 2 recamaras
+se encuentra cerca de centros comerciales.",Casa,,Los Cabos,Baja California Sur,0.0,2.0,2.0,1.0,54.0,125.0,,,,2013-09-07 00:00:00,0.0,0.0,0.0,1.0,0.0,459000.0,537801.0066057579
+91853,69049 monte real,"<p>casa de 2 plantas en buenas condiciones de 3 recamaras
+</p><p></p>se encuentra cerca de hospitales, centros comerciales y a 10 minutos del centro de la ciudad.",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,93.0,140.0,253921.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,923000.0,985768.5120662751
+10899,casa en condominio en venta en el tezal,"excelente oportunidad de inversion: venta directa del dueño. mejor oferta del mercado! el departamento incluye closets, aires acondicionados, áreas de alberca, seguridad 24 horas, estacionamiento para dos autos, espacios de recreación para la familia en una de las mejores zonas de cabo san lucas, a 5 minutos del centro, supermecados, escuelas e iglesia. llama o envía correo para concertar cita. aceptamos crédito infonavit o co-financiamiento.",Casa en condominio,Luna del Tezal 12 101,Los Cabos,Baja California Sur,2.0,2.0,2.0,2.0,82.0,82.0,3922.0,,,2012-05-17 00:00:00,0.0,0.0,1.0,1.0,0.0,1400000.0,859418.7028338215
+271017,casa club fidepaz,"<p>casa amplia, muy hermosa, con caracteristicas poco comunes. es una casa con mucho terreno, ubicada en fidepaz, esta casa cuenta, con una casa club anexa, la casa habitacion de una planta cuentas con:
+</p><p>4 recamaras, la principal con baño y vestidor y las demas con closet. 3 baños completos, cochera cubierta para 2 autos y opcion para 4 autos mas al descubierto. cocina integral con barra desayunador, cuarto de lavado integrado a la casa, patio trasero amplio con jardin y porche. sala - comedor, rejas de herreria en ventanas y cochera, 3 a/c tipo minisplit,
+</p><p>abanicos de techo en todas las areas, cisterna de 6000 lts. con hidroneumatico para presion de agua. 
+</p><p>la casa club tambien de una planta y cuenta con:
+</p><p>una cocina integral con barras de material y azulejo.
+</p><p>una terraza exterior al lado de la alberca.
+</p><p>alberca grande con todo su equipo de filtrado automatico.
+</p><p>asador acondicionado con campana y freidora de gas.
+</p><p>jardines al frente y atras de la casa club.
+</p><p>jardinera junto alberca.
+</p><p>baño completo en area alberca.
+</p><p>baño completo dentro casa club.
+</p><p>sala en la casa club.
+</p><p>estudio / recamara en la casa club.
+</p><p>cochera cubierta para 1 auto al frente de la casa club.
+</p><p>
+</p><p>se acepta cualquier tipo de crédito.</p>ubicacion cercana a liverpool walmart, sams, vips, home depot y proximamente: starbucks, cinepolis, c&a
+nuevo colegio saint jones a 3 minutos caminando",Casa,,La Paz,Baja California Sur,0.0,4.0,2.0,3.0,274.0,,,24.12405907906517,-110.34119701605226,2013-11-06 00:00:00,0.0,0.0,0.0,0.0,0.0,4350000.0,3064797.191254829
+203972,72494 arcoiris,"<p>casa en buenas condiciones, 2 plantas, 2 recamaras, 1 baño</p>",Casa,,Los Cabos,Baja California Sur,0.0,2.0,2.0,1.0,56.0,110.0,3943.0,22.88470764121769,-109.93980789236956,2013-09-23 00:00:00,0.0,0.0,0.0,1.0,0.0,495000.0,560773.6991934767
+77902,casa la posada,"excelente ubicación a una cuadra de la playa, dos años de construida, una planta y cuanta con terraza en planta alta con vista al mar.",Casa,,La Paz,Baja California Sur,2.0,3.0,2.0,2.0,158.0,300.0,3699.0,24.144088220317105,-110.34142792224884,2013-04-11 00:00:00,0.0,0.0,0.0,0.0,0.0,2200000.0,1732381.0211671372
+21309,62697 altos de miramar,casa en regulares condiones,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,101.0,84.0,3951.0,,,2013-06-08 00:00:00,0.0,0.0,0.0,0.0,0.0,873000.0,1077659.2824171504
+73443,condo el descanso cabo san lucas,"<p>hermoso condominio en el corazón de cabo, solo a unos pasos de la diversión, sin perder la tranquilidad. disfruta de los mas bellos amaneceres desde la pequeña terraza o bien de un buen descanso en el área de alberca y bbq. excelente inversión para vacacionar o para renta.</p>",Apartamento,,Los Cabos,Baja California Sur,,2.0,1.0,2.0,85.0,85.0,,,,2014-02-25 00:00:00,0.0,0.0,0.0,0.0,0.0,1250000.0,893877.7417153998
+282819,casa nayarit,"preciosa casa en excelente ubicacion, zona de gran plusvalia minimo flujo vehicular; cuenta con tres recamaras, sala, comdedor, cocina integral con barra, baño, cochera techada, patio amplio.",Casa,,La Paz,Baja California Sur,0.0,3.0,1.0,1.0,100.0,180.0,3588.0,,,2013-07-18 00:00:00,0.0,0.0,0.0,0.0,0.0,850000.0,1066172.936123291
+173409,casa sandoval,"<p>
+</p><p>estamos ofreciendo una casa de 2 niveles, el primer nivel solo requiere piso, cuenta con área de sala, comedor, cocina con barra, 1 baño completo y dos recamaras de 4.0m x4.0m cada una.
+</p><p>techo alto, toda bardeada y con herrería.
+</p><p>
+</p><p>en el segundo nivel preparación para 2 recámaras más, ya que cuenta con obra negra lista para recibir acabado.
+</p><p>
+</p><p>es una gran opción para tu familia, llama al  y pide tu cita</p>",Casa,,Los Cabos,Baja California Sur,3.0,2.0,1.0,1.0,112.0,127.0,3884.0,,,2013-12-06 00:00:00,0.0,0.0,0.0,0.0,0.0,550000.0,1204009.091649604
+266140,casa misiones,"casa habitación de dos recamaras, sala comedor, cocina integral, closets en todas las recamaras, 1 baño totalmente bardeada, cisterna, cochera eléctrica y cuarto de lavado.",Casa,,La Paz,Baja California Sur,0.0,2.0,2.0,1.0,140.0,,3646.0,24.088001667265573,-110.31569561657179,2013-03-08 00:00:00,0.0,0.0,0.0,0.0,0.0,630000.0,1525626.7878776677
+128897,villa nogal,"bonita casa de 1 planta, cuenta con 3 recamaras, 1 baño, cocina, sala/comedor, cochera para 2 carros.<br /><br />",Casa,,La Paz,Baja California Sur,6.0,3.0,0.0,1.0,63.0,183.0,3673.0,,,2012-09-26 00:00:00,0.0,0.0,0.0,0.0,0.0,800000.0,641178.1232504926
+181355,casa del sol premium,"<p>ubicado en un lugar paradisíaco y con una de las mejores vistas hacia la bahía de cabo san lucas se encuentra cabo del mar village; un nuevo desarrollo de 12 hectáreas de aventura en un ambiente familiar, donde experimentaras la mejor forma de vivir la vida dentro de un parque lleno de espacios mágicos y actividades para su familia, cabo del mar es un proyecto del desarrollo portus, empresa altamente reconocida por su compromiso por el buen gusto y la excelencia en el servicio al cliente. con el tiempo ha demostrado la calidad y solidez de su trabajo, respaldado hoy en día por grandes desarrollos como lo son ventanas de cortes, ventanas del mar, y ventanas de cabo.</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,3.0,174.0,200.0,3922.0,22.909686417475314,-109.89461424004514,2013-11-21 00:00:00,0.0,0.0,0.0,0.0,0.0,2750000.0,1916162.5618688879
+294786,casa camino real,"<p>casa de 3 recamaras 1 baños, sala-comedor, cocina, </p>",Casa,,La Paz,Baja California Sur,5.0,3.0,1.0,1.0,65.0,140.0,3683.0,,,2013-11-09 00:00:00,0.0,0.0,0.0,0.0,0.0,340000.0,664150.8158382114
+21678,se vende casa en el palmar de miramar$ ,"<p>magnifica oportunidad casa con 36 m2 de construcci&oacute;n (1 recamara, cocina, comedor, sala y ba&ntilde;o, enrejada) y 175 m2 de terreno, el doble de terreno que las dem&aacute;s casas del fraccionamiento, cerca de escuelas, parques, supermercados y a 5 minutos del centro . con todos los servicios, en esquina con espacio a un costado para que la ampl&iacute;es a tu gusto (palapa, asador, &aacute;rea de jard&iacute;n y juegos &oacute; un negocio), no vivas en una pichonera... los peseros pasan a media cuadra, no pierdas esta buena opcion de vivir cerca de todo, pero en tu propio espacio.</p>",Casa,Mar de Groenlandia # 18,Los Cabos,Baja California Sur,7.0,1.0,2.0,1.0,36.0,175.0,3936.0,22.88767639257197,-109.93904114609377,2013-07-04 00:00:00,0.0,0.0,0.0,1.0,1.0,499000.0,331046.7733162885
+200841,casa salvatierra,"descubre esta casa mágica, diseño arquitectónico único, tres recamaras, ubicada a 3 cuadras del malecón, alberca semi techada, aire acondicionado (mini splits), cochera techada para 2 autos, portón eléctrico",Casa,Casa Salvatierra,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,170.0,225.0,3537.0,24.165597,-110.30824259999996,2013-12-04 00:00:00,0.0,0.0,0.0,0.0,0.0,1400000.0,1870217.1766934502
+285514,casa privanzas platinum,"<p>hermosa casa residencial, en uno de los fraccionamiento mas excusivos de los cabos, la zona con mayor plusvalia, el desarrollo cuenta con casa club, alberca, gimnasio, cancha de tenis, cancha de racketball, seguridad las 24 horas, area de juegos infantiles.....te interesa, haznos una cita y con gusto te la mostramos.</p>el desarrollo cuenta con alberca, casa club, cancha de tenis, gimnasio, cancha de racketball, seguridad, barda perimetral en todo el desarrollo....la casa cuenta con cuarto de servicio para una persona con baño completo !!!",Casa,,Los Cabos,Baja California Sur,4.0,3.0,2.0,3.0,170.0,287.0,3918.0,22.91219128931075,-109.88006114959715,2013-11-21 00:00:00,0.0,0.0,0.0,0.0,0.0,2675000.0,1870217.1766934502
+138958,condo josefina,"<p>precioso departamento en pleno centro de la ciudad de cabo san lucas, a tan solo 3 minutos de la playa, cerca de todos los servicios, centros comerciales, bancos, hoteles, boutiques, gasolineras, escuelas, transporte, restaurantes, que esperas, ven y conoce este hermoso departamento.</p>",Apartamento,,Los Cabos,Baja California Sur,15.0,1.0,1.0,1.0,48.0,,3906.0,22.895923668531328,-109.90673459034723,2013-11-20 00:00:00,0.0,0.0,0.0,0.0,0.0,770000.0,468882.9288426014
+186307,74459 colinas de san jose,<p>casa de 2 plantas en buenas condiciones de 3 recamaras </p>se encuentra cerca de centros comerciales y a 5 minutos del centro de la ciudad.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,94.0,120.0,3867.0,23.065044248012967,-109.71659660339355,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,817000.0,997254.8583601345
+131192,64309 flamingos plus,casa en regulares condiciones,Casa,,Los Cabos,Baja California Sur,0.0,2.0,2.0,2.0,110.0,164.0,3997.0,,,2013-06-08 00:00:00,0.0,0.0,0.0,0.0,0.0,1020000.0,1181036.3990618852
+69300,65326 costa dorada,"casa de 1 planta en regulares condiciones de 3 recamarasse encuentra cerca del aeropuerto
+
+is near the airport.",Casa,,Los Cabos,Baja California Sur,0.0,3.0,1.0,1.0,69.0,140.0,3877.0,,,2013-09-07 00:00:00,0.0,0.0,0.0,1.0,0.0,522000.0,710096.2010136491
+203113,64041 lomas del valle,<p>casa en regulares condiciones</p>,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,73.0,150.0,4009.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,602000.0,756041.5861890868
+73736,56570 juarez,"<p>excelentes condiciones, cocina integral, 2 vestidores</p>",Casa,,La Paz,Baja California Sur,0.0,3.0,2.0,3.0,232.0,277.0,3699.0,,,2013-10-29 00:00:00,0.0,0.0,0.0,0.0,0.0,2922000.0,2582370.6469127336
+102458,65653 la cima,"<p>casa ubicada dentro de una privada, en buenas condiciones</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,91.0,55.0,3916.0,22.907842981766663,-109.88832664384972,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1393000.0,962795.8194785563
+279716,casa ibiza excelentes acabados y a un excelente precio,"casa de 2 recamaras con closet y cocina integral. 
+pre-venta. 
+hermosa casa de una planta estilo minimalista y bien equipada cuenta con cisterna de 2,500 lts. con hidroneumatico, con bardas altas en patio trasero, acabados en mármol troventino en baño y con los acabados muy finos. 
+terreno: 140 m2 
+construcción: 61 m2 
+estacionamiento para 2 carros 
+2 recamaras 
+1 baño 
+fue tanto el éxito de estas casas que se acabaron. 
+se pueden apartar pero estarán listas en 1 mes. 
+aparta la tuya.",Casa,Blvd. Bahia Coronado,La Paz,Baja California Sur,0.0,2.0,2.0,1.0,61.0,140.0,3667.0,24.090262,-110.33432390000002,2016-07-01 00:00:00,0.0,0.0,0.0,1.0,1.0,650000.0,618205.4306627738
+132171,65576 monte real,"casa de 2 plantas en buenas condiciones de 3 recamaras y privadase encuentra en una privada y a 10 minutos del centro de la ciudad, cerca de centros comerciales.",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,115.0,140.0,253921.0,,,2013-05-07 00:00:00,0.0,0.0,0.0,0.0,0.0,1256000.0,1238468.1305311823
+184100,66665 hojazen,casa de una planta y 3 recamaras en buenas condiciones,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,83.0,160.0,3992.0,22.89833946812441,-109.95413732423913,2013-08-15 00:00:00,0.0,0.0,0.0,0.0,0.0,686000.0,870905.049127681
+145417,casa con vista al mar,"<p>casa en colonia ciudad del cielo, con 3 recamaras, sala, cocina con barra, comedor,2 baños, 2 aire acondicionado, vitropiso, cochera, área de lavado, con vista panorámica hacia el mar.</p>",Casa,,La Paz,Baja California Sur,,3.0,,2.0,160.0,219.0,3527.0,24.16639679812736,-110.29526081731709,2014-04-25 00:00:00,0.0,0.0,0.0,0.0,0.0,690000.0,1755353.713754856
+97851,71041 quintas california,"<p>casa de 2 plantas, 3 recamaras, 2 1/2 baños en buenas condiciones</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,115.0,140.0,3952.0,22.885751426703962,-109.9307527547353,2013-09-23 00:00:00,0.0,0.0,0.0,1.0,0.0,1240000.0,1238468.1305311823
+197473,residencia fidepaz con alberca y asador.,"exquisita casa en fidepaz, zona exclusiva. 
+casa nivel residencial muy hermosa y gran terreno, cuenta con alberca, asador, pergola, portones de herrería, en sala y comedor esta decorada con plafones y en cada plafon, lleva luces detroy, cocina integral con barra de granito muy amplia, closets en recamaras principales. 
+area de lavado techado. 
+4 recamaras 
+3 1/2 baños 
+estacionamiento para 3 carros 
+construccion : 180 m2 
+terreno: 365 m2 
+pre-venta. 
+precio:  o.m.o.",Casa,De Las Ballenas,La Paz,Baja California Sur,0.0,4.0,3.0,3.0,180.0,365.0,3714.0,24.1226457,-110.3413074,2016-01-26 00:00:00,0.0,0.0,1.0,1.0,1.0,3200000.0,1985080.6396320444
+24648,hermosa casa en venta en camino real,"preciosa casa ubicada en el fraccionamiento el camino real, con hermosos detalles de calidad, cuenta con las siguientes características: 
+
+* 2 recamaras y un baño. 
+* baño totalmente re-modelado con azulejos de la marca daltile y boquilla anti moho, cancel de cristal templado con accesorios en steel. 
+* closet´s en las dos recamaras en color chocolate. 
+* cocina integral en color chocolate con herrajes de calidad en steel, incluye barra con gavetas remodelada. (campana y estufa bosch no se incluyen, se venden por separado y se puede negociar precio) 
+* tanque estacionario que ofrece mayor seguridad y durabilidad (olvídese de estar cambiando tanques cada mes y que le quitan espacio) 
+* boiler de paso de baja presión de la marca bosch. 
+* pisos de primera y de trafico pesado en patios. (delantero y trasero) 
+* lamparas exteriores en steel así como en fachada, con spots y foto celda con encendido automático por la tarde-noche. 
+* deje de sufrir por el agua ya que cuenta con cisterna de 2500 lts, con bomba y llenado automatizado en tinaco, así como función para utilizarla para regar o hacer uso del agua. 
+* instalaciones listas para mini split´s (se puede negociar precio de mini split´s instalados) 
+* 4 abanicos de techo de la marca hampton bay en color chocolate con acabados en steel en el interior de la casa. 
+* alarma contra robos de la marca honeywell, con dos sensores de puerta, tres sensores de movimiento, teclado de acceso y bocina. 
+* opción a tercer recamara con excelente espacio en patio. 
+* área de lavado y pasillo de servicio totalmente techado e iluminado. 
+* herrería en todas las ventanas, puerta de seguridad en pasillo de servicio, portón con opción a utilizar motor eléctrico (instalación lista). 
+* palmeras de gran tamaño en patio trasero, dos datileras canadienses en el frente de la casa, 3 palmeras kerpis dobles y una cica rovoluta. 
+
+hablenos y véala sin compromiso, le va encantar!!!",Casa,Camino del Norte,La Paz,Baja California Sur,5.0,2.0,2.0,1.0,60.0,160.0,3683.0,,,2014-08-15 00:00:00,0.0,0.0,0.0,1.0,1.0,695000.0,606719.0843689144
+205264,oficina fte tribunal planta alta,"oficina dentro de edificio ubicado enfrente del tribunal con areas comunes baños, jardin accesos planta alta<br /><br />",Oficina comercial,,La Paz,Baja California Sur,4.0,,1.0,2.0,27.0,53.0,3520.0,,,2012-08-30 00:00:00,0.0,0.0,0.0,0.0,0.0,357000.0,227669.65667155373
+240864,casa san miguel,"<p>
+</p><p>casa de una planta en venta, ubicada en esquina muy cerca de chedraui pino pallas.
+</p><p>
+</p><p>especificaciones:
+</p><p>
+</p><p>- 2 recamaras con area de closet
+</p><p>- 1 baño completo
+</p><p>- sala-comedor independientes
+</p><p>- cocina con barra desayunador de azulejo
+</p><p>- pasillo lateral
+</p><p>- patio trasero
+</p><p>
+</p><p>ademas cuenta con:
+</p><p>
+</p><p>- terreno excedente
+</p><p>- ubicación en esquina
+</p><p>- 2 tinacos (1100 y 600 lts.)
+</p><p>
+</p><p>no incluye muebles</p>",Casa,,La Paz,Baja California Sur,5.0,2.0,2.0,1.0,56.0,178.0,,24.09175278357355,-110.32750826328993,2015-02-11 00:00:00,0.0,0.0,0.0,0.0,0.0,510000.0,560773.6991934767
+256022,if-085 costa dorada,<p>casa en regulares condiciones de una planta de 3 recamaras ideal para usa crédito infonavit</p>se encuentra a 5 minutos del aeropuerto.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,0.0,1.0,69.0,140.0,3877.0,23.049012496449016,-109.70067501068115,2013-08-18 00:00:00,0.0,0.0,0.0,1.0,0.0,360000.0,710096.2010136491
+147231,casa yucatan,"<p>casa en venta, en colonia las palmas, buena ubicación, en una sola planta, recién remodelada, cocina integral closets, minisplit en recamaras y area de sala comedor, cisterna, protecciones con cera electrificada y alarma.</p><p>otras características:</p><p>tipo de aire acondicionado: minisplit.<br></p>",Casa,Yucatan 3840 entre Colima y Queretaro,La Paz,Baja California Sur,10.0,2.0,2.0,1.0,78.0,250.0,3696.0,24.13043985,-110.31484455,2016-12-06 00:00:00,0.0,0.0,0.0,1.0,1.0,1280000.0,813473.3176583839
+295054,65510 colinas de san jose, casa en buenas condiciones de 3 recamarasse encuentra cerca de centros comerciales y a 5 minutos del centro de la ciudad.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,93.0,120.0,3867.0,,,2013-07-25 00:00:00,0.0,0.0,0.0,1.0,0.0,798000.0,985768.5120662751
+274783,casa la fuente,"en venta casa nueva en fraccionamiento la fuente
+
+caracteristicas:
+sala-comedor
+cocina integral
+3 recamaras
+recamara principal con baño
+2 baños completos
+cochera para 2 autostoda bardeada",Casa,,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,80.0,202.0,3679.0,,,2013-03-08 00:00:00,0.0,0.0,0.0,0.0,0.0,670000.0,836446.0102461027
+234953,casa jardines con terreno de 480 m2 20 x 24,"casa diana laura. 
+hermosa casa en una sola planta con un terreno enorme de 20 x 24, excelente para quien tiene mas de 6 carros, 3 recamaras, 2 1/2 baños, porton electrico en cochera, cocina integral, 2 cisternas de 2,500 lts., una con hidroneumatico y la otra con bomba, muy cerca de escuelas, parques y de tiendas. 
+caracteristicas: 
+3 recamaras 
+2 1/2 baños 
+cocina integral 
+sala 
+comedor 
+const. 160 m2 
+terreno 480 m2 (20 x 24) 
+2 cisternas de 2,500 lts con hidro. 
+pergola 
+hermosos jardines",Casa,Calle Educación Layca,La Paz,Baja California Sur,4.0,3.0,,2.0,160.0,,3654.0,24.082958,-110.3169133,2016-12-09 00:00:00,0.0,0.0,0.0,1.0,1.0,1200000.0,1755353.713754856
+129568,59481 villa bonita,casa de 1 planta en regulares condiciones de 3 recamaras se encuentra a 5 minutos del aeropuerto de la ciudad.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,73.0,140.0,253960.0,,,2013-09-07 00:00:00,0.0,0.0,0.0,1.0,0.0,525000.0,756041.5861890868
+129494,64071 lomas del valle,casa en regulares condiciones,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,73.0,150.0,4009.0,,,2013-06-08 00:00:00,0.0,0.0,0.0,0.0,0.0,593000.0,756041.5861890868
+41352,68193 monte real,"casa de 2 plantas en buenas condiciones de 3 recamarasse encuentra cerca de hospital, centros comerciales y a 10 minutos del centro.",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,,93.0,140.0,253921.0,,,2013-05-07 00:00:00,0.0,0.0,0.0,0.0,0.0,923000.0,985768.5120662751
+100179,58445 colinas de san jose ,<p>casa de 2 plantas en buenas condiciones de 3 recamaras con buena ubicación </p>tiene una excelente ubicación cerca del centro y centros comerciales.,Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,1.0,93.0,120.0,3867.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1008000.0,985768.5120662751
+269818,magnifica oportunidad col. progreso ,"casa consta de : sala comedor, cocina, baño, 2 recamaras, area de lavado, patio de servicios, cohera y jardin, bardeada y enrejada, excelntes condiciones. 
+documentos en regla aceptamos su credito. 
+precio de venta. $  
+apartala con $  
+con dinero en mano negociamos!",Casa,CALLE PERLA ,La Paz,Baja California Sur,5.0,2.0,1.0,1.0,50.0,,3653.0,,,2015-03-03 00:00:00,0.0,0.0,0.0,1.0,1.0,450000.0,491855.62143032026
+175659,casa daro,"<p>hermosa casa minimalista en uno de los desarrollos mas modernos, acabados fino, elegancia, exclusividad, pluvalia, seguridad, entorno, servicios cercanos, plazas comerciales, restaurantes, gasolineras, bancos, cines, usa tu credito infonavit, aceptamos cualquier tipo de credito....</p>",Casa,,Los Cabos,Baja California Sur,7.0,3.0,2.0,2.0,170.0,200.0,4000.0,22.906775648598035,-109.9462366104126,2013-11-21 00:00:00,0.0,0.0,0.0,0.0,0.0,1500000.0,1870217.1766934502
+179690,casa chametla,"casa en venta, ubicada en chametla, cuenta con los servicios de agua, luz, drenaje, cisterna de 5000 lts. cuenta con una confortable área de alberca y asador, 1 recamara  baño interior y 1/2 exterior, cochera para 4 autos.",Casa,,La Paz,Baja California Sur,0.0,1.0,,,55.0,,3750.0,,,2013-01-12 00:00:00,0.0,0.0,0.0,0.0,0.0,790000.0,549287.3528996173
+90088,"casa en los cabos, bcs, mex.","oportunidad el terreno por si solo lo vale, con casa con cocina, sala, comedor, 3 recamaras, 2 con closet, 1 baño completo y otro sin terminar, cuarto de lavado. ubicada a 1 cuadra de parroquia y a 6 cuadras de la carretera transpeninsular, cerca del super chadraui, en la colonia el zacatal, en san josé del cabo, bcs.",Casa,Joaquin Palacios Magro,Los Cabos,Baja California Sur,10.0,3.0,,1.0,120.0,,3869.0,23.1007288,-109.7147539,2015-05-22 00:00:00,0.0,0.0,0.0,0.0,0.0,1700000.0,1295899.8620004794
+299669,casa bahia,"bonita casa de dos recamaras un baño, cuenta con cochera techada, cocina integral patio trasero techado con asador con barra.<br /><br />",Casa,,La Paz,Baja California Sur,0.0,2.0,1.0,1.0,82.0,170.0,3600.0,,,2012-08-08 00:00:00,0.0,0.0,0.0,1.0,0.0,680000.0,859418.7028338215
+37247,residencia balandra,"preciosa residencia en 2 plantas, con 4 recamaras, sala, comedor, cocina integral, estudio, 3 baños completos, portón eléctrico para 2 autos techada con malla sombra, vitropiso, cuarto de lavado, preparación para jacuzzi, aljibe de 5000 lts, 2 minisplit 1 ton., 2 minisplit de 2 ton, timbre con interfon
+<br /><br />",Casa,,La Paz,Baja California Sur,0.0,4.0,2.0,3.0,140.0,152.0,3608.0,24.117007122097267,-110.31953171904905,2012-10-03 00:00:00,0.0,0.0,0.0,1.0,0.0,980000.0,1525626.7878776677
+42503,hermosa casa en el primer cuadro de la ciudad!,"<p>para ti que quieres vivir cerca de las principales plazas comerciales, dentro del primer cuadro de la ciudad, en zona tranquila con cómodos espacios y acabados de primera!
+</p><p>esa hermosa residencia esta ubicada a solo 2 minutos de ley las garzas, a 3 min de las principales plazas comerciales, colegios, escuelas, gym, justo en una zona tranquila con fácil acceso.
+</p><p>descripción:
+</p><p>-cuenta con 2 recamaras amplias con baño y closet cada una. además tiene posibilidad para ampliación a una tercera recamara a futuro. (cuenta con el espacio).
+</p><p>-la sala y comedor tienen cómodos espacios, con puerta corrediza hacia el jardín.
+</p><p>-la cocina cuenta con su cocina integral de madera halder, incluye la campana y parilla.
+</p><p>-1/2 baño para visitas.
+</p><p>-el cuarto de lavado esta independiente para su comodidad.
+</p><p>-la cochera tiene espacio hasta para 4 autos, ( quedan bajo techo 2)
+</p><p>-cuenta con portón eléctrico.
+</p><p>por lo que hace de esta casa que solo tenga que pensar en su decoración.
+</p><p>prácticamente todo lo indispensable ya lo tiene.
+</p><p>terreno: 150 m2 y construcción de 124 m2 
+</p><p>conozca esta propiedad y enamórese de ella.
+</p><p>para más información y citas: </p>",Casa,Acceso,La Paz,Baja California Sur,0.0,2.0,,2.0,124.0,150.0,3615.0,,,2016-08-01 00:00:00,0.0,0.0,0.0,1.0,0.0,1600000.0,1341845.247175917
+176651,62695 casa blanca,"<p>casa en muy buena ubicacon, 3 recamaras, area de tv, terraza, cisterna</p>",Casa,,Los Cabos,Baja California Sur,0.0,3.0,2.0,2.0,138.0,200.0,4000.0,,,2013-09-23 00:00:00,0.0,0.0,0.0,0.0,0.0,1396000.0,1502654.0952899489
+34076,casa castañas,"<p>casa castañas
+</p><p>
+</p><p>
+</p><p>caracteristicas:
+</p><p>
+</p><p>
+</p><p>una planta
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>-casa de tres recamaras
+</p><p>
+</p><p>
+</p><p>-recamara principal con closet
+</p><p>
+</p><p>
+</p><p>-dos baños completos
+</p><p>
+</p><p>
+</p><p>-cocina integral con barra de azulejo
+</p><p>
+</p><p>
+</p><p>-sala comedor
+</p><p>
+</p><p>
+</p><p>-area de lavado
+</p><p>
+</p><p>
+</p><p>-boiler
+</p><p>
+</p><p>
+</p><p>-pasillo lateral
+</p><p>
+</p><p>
+</p><p>-porton electrico
+</p><p>
+</p><p>
+</p><p>-cochera para un auto
+</p><p>
+</p><p>
+</p><p>-patio trasero
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p>
+</p><p></p>",Casa,,La Paz,Baja California Sur,25.0,3.0,1.0,2.0,112.0,140.0,3600.0,24.118209906988287,-110.32460376620293,2013-10-29 00:00:00,0.0,0.0,0.0,0.0,0.0,795000.0,1204009.091649604
+98998,64895 villas de cortes,casa de 1 planta en regulares condiciones de 2 recamarasse encuentra cerca de centros comerciales,Casa,,Los Cabos,Baja California Sur,0.0,2.0,1.0,1.0,45.0,109.0,,,,2013-07-07 00:00:00,0.0,0.0,0.0,0.0,0.0,371000.0,434423.88996102323
+263022,casas nuevas en venta. centricas 3 recamaras 145m2,"<p>caracter&iacute;sticas:&nbsp; 145m2 de construcci&oacute;n</p>
+<p>-2 plantas&nbsp; - 3 recamaras con closet</p>
+<p>-2 ba&ntilde;os completos (uno en recamara ppal.)</p>
+<p>-sala&nbsp; &ndash;comedor&nbsp; &ndash;cocina integral&nbsp; -antecomedor</p>
+<p>-cuarto de servicio &ndash;medio ba&ntilde;o&nbsp; -cochera 2 autos</p>
+<p>-patio trasero&nbsp; -terreno de&nbsp; 225 m2</p>
+<p>&nbsp;</p>
+<p>ubicaci&oacute;n: sonora. col. rinconada, la paz, b.c.s.</p>
+<p>zona tranquila, calle pavimentada, cerca de sitios de inter&eacute;s, gimnasio de usos m&uacute;ltiples, escuelas, cbtis 230.&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",Casa,calle sonora e/ 20 de nov y rosaura zapata,La Paz,Baja California Sur,0.0,3.0,2.0,2.0,145.0,225.0,3563.0,24.130459731977137,-110.29948383112185,2014-02-06 00:00:00,0.0,0.0,0.0,1.0,0.0,1350000.0,1583058.5193469648
+25293,if-105 montereal,"<p>casa de 1 planta en buenas condiciones de 2 recamaras</p>se encuentra cerca de hospital, centro comercial y a 10 minutos del centro de la ciudad. ",Casa,,Los Cabos,Baja California Sur,0.0,2.0,2.0,1.0,60.0,140.0,253902.0,23.05114490846353,-109.7248363494873,2013-10-10 00:00:00,0.0,0.0,0.0,0.0,0.0,572000.0,606719.0843689144
+249458,casa en venta fraccionamiento misiones,"<p>casa en renta  o venta  bien ubicada en venta 2 recamaras, sala, cocina, baño, área de servicio,patio trasero, cochera para dos autos acepta crédito infonavit e hippotecario</p>casa en renta o venta bonita zona exclusiva y muy tranquila",Casa,,La Paz,Baja California Sur,5.0,2.0,2.0,1.0,55.0,140.0,3646.0,24.089370915278355,-110.31998634338379,2013-10-25 00:00:00,0.0,0.0,0.0,1.0,0.0,430000.0,549287.3528996173
